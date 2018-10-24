@@ -1,0 +1,139 @@
+[
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Indirizzo using expression grel:replace(value, \"n.\", \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Indirizzo",
+    "expression": "grel:replace(value, \"n.\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Indirizzo using expression grel:replace(value, \"N.\", \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Indirizzo",
+    "expression": "grel:replace(value, \"N.\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Indirizzo using expression grel:replace(value, \"\\'\", \"\\\\'\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": false,
+          "query": ", ",
+          "name": "Indirizzo",
+          "type": "text",
+          "columnName": "Indirizzo"
+        }
+      ]
+    },
+    "columnName": "Indirizzo",
+    "expression": "grel:replace(value, \"\\'\", \"\\\\'\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Indirizzo using expression grel:replace(value, \",\", \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": false,
+          "query": ", ",
+          "name": "Indirizzo",
+          "type": "text",
+          "columnName": "Indirizzo"
+        }
+      ]
+    },
+    "columnName": "Indirizzo",
+    "expression": "grel:replace(value, \",\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Indirizzo using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Indirizzo",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Indirizzo using expression value.replace(/\\s+/,' ')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Indirizzo",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Indirizzo using expression grel:replace(value, \"\\\"\", \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Indirizzo",
+    "expression": "grel:replace(value, \"\\\"\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Comune using expression grel:replace(value, \"\\'\", \"\\\\'\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Comune",
+    "expression": "grel:replace(value, \"\\'\", \"\\\\'\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Comune using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Comune",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]

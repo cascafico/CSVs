@@ -1,99 +1,999 @@
-street,postcode,city,lat,lng
-Piazza Caduti,35031,Abano Terme,,
-Via Matteotti,35031,Abano Terme,,
-Via Monteortone,35031,Abano Terme,45.3547085,11.7729946
-Via Pillon,35031,Abano Terme,45.3585191,11.7710907
-Via San Giovanni Bosco,35031,Abano Terme,45.3584155,11.7830534
-Via Dell'Abbazia,26834,Abbadia Cerreto,,
-Via Nazionale,23821,Abbadia Lariana,45.894523,9.3381649
-Via Case Nuove,53021,Abbadia San Salvatore,42.8792469,11.6723293
-Via Hamman,53021,Abbadia San Salvatore,,
-Viale Roma,53021,Abbadia San Salvatore,42.8803953,11.6775601
-Strada Statale 131 Km 124,09071,Abbasanta,,
-Via Garibaldi N. 144,09071,Abbasanta,,
-Via Grazia Deledda,09071,Abbasanta,40.1279643,8.81883
-Via Roma,65020,Abbateggio,41.8985953,12.6779742
-Piazza Guglielmo Marconi,20081,Abbiategrasso,45.3983288,8.916326
-Via Cristoforo Colombo 10 Abbiategrasso,20081,Abbiategrasso,45.3972349,8.9238468
-Viale Carlo Cattaneo 45,20081,Abbiategrasso,45.3956204,8.9172822
-Via Legnano,20081,Abbiategrasso,45.4099917,8.9105217
-Via Luigi Einaudi 3,20081,Abbiategrasso,45.3946752,8.9088201
-Via Palestro 41 Abbiategrasso,20081,Abbiategrasso,45.3942306,8.9157402
-Via Stignani,20081,Abbiategrasso,,
-Via Passarelli,85010,Abriola,,
-Piazza Libertà 34,97011,Acate,37.0266362,14.4935937513391
-Via Duca D'aosta,97011,Acate,,
-Via Roma,71021,Accadia,41.1539624,15.3254624
-Via Roma 24,71021,Accadia,41.1539624,15.3254624
-Borgo Villa 1,12021,Acceglio,,
-Località Palazzo Snc,75011,Accettura,,
-Via Roma,75011,Accettura,,
-Via Roma N.7,67020,Acciano,,
-Via Salvator Tommasi,02011,Accumoli,,
-Viale I Maggio,85011,Acerenza,,
-Via Vittorio Emanuele III,85011,Acerenza,40.7951917,15.9403955
-Via Rimembranza,84042,Acerno,,
-Piazza Falcone e Borsellino,80011,Acerra,40.94046985,14.37070775
-Via Dei Mille,80011,Acerra,40.9395832,14.371961
-Via Diaz,80011,Acerra,,
-Via Grazia Deledda,80011,Acerra,40.94976,14.3561691
-Viale Della Democrazia,80011,Acerra,40.9484479,14.3726949
-Via Madonnelle,80011,Acerra,,
-Via Spiniello snc,80011,Acerra,,
-Via Stendardo 90/92,80011,Acerra,40.9502324,14.3678004
-Via U. Nobile,80011,Acerra,,
-Piazza Della Regione,95020,Aci Bonaccorsi,37.59784515,15.1082679511276
-VIA CESARE BATTISTI,95021,Aci Castello,37.5521144,15.1463466
-Via Dante,95021,Aci Castello,37.5540102,15.1473928
-Via Dusmet 7/b,95021,Aci Castello,,
-Via Dante Alighieri 6,95022,Aci Catena,,
-Via Dr. Chiarenza,95022,Aci Catena,,
-Via F. Strano 79,95022,Aci Catena,,
-Via Vittorio Emanuele,95022,Aci Catena,,
-Via Arcidiacono Snc,95024,Acireale,,
-Via Collegio Pennisi,95024,Acireale,37.6108482,15.1603435
-Via Degli Ulivi,95024,Acireale,37.6296769,15.1611162
-Via Del Castello 3 (S.G. Bosco),95024,Acireale,,
-Via Delle Terme,95024,Acireale,37.5991397,15.1667373
-Via Dott. Alfio Fichera 3,95024,Acireale,,
-Via Firenze,95024,Acireale,37.6036497,15.1548066
-Via Galvani,95024,Acireale,,
-Via Guicciardini sn,95024,Acireale,,
-Via Lancaster,95024,Acireale,37.6118438,15.1663358
-Via L. Ariosto,95024,Acireale,,
-Viale Regina Margherita,95024,Acireale,37.619176,15.1694844
-Via Lorenzo Maddem 8,95024,Acireale,37.607604,15.1617552
-Via Mancini 11,95024,Acireale,,
-Via Marchese di Sangiuliano 51,95024,Acireale,37.6167976,15.1630781
-Via Mario Arcidiacono 2,95024,Acireale,37.6178044,15.1550504
-Via Monetario Floristella 4,95024,Acireale,37.6270336,15.1643049
-Via Trapani N.4,95024,Acireale,37.6255087,15.1647464
-Via Regina Margherita,95025,Aci Sant'Antonio,,
-Via Tenente Nicola Maugeri 4,95025,Aci Sant'Antonio,,
-Via Veronica 63,95025,Aci Sant'Antonio,,
-Piazza Caduti,03040,Acquafondata,,
-Via San Francesco,87010,Acquaformosa,,
-Via Della Repubblica,25010,Acquafredda,45.3086166,10.4160717
-Piazza Mattei,61041,Acqualagna,,
-Via Kennedy,61041,Acqualagna,,
-Via Stazione 128,26020,Acquanegra Cremonese,,
-Piazza XXV Aprile,46011,Acquanegra sul Chiese,,
-Piazza G.Fabrizio,01021,Acquapendente,,
-Via Del Carmine,01021,Acquapendente,,
-Via G. Carducci s.n.c.,01021,Acquapendente,,
-P.zza Municipio,87020,Acquappesa,,
-P.zza Municipio,73040,Acquarica del Capo,,
-Via E. De Nicola N. 50,73040,Acquarica Del Capo,,
-Piazza G. Marcioni,89832,Acquaro,,
-Via Provinciale 153/155,89832,Acquaro,,
-Piazza Xx Settembre,63095,Acquasanta Terme,,
-Piazza XX Settembre,63095,Acquasanta Terme,,
-Corso Umberto Primo,05021,Acquasparta,42.6905655,12.5462326
-Via Dante Alghieri 12,05021,Acquasparta,,
-Piazza Nicola Neri,86030,Acquaviva Collecroce,,
-Atrio Palazzo di Citta,70021,Acquaviva delle Fonti,,
-Piazza Di Vagno,70021,Acquaviva delle Fonti,,
-Via Carmelo Colamonico,70021,Acquaviva delle Fonti,,
-Via F.lli Caporizzi,70021,Acquaviva delle Fonti,,
-Via Primocielo C.N.,70021,Acquaviva delle Fonti,,
-Via Prol.To Via Roma,70021,Acquaviva delle Fonti,,
+Comune,Cap,Indirizzo,lat,lng
+Perugia,06127,Via Guerriero Guerra 21,43.105741,12.366753
+Terni,05100,Viale Donato Bramante 37,42.56,12.65
+Viterbo,01100,Via Enrico Fermi 15,42.42,12.11
+Tivoli,00019,Via Acquaregna 1/15,41.956973,12.804956
+Reggio Calabria,89128,Via Sant\'Anna II Tronco 18/p,,
+Cagliari,09134,Piazzale A. Ricchi 1,39.24,9.13
+Pordenone,33170,Via Vecchia Ceramica 1,45.956761,12.654848
+Vibo Valentia,89900,Via Dante Alighieri,38.675764,16.095515
+Arce,03032,Via Borgo Murata 34/b,-9.137776,-70.705225
+Novara,28100,Viale Roma 7,45.441292,8.62346
+Belluno,32100,Via Feltre 57,46.13786,12.205594
+Napoli,80145,Via Comunale del Principe 13/a,40.882887,14.229869
+Sassari,07100,Via Enrico Costa 57 (Piazza Fiume),40.722718,8.563577
+Teramo,64100,Circ.ne Ragusa 1,42.66,13.7
+Bascape\',27010,Piazza Della Repubblica 2,,
+Treviso,31100,via Sant\'Ambrogio di Fiera 37,,
+Torino,10123,Via Accademia Albertina 6,45.063884,7.687213
+Fossano,12045,Via Roma 91,44.549495,7.725031
+Avellino,83100,Via Seminario - Casa Della Cultura V.Hugo,40.996168,15.140304
+Gela,93012,Piazza San Francesco,37.065599,14.250419
+Caltanissetta,93100,Via S. D'acquisto,,
+Castellammare di Stabia,80053,Piazza Matteotti 35,40.69,14.48
+Ischia,80077,"Via Iasolino,7",40.743218,13.939467
+Pozzuoli,80078,Largo Matteotti 1A,40.87,14.09
+Vico Equense,80069,Via Filangieri 100,40.662542,14.423636
+Capri,80073,Via Gradoni Sopramonte 10/A,-17.974767,22.962775
+Pompei,80045,Via Sacra 1,40.748689,14.500391
+Acireale,95024,Via Delle Terme 47,37.601673,15.166724
+Gemona Del Friuli,33013,Piazzetta Portuzza 2,46.276305,13.140651
+Napoli,80143,Centro Direzionale Is. C5,64.997588,-18.605467
+Roma,00147,Via Cristoforo Colombo 163,41.865563,12.497462
+Noci,70015,Via Repubblica 2 - Noci,39.720423,8.829909
+Ponzone,15010,Via Negri Di Sanfront 12,44.588721,8.458999
+Torino,10123,Via Maria Vittoria 19,45.067115,7.686611
+Tortoreto,64018,Via Napoli 4,42.81,13.94
+Bolzano,39100,Via Josef Mayr Nusser 62d,46.492523,11.362032
+Gorizia,34170,Via Vittorio Veneto 174,45.936054,13.629059
+Trieste,34128,Via Giovanni Sai 1-3,45.657299,13.800697
+Napoli,80132,CENTRO DIREZIONALE IS. C/5,40.729165,14.151008
+Capaccio,84047,Via Magna Grecia 887,40.422897,15.006509
+Macerata,62100,Via Santa Maria Della Porta 65,43.179245,13.190286
+Udine,33100,Via Pozzuolo 330,46.04819,13.22307
+Benevento,82100,Rocca Dei Rettori - p.zza Castello,41.131194,14.782496
+Ancona,60127,Via Del Commercio 27,43.596238,13.50554
+Sorrento,80067,Via Luigi De Maio 35,40.627519,14.374386
+Termoli,86039,Piazza Melchiorre Bega 42,35.976233,-110.501611
+Amalfi,84011,Corso Delle Repubbliche Marinare 27,40.634038,14.603654
+Cava de\' Tirreni,84013,Via della Repubblica 11/13,,
+Maiori,84010,Corso Reginna 73,40.651092,14.642569
+Positano,84017,Via Regina Giovanna 13,40.63,14.49
+Ravello,84010,Via Roma 18 Bis,40.650183,14.611612
+Salerno,84125,Via Velia 15,40.68,14.75
+Torino,10135,Via Pio VII 9,45.03,7.64
+Messina,98124,Via G. La Farina 336,38.170451,15.545841
+Pesaro,61121,Via Borgomozzo 10/C,43.90764,12.910693
+Jesi,60035,Via Gallodoro 67/69,43.517768,13.242821
+Venezia,30172,Via G. Pepe 102 - Mestre,45.49,12.24
+Macerata,62100,Via Domenico Annibali 31/L,43.278526,13.490901
+Palermo,90133,Via Roma 19,38.111804,13.365946
+Sant\'Elpidio a Mare,63811,Via Porta Romana 142,,
+Bedollo,38043,Via G. Verdi 35,46.167863,11.306206
+Bologna,40126,Via Belle Arti 54,44.497761,11.352664
+Bari,70125,Via Re David 189/c,41.109089,16.876982
+Catania,95125,Via Del Bosco 34/a,37.529936,15.078632
+Carrara,54033,Via Roma 1,44.04,10.04
+Catanzaro,88100,Via Tommaso Campanella 182,38.917904,16.567563
+Firenze,50122,Via Ricasoli 66,43.777475,11.259074
+Frosinone,03100,Viale Marconi Snc,41.65,13.34
+Foggia,71122,Corso Garibaldi 35,41.328658,15.703759
+L\'Aquila,67100,Via Leonardo Da Vinci,,
+Macerata,62100,Piazza Vittorio Veneto 5,43.299075,13.451214
+Napoli,80138,Via Vincenzo Bellini 36,40.850007,14.25229
+Palermo,90134,Via Papireto 20,38.115819,13.352723
+Roma,00186,Via Di Ripetta 222,41.907534,12.475869
+Urbino,61029,Via Dei Maceri 2,43.727741,12.634045
+Venezia,30123,Dorsoduro 423,45.43,12.33
+Sassari,07100,Via Duca Degli Abruzzi 4,40.716052,8.567684
+Reggio Calabria,89123,Via Xxv Luglio 10,38.120395,15.655403
+Bedollo,38043,Via G. Verdi 35,46.167863,11.306206
+Potenza,85100,Corso Umberto I 28,40.637223,15.801721
+Casal Velino,84040,Via Napoli 67,40.209633,15.117002
+Caserta,81100,Viale Lincoln Ex Area Saint Gobain,41.065032,14.335849
+Firenze,50122,Via Dei Servi 15,43.774017,11.257779
+Venezia,30121,Cannaregio 4314,45.44,12.32
+Campobasso,86100,Contrada Colle Delle Api,41.577719,14.674354
+Venezia,30121,Cannaregio 4314,45.44,12.32
+Caserta,81100,Viale Lincoln Ex Zona Saint Gobain,41.065032,14.335849
+Ascoli Piceno,63100,Viale Indipendenza 2,42.854109,13.586806
+Roma,00185,Via Monzambano 10,41.903821,12.507239
+Lasa,39023,Cengles 15,46.61299,10.638503
+Campione D\'italia,22060,Via Fusina 16,,
+Laveno-Mombello,21014,Via Martiri Della Liberta 11,45.905615,8.621944
+Menaggio,22017,Piazzale Vittorio Emanuele 4,46.02,9.24
+Trento,38122,Piazza Vittoria 5,46.067366,11.12363
+Lucca,55100,Via Vittorio Veneto 1,43.842622,10.502215
+Napoli,80138,Piazzetta G.fortunato 10,40.85,14.26
+Napoli,80143,Via G. Porzio - Centro Direzionale - Isola E3 - piani 12 e 16,45.563679,13.649214
+Nuoro,08100,Via Straullu 35,40.32,9.33
+Brescia,25121,Piazza Paolo VI 29,45.539116,10.221476
+Bergamo,24129,Via Salvecchio 19,45.70408,9.659798
+Sesto,39030,Via Dolomiti 9,46.7,11.93
+Curon Venosta,39027,Paese,46.803987,10.555329
+Malles Venosta,39024,Matsch Mazia,46.7,10.53
+Naturno,39025,Via Municipio 1,46.639808,11.015001
+Predoi,39030,Kirchdorf 84 A,47.038499,12.102867
+Badia,39036,Strada Pedraces 40,46.610675,11.893421
+Chienes,39030,Via Peuren 2 A,38.50194,43.41667
+Naturno,39025,Stava 27,46.639808,11.015001
+Naturno,39025,Tabla 17,46.639808,11.015001
+Firenze,50141,Via di Castello 46,43.819699,11.228043
+Roma,00186,Piazza Capranica 78,41.899851,12.477593
+Napoli,80143,Via G. Porzio Centro Direzionale Di Napoli Isola C3,40.86,14.28
+Pescara,65125,Via Maestri Del Lavoro D'italia 81,,
+Tolentino,62029,Piazza V. Porcelli 3,43.22,13.31
+Spadafora,98048,"Via Vittorio Emanuele II,.44",38.222137,15.374839
+Ancona,60122,Corso Stamira 80,43.616858,13.514545
+Agrigento,92100,Via Matteo Cimarra 38,37.322351,13.580766
+Asti,14100,Piazza Medici 21/22,44.825854,8.204574
+Avellino,83100,Via Baccanico N 34,40.918493,14.781354
+Acireale,95024,"Viale Regina Margherita,25",37.617331,15.168764
+Benevento,82100,Via Salvator Rosa 24 - 26,13.736897,-88.866511
+Lecce,73100,Via G. Libertini 3,40.35,18.17
+Udine,33100,Viale Europa Unita 141,46.055672,13.239106
+Monreale,90046,Via Altofonte 62a,38.060245,13.319127
+Brindisi,72100,Via Dalmazia 31 B,40.630139,17.940082
+Brescia,25134,Via Enzo Ferrari 4-6,45.514535,10.251609
+Cremona,26100,Via Xx Settembre 19,45.14,10.02
+Catanzaro,88100,Viale Dei Normanni 99,38.903524,16.598637
+Caserta,81100,Via Nazario Sauro 10,41.069468,14.330062
+Catanzaro,88100,Via Vincenzo de Grazia 37,38.907914,16.590027
+Chieti,66100,Piazza Garibaldi 3,42.37,14.14
+Catania,95129,Via Sabotino 3,37.512392,15.099298
+Campobasso,86100,Via Cavour 14,41.56,14.66
+Ceva,12073,Via Case Rosse 1,44.376384,8.045256
+Bologna,40122,Piazza Della Resistenza 4,44.499641,11.329546
+Forli\',47121,Viale Giacomo Matteotti 44,,
+Enna,94100,Via Roma 200,37.566957,14.275175
+Trento,38121,Via del Maso Smalz 3,46.052902,11.115066
+Foggia,71122,Via De Petra 107-109,41.44782,15.548728
+Gorizia,34170,Via Trieste 171,45.921694,13.613263
+Roma,00185,Via Marsala 8,41.903218,12.501188
+Belluno,32100,Piazza Dei Martiri 46,46.138894,12.215194
+Bolzano,39100,Corso Italia 19/a,46.499103,11.33992
+Cagliari,09100,Via Palomba 64,39.217468,9.128658
+Caltanissetta,93100,Via Pietro Leone 2,37.49,14.05
+Cuneo,12100,Piazza Europa 5,44.383575,7.542213
+Ivrea,10015,Via Cesare Pavese 8,45.458557,7.881925
+Livorno,57126,"Via Giuseppe Verdi,32",43.546297,10.310252
+Macerata,62100,Via Roma 139,43.296793,13.438206
+Nuoro,08100,Via Sicilia 39,40.320816,9.324989
+Oristano,09170,Via Cagliari 114,39.909405,8.588382
+Sassari,07100,Viale Adua 32,40.718798,8.577035
+Castel San Pietro Terme,40024,Via Matteotti 77,44.4,11.59
+Bari,70126,Via Ottavio Serena 26,41.117691,16.889828
+Bergamo,24121,Via Angelo Maj 16,45.694375,9.677659
+Biella,13900,Viale Matteotti 11,45.564839,8.059067
+Grosseto,58100,Via Mazzini 105,42.76,11.11
+Isernia,86170,Viale Dei Pentri 40,41.602082,14.241887
+Lecco,23900,Corso Matteotti 5B,45.857448,9.393594
+Padova,35131,Via Scrovegni 19,45.41,11.89
+Pordenone,33170,Viale Dante 40,45.95801,12.664596
+Crotone,88900,Piazza Ciliberto 24 Pal Ruggiero A 2,39.071599,17.126878
+Reggio Calabria,89123,Via Vittorio Veneto 60,38.116364,15.651619
+L\'Aquila,67100,Via Donadei 3,,
+Lecce,73100,Via Giuseppe Candido 2,40.350102,18.177365
+Napoli,80121,Via Domenico Morelli 75,40.832346,14.243503
+Pavia,27100,Via Bernardino Da Feltre 4,45.186261,9.148246
+La Spezia,19124,Via Costantini 18,44.108853,9.828202
+Modena,41121,Viale Verdi 7,44.642744,10.935344
+Massa,54100,Via Aurelia Ovest 193,44.039224,10.118369
+Piacenza,29121,Via G. Taverna 37,45.05,9.69
+Grottammare,63066,Contrada Granaro 6,42.98616,13.838827
+Matera,75100,"Viale Delle Nazioni Unite,47",40.67,16.61
+Milano,20121,Corso Venezia 43,45.47062,9.201079
+Messina,98123,Via Luciano Manara Is. 125,38.183853,15.552811
+Mantova,46100,Piazza 80 Fanteria 13,45.156555,10.789828
+Napoli,80125,Piazzale V. Tecchio 49/D,40.83,14.19
+Novara,28100,Via Rosmini 36,45.441319,8.616388
+Roma,00135,P.za Santa Maria Della Pieta\' 5 - Pad. 90,,
+Pisa,56124,Via Cisanello 168,43.707652,10.432674
+Pistoia,51100,Via Ricciardetto 2,43.936039,10.913632
+Prato,59100,Via F. Ferrucci 195/t,43.88,11.1
+Cremona,26100,Localita San Felice,45.14,10.02
+Potenza,85100,Piazza Marconi 385,40.65,15.79
+Piacenza,29121,Via Chiapponi 37,45.049949,9.695687
+Palermo,90144,Viale Delle Alpi 6,38.138726,13.337445
+Pescara,65121,Via Del Circuito 59,42.464574,14.205414
+Perugia,06132,Via Corcianese 218/H,43.05,12.41
+Pavia,27100,Piazza Guicciardi 5,45.187486,9.154953
+Palestrina,00036,Via Gran Sasso 42,41.84,12.89
+Reggio Calabria,89122,Via De Nava 43,38.12,15.65
+Reggio Emilia,42123,Viale Magenta 1/d,44.698866,10.623131
+Fie\' allo Sciliar,39050,Via Kartatscher Nr. 2,,
+San Pietro al Natisone,33049,Via Del Klancic 2,46.129536,13.487617
+Rieti,02100,Largo Florenzo Spadoni 7,42.4,12.86
+Ragusa,97100,Via Ugo La Malfa 49,36.927412,14.714624
+Roma,00147,Via Cristoforo Colombo 261,41.85844,12.496603
+Rovigo,45100,Piazza XX Settembre 9,45.07,11.79
+Siena,53100,Via Campansi 18,43.325519,11.32823
+Lamezia Terme,88046,Via Giorgio Pinna 29,38.915701,16.255931
+Gallarate,21013,Via Carlo Cattaneo 9,45.661146,8.798665
+Sant\'Ambrogio di Torino,10057,Via Delle Chiuse 21,,
+Duino-aurisina,34011,Aurisina Cave 25 C,45.756161,13.658729
+Civitanova Marche,62012,Via Del Casone 30,43.31,13.73
+Arezzo,52100,Via Margaritone 6,43.460534,11.879274
+Ferrara,44121,Via Ripagrande 5,44.833654,11.617214
+Milano,20124,Via Pola 12,45.489061,9.193055
+Arzignano,36071,Via Ferraretta 20,45.52,11.34
+Fiorenzuola D\'arda,29017,Via Pallavicino 8,,
+Salerno,84123,Via G. Vicinanza 11,40.675723,14.771323
+Siena,53100,Viale Vittorio Veneto 47,43.32329,11.322317
+Sondrio,23100,Via Mazzini 39/A,46.16747,9.868954
+Siracusa,96100,Via Foro Siracusano 27,37.067073,15.286121
+Trieste,34133,Via Fabio Severo 18,45.656255,13.78092
+Taranto,74121,Via Giustino Fortunato Snc,40.384095,17.36232
+Brescia,25121,Piazza della Loggia 6,45.539616,10.220545
+Torino,10134,Piazzale San Gabriele di Gorizia 210,45.039622,7.652932
+Reggio Emilia,42124,Viale Trento Trieste 13,44.70334,10.624868
+Trento,38122,Via Brennero 98,46.07,11.12
+Teramo,64100,Corso Cerulli 81,42.658378,13.705312
+Terni,05100,Viale Cesare Battisti 121,42.568219,12.641194
+Udine,33100,Viale Tricesimo 46,46.083388,13.233622
+Venezia,30173,Via Ca' Marcello 67/d Mestre,,
+Vercelli,13100,Corso Fiume 73,45.33,8.42
+Ortisei,39046,Via Roma 2,46.576224,11.671723
+Vibo Valentia,89900,Via Dante Alighieri,38.675764,16.095515
+Vicenza,36100,Via E. Fermi 233,45.55,11.55
+Verona,37122,Via Della Valverde 34,45.43489,10.987478
+Viterbo,01100,Via Adolfo Marini 16,42.42417,12.103448
+Alessandria,15121,Corso Felice Cavallotti 19,44.912742,8.608039
+Ascoli Piceno,63100,Viale Indipendenza 38/A,42.854289,13.592593
+Arezzo,52100,Viale Signorelli 24A,43.460127,11.885514
+Milano,20121,Via Brera 28,45.472057,9.187604
+Bologna,40133,Via Emilia Ponente 24/O,44.504407,11.312727
+Como,22100,Viale M. Masia 79,45.81,9.08
+Cosenza,87100,Via Aldo Moro 27,39.194745,16.319752
+Forli\',47122,Via C. Monteverdi 1,,
+Ferrara,44122,Via Padova 17,44.848152,11.600636
+Firenze,50121,Viale Amendola 36,43.769008,11.271161
+Frosinone,03100,Via Firenze 57,41.635235,13.3501
+Genova,16129,Viale Brigate Partigiane 1/A,44.399169,8.9451
+Imperia,18100,Via Tommaso Schiva 11/19,43.888683,8.038477
+Latina,04100,Via Aurelio Saffi 23,41.469864,12.899579
+Lucca,55100,Via Catalani 59,43.84,10.5
+Parma,43121,B.go Girolamo Cantelli 15/A,44.797476,10.326102
+Pesaro,61120,Via San Francesco 44,43.768664,12.935354
+Ravenna,48121,Piazza Goffredo Mameli 4,44.419195,12.204829
+Rimini,47921,Via Roma 66,44.061812,12.574577
+Trapani,91100,Via Virgilio 115,38.01639,12.524434
+Treviso,31100,Viale Giuseppe Verdi 23/C,45.663127,12.230107
+Varese,21100,Viale Milano 25,45.820355,8.832593
+Domodossola,28845,Regione Nosere 4,46.12,8.29
+Aosta,11100,Regione Borgnalle 10H,45.742038,7.347508
+Novara,28100,Piazza Matteotti 1,45.446054,8.622854
+Arzano,80022,Via Napoli 232,40.906606,14.265332
+Salerno,84131,Viale Giuseppe Verdi 23 L,40.653653,14.812093
+L\'Aquila,67100,Via XX Settembre 46/52,,
+Potenza,85100,Via Del Gallitello 56,40.634534,15.786605
+Frosinone,03100,Piazza Gramsci 13,41.65,13.34
+Conegliano,31015,Viale Veneto 46,45.88935,12.305785
+Valenzano,70010,Strada Prov. per Casamassima Km 3 C/o Innovapuglia Spa,,
+Parma,43121,Strada Garibaldi 75,44.808441,10.329815
+Carpineti,42033,Via Poiago 72,44.465819,10.535485
+Bagnacavallo,48012,Via Mazzini 3,44.415602,11.976789
+San Salvo,66050,"Piazza San Vitale,1",42.045084,14.731119
+Busto Arsizio,21052,Via Libia 2,45.61618,8.855745
+Voghera,27058,Piazza San Bovo 37,44.993914,9.012219
+Vallarsa,38060,Fraz. Corte 1,45.91,11.03
+Firenze,50122,Vicolo De\' Malespini 1,,
+Bari,70125,Via Giustino Fortunato 4/G,41.10706,16.880371
+Napoli,80132,Via Cesario Console 3,40.834147,14.250915
+Livo,38020,Via G. Marconi 54,43.053476,10.593451
+Villanova d\'Asti,14019,Via Carlo V 53,,
+Faenza,48018,Piazza San Rocco 2,44.285586,11.876799
+Chieti,66100,"Viale Unita' D'Italia,32/A",,
+Napoli,80133,Via Alcide De Gasperi 45,40.841956,14.255874
+Perugia,06123,Via Benedetta 14,43.117655,12.386964
+Genova,16121,Via Xx Settembre 15,44.405356,8.943627
+Roma,00196,Via Cesare Beccaria 35/A,41.912734,12.474382
+Milano,20121,Corso di Porta Vittoria 27,45.462367,9.202262
+Bologna,40127,Viale Aldo Moro 64,44.507511,11.364011
+Dronero,12025,Via Val Maira 19,44.46,7.37
+Roma,00154,Via Ostiense 131l,41.865171,12.479375
+Palermo,90123,Via Tiro a Segno 5,38.110505,13.376064
+Codroipo,33033,Piazzetta G.Marconi 3,45.961611,12.97866
+Lana,39011,Via Ausserdorfer 3,38.50194,43.41667
+Ultimo,39016,S. Valburga 223/a,46.543123,10.995447
+Sassuolo,41049,Via Bologna,44.539251,10.7708
+Feltre,32032,Via Negrelli 7,46.022283,11.904187
+Gorgonzola,20064,Piazza Giovanni Xxiii 12,45.530492,9.397685
+Catanzaro,88100,Via Vinicio Cortese 2,38.917321,16.584817
+Afragola,80021,Piazza Municipio 1,40.922998,14.310336
+Perugia,06128,Via Pietro Tuzi 7,43.09282,12.367015
+Cagliari,09123,Viale Luigi Merello 86,39.227091,9.109588
+Milano,20157,Via G.b. Grassi 74,54.237933,-2.36967
+Frosinone,03100,Via Dei Volsci 29,41.65,13.34
+Roma,00198,Piazza Verdi 6/A,41.918984,12.495529
+Napoli,80143,Centro Direzionale Isola B5,40.86,14.28
+Roma,00187,Via Barberini 38,41.904535,12.491487
+Roma,00143,Via Mario Carucci 71,41.7981,12.482617
+Roma,00145,Via Cristoforo Colombo 426 C/D,41.853787,12.489468
+Roma,00185,Via Palestro 81,41.903809,12.505627
+Roma,00185,Via G. B. Morgagni 30H,41.9,12.5
+Roma,00187,Via Puglie 23,41.909542,12.495532
+Milano,20123,Via Dogana 4,45.463282,9.188521
+Giugliano in Campania,80014,Via Bartolo Longo 20,40.936915,14.201446
+Roma,00144,Via Liszt 21,41.833985,12.467203
+Caserta,81100,Via Gallicola 52,41.077645,14.341501
+Roma,00196,Via Di Villa Ruffo 6,41.912873,12.476662
+Firenze,50134,Via Vittorio Emanuele 62-64,43.79,11.25
+Fabriano,60044,Piazza Del Comune 1,43.34,12.9
+Pagani,84016,Via Pittoni 1,40.75,14.62
+Genova,16121,Via G. D\'annunzio 27,,
+Peschiera del Garda,37019,Via 11 Settembre 24,45.42955,10.690155
+Gravina di Catania,95030,Via Roma 197,37.562537,15.069455
+Gioia Tauro,89013,Contrada Lamia,38.442693,15.907841
+Torino,10125,Via Amedeo Avogadro 30,45.070859,7.672548
+Arzano,80022,Piazza Marconi,40.91,14.26
+Latina,04100,Piazza Del Popolo 1,41.467562,12.903769
+Calliano,14031,Via Roma 75,45.006989,8.256192
+Busca,12022,Via Monastero 180,44.480806,7.449847
+Cetona,53040,Via San Sebastiano 16,42.96627,11.897491
+Roma,00187,Via San Nicola Da Tolentino 45,41.904772,12.490769
+Torri di Quartesolo,36040,Via Aldo Moro 21,45.518214,11.613629
+Arzano,80022,Via Salvemini snc,40.91,14.26
+Teramo,64100,Via M. Delfico 73,42.658988,13.700894
+Dorzano,13881,"Via G.d. Volpe,33",22.826537,113.777468
+Roma,00187,Via del Tritone 181,41.90248,12.484132
+Front,10070,Via G. Destefanis 68,45.279721,7.662287
+Sanfront,12030,Via Trieste 19,44.647381,7.321153
+Bucchianico,66011,Piazza San Camillo De Lellis 18,42.30831,14.171616
+Parma,43121,Strada Giuseppe Garibaldi 75,44.808441,10.329815
+Roma,00135,Via Salvatore Contarini 25,41.934323,12.46092
+Bolzano,39100,Via Canonico Michael Gamper 1,46.497455,11.364034
+Meta,80062,Piazza Vittorio Veneto 10,40.637241,14.419512
+Torri Di Quartesolo,36040,Via Schio 2,45.538697,11.629254
+Donato,13893,Via Garibaldi 2,45.528658,7.906811
+Riccione,47838,Corso Flli Cervi 50,44,12.66
+San Salvatore Monferrato,15046,Via Boeri 8,44.99359,8.567218
+Vicenza,36100,Contra' Pedemuro San Biagio 72,,
+Milano,20146,Via Marostica 8,45.462023,9.144699
+San Pietro di Morubio,37050,Fz. Bonavicina Via D. Alighieri 1,45.25,11.23333
+Oviglio,15026,Via Pagliari 5,44.861744,8.486333
+Palermo,90146,Viale Del Fante 66,38.148362,13.343225
+Sora,03039,VIA G. D'Annunzio 17,,
+Bolzano,39100,Via Dr. Julius Perathoner 10,46.496674,11.35551
+Sanfre\',12040,Via Asilo 2,,
+Pescara,65121,Piazza Italia 1,42.464485,14.213748
+Chieri,10023,Piazza Mazzini 3 Bis,-26.513007,31.187933
+San Damiano D\'asti,14015,Via C. Beccaria 6,,
+Livorno,57123,Via Cogorano 25,43.551002,10.308543
+Firenze,50125,Viale Poggi 2,43.763924,11.264428
+Siena,53100,VIA DELLA PACE 37/9,43.32,11.33
+Lozzo Di Cadore,32040,Via Marmarole 436,46.485774,12.442743
+Codroipo,33033,Vile Duodo 80,45.962668,12.99289
+Mozzate,22076,Via Giosue\' Carducci 4,,
+Bergamo,24121,Via T.Tasso 8,45.7,9.67
+Mantova,46100,Via Principe Amedeo 30,45.15476,10.790473
+Firenze,50122,Via Verdi 16,43.770222,11.261541
+Castelfranco Veneto,31033,Borgo Pieve 76,45.66821,11.930513
+Pastena,03020,Piazza Del Maggio,41.44,13.41
+Villandro,39040,Vicolo F. V. Defregger 4,46.633522,11.540627
+Magenta,20013,Via Crivelli 39,45.459564,8.884984
+Albano Laziale,00041,Piazza Costituente 1,41.73,12.66
+Roma,00187,Via Sicilia 162c,41.909418,12.494291
+Ancona,60121,Piazza Cavour 23,43.62,13.51
+Abbiategrasso,20081,Viale Carlo Cattaneo 45,45.395868,8.919723
+Bolzano,39100,Via Alessandro Volta 13/A,46.479478,11.332427
+Lodi,26900,Via Haussmann 11,45.300634,9.493235
+Varese,21100,Piazza Liberta\' 1,,
+Campobasso,86100,Via Genova 11,41.559104,14.65519
+Genova,16121,Piazza Della Vittoria 15,44.40218,8.943905
+Latina,04100,Via Costa 1,41.47,12.9
+Palermo,90144,Via Trinacria 36,38.148324,13.338206
+Jesolo,30016,Via Ca'silis 16,,
+Torino,10124,Via Po 1,45.070153,7.687086
+Matera,75100,Via Annunziatella 64,40.671806,16.604034
+Monza,20900,Viale Enrico Fermi 105,45.58,9.27
+Legnano,20025,Via Per Busto Arsizio 53,45.60448,8.897265
+Potenza,85100,Via Grippo,40.636986,15.814134
+Bolzano,39100,Via Canonico Michael Gamper 1,46.497455,11.364034
+Padova,35137,Piazzale Mazzini 14,45.414288,11.873699
+Amelia,05022,"S.s. Amerina Km 7,700",7.265386,30.05489
+Palermo,90138,Via Volturno 2,38.12004,13.355937
+L\'aquila,67100,Localita Campo Di Pile Snc,,
+Castellana Sicula,90020,Via Leone XIII 32,37.78569,14.039016
+Milano,20127,Via Tommaso Pini 1,45.484565,9.240865
+Taranto,74121,Cesare Battisti 657,40.465892,17.274344
+Palermo,90135,Via Roccazzo 77,38.12263,13.309058
+Bagheria,90011,Via Papa Giovanni Xxiii 26,38.078315,13.517999
+Cerro Maggiore,20023,"Piazza Aldo Moro,1",45.6,8.95
+Bergamo,24122,Via G. Manzu\' 25,,
+Macerata,62100,Via Famiglia Palmieri 6,43.306207,13.436864
+Casamicciola Terme,80074,Via Principessa Margherita 54,40.746123,13.906897
+Bari,70132,Via Accolti Gil,41.11,16.82
+Taranto,74123,Piazza Pertini 4,40.47,17.25
+Avezzano,67051,Piazza Torlonia 98,42.030797,13.425608
+Torino,10125,Corso Marconi 10,45.056462,7.678669
+Pergine Valsugana,38057,Viale Dell\'industria 4l,,
+Massa Lubrense,80061,Via Roma 29,40.609435,14.341763
+Rimini,47923,Via Dario Campana 67,44.058821,12.555433
+Bolzano,39100,via Pascoli 2/A,46.499101,11.361245
+Rovereto,38068,Via Pasqui 10,45.899764,11.037459
+Ascoli Piceno,63100,Viale Indipendenza 42,42.854334,13.592546
+Sant\'Agata di Militello,98076,Via Medici 259,,
+San Benedetto Del Tronto,63074,Via Mamiani 29,42.95,13.88
+Salerno,84131,Viale Andrea De Luca 22/i,51.133481,10.018343
+Barcellona Pozzo Di Gotto,98051,Via Strada Statale S.antonino 461,38.14,15.22
+Atella,85020,Corso Papa Giovanni XXIII 7,40.878775,15.653299
+San Vito Al Tagliamento,33078,Via Clauzetto 15,45.949047,12.876013
+Verona,37113,Via Torbido 3/a,45.438872,11.015849
+Glorenza,39020,Piazza Municipio 1,46.67,10.55
+Teramo,64100,Via Pietro Rosati 4,42.658706,13.698769
+Teramo,64100,Via Nicola Palma,42.659674,13.704734
+Teramo,64100,Via Nicola Palma,42.659674,13.704734
+Sant\'omero,64027,Largo Del Convento 2,,
+Teramo,64100,Piazza Dante Alighieri,42.66,13.7
+Roma,00198,Via Vincenzo Bellini 16,41.920752,12.495981
+Roma,00186,Via Dei Prefetti 46,41.9025,12.477199
+Milano,20121,Via Rovello 2,45.466378,9.184717
+Selvazzano Dentro,35030,Melchiorre Cesarotti 17,45.391894,11.783546
+Roma,00153,Largo Arrigo Vii 5,41.883966,12.482959
+Roma,00187,Via XX Settembre 65bis,41.91,12.48
+Roma,00195,Via Sabotino 4,41.917167,12.459254
+Roma,00192,Via Ezio 12/14,41.908669,12.466458
+Roma,00192,Via Fornovo 8,41.912477,12.468626
+Sulmona,67039,Via Circonvallazione Orientale 43a,42.046226,13.927257
+Tortoreto,64018,Via Terravecchia 1,42.804051,13.91237
+Civitella Del Tronto,64010,Via Marconi 77,42.69,13.56
+Venezia,30174,Via Spalti 1,45.496898,12.242096
+Roma,00156,v. Attilio Benigni 53,41.925562,12.560241
+Novara,28100,Via Triggiani 9 Novara,45.45,8.62
+Roma,00153,Via Ippolito Nievo 35,41.878336,12.467458
+Rovato,25038,Via XXV Aprile 18,45.55,10
+Palermo,90127,Piazza Nicola Leotta 4,37.92855,13.647991
+Torino,10126,C.so Bramante 88,45.041815,7.674896
+Castelnovo di Sotto,42024,Via Conciliazione 10,44.809933,10.565998
+Napoli,80131,Via Leonardo Bianchi S.c.,33.594233,-80.430781
+Vimercate,20871,Via Santi Cosma E Damiano 10,45.608449,9.358098
+Milano,20154,Via Lodovico Castelvetro 22,45.485132,9.164946
+Catania,95126,Via Messina 829,37.528862,15.111782
+Novara,28100,Corso Mazzini 18,45.444147,8.62255
+Pesaro,61121,Piazzale Cinelli 4,43.90834,12.906071
+Messina,98158,Contrada Papardo,38.27,15.59
+Palermo,90146,Viale Strasburgo 233,38.157099,13.326148
+Catanzaro,88100,Via Vinicio Cortese 10,38.917906,16.585185
+Bologna,40138,"Via Albertoni,15",44.490014,11.36357
+Napoli,80131,Via A. Cardarelli 9,40.86,14.22
+Catania,95124,Piazza S. Maria Di Gesu\' 5,,
+Sassello,17046,Via Gerolamo Badano 23,44.478209,8.488962
+Caserta,81100,Via Tescione,41.07,14.33
+Potenza,85100,Via Potito Petrone,40.653169,15.802969
+Cuneo,12100,Via Michele Coppino 26,44.384817,7.536269
+Napoli,80122,Via Della Croce Rossa 8,40.834574,14.229017
+Roma,00152,Circonvallazione Gianicolense 87,41.870439,12.455121
+Bari,70124,Piazza Giulio Cesare 11,41.112128,16.86226
+Firenze,50141,Largo Brambilla 3,43.803424,11.245468
+Napoli,80131,Via Sergio Pansini 5,40.868396,14.222824
+Verona,37126,Piazzale Aristide Stefani 1,45.451877,10.98579
+Catanzaro,88100,Via Tommaso Campanella 115,38.91316,16.570377
+Firenze,50139,Viale G. Pieraccini 24,43.8,11.25
+Ancona,60126,Via Conca 71,43.609583,13.456329
+Messina,98124,Via Consolare Valeria 1,38.168349,15.541003
+Roma,00133,Viale Oxford 81,41.87,12.63
+Palermo,90127,Via del Vespro 129,38.106607,13.362396
+Catania,95123,Via Santa Sofia 78,37.529607,15.068609
+Orbassano,10043,Regione Gonzole 10,45.028149,7.559288
+Siena,53100,Strada Delle Scotte 14,43.344067,11.331454
+Napoli,80138,Via S.M. Costantinopoli 104,40.85,14.26
+Ferrara,44124,Via Aldo Moro 8 Ferrara,44.862445,11.513544
+Genova,16132,Largo Rosanna Benzi 10,44.407207,8.969886
+Modena,41124,Via Del Pozzo 71,44.636648,10.942373
+Pisa,56126,Via Roma 67,43.721554,10.395762
+Foggia,71122,Viale Lugi Pinto 1,41.457008,15.524209
+Terni,05100,Via Tristano Di Joannuccio 1 Terni,42.556104,12.658323
+Cosenza,87100,Via San Martino,39.2927,16.254577
+Benevento,82100,Via Dell\' Angelo 1,,
+Chiari,25032,Viale Mazzini 4,45.539118,9.93359
+Perugia,06129,Piazzale Menghini 8/9,43.1,12.38
+Como,22100,Via Napoleona 60,45.795565,9.091401
+Roma,00189,Via di Grottarossa 1035 - 1039,41.975167,12.463428
+Salerno,84131,Via San Leonardo snc,40.647212,14.831468
+Avellino,83100,Contrada Amoretta Avellino,40.934219,14.79726
+Cepagatti,65012,Via Ada Negri 34,42.344483,14.10438
+Parma,43121,Via Cavestro 14,44.8,10.33
+Lecco,23900,Piazza Lega Lombarda 4,45.856207,9.393263
+La Spezia,19126,Via Carducci S.c.,33.594233,-80.430781
+Ancona,60121,Molo Santa Maria - Porto,43.620799,13.507819
+Cagliari,09123,Molo Dogana,39.21194,9.114326
+Civitavecchia,00053,Molo Vespucci SNC,47.486377,12.53691
+Predazzo,38037,Via Ettore Sottsass 11,46.312414,11.601215
+Laces,39021,Via Centrale 57,46.603634,10.851215
+Gioia Tauro,89013,ctr. Lamia,31.7955,-94.1791
+Bedollo,38043,Via G.verdi 35,46.161658,11.303282
+Casalecchio Di Reno,40033,Via Dei Mille 9,44.481261,11.280658
+Matera,75100,Via Ridola 60,40.661787,16.610067
+Matera,75100,C.da Rondinelle Snc,40.67,16.61
+Macerata,62100,Via Luigi Pannelli 1,43.298551,13.454523
+Messina,98122,Via Vittorio Emanuele Ii 27,38.189561,15.557488
+Desio,20832,Via Canonico Villa 108,45.610386,9.209036
+Cividale Del Friuli,33043,Viale Duca Degli Abruzzi 1,46.092342,13.424562
+Pasiano di Pordenone,33087,Via Roma 54,45.848618,12.624524
+Palermo,90139,Via Piano Dell\'ucciardone 4,,
+Viareggio,55049,Via Lungo Canale Est 11,43.865408,10.251149
+Ravenna,48122,Via Antico Squero 31,44.42188,12.209564
+Curti,81040,Vico Isonzo 4,41.074383,14.273757
+Pellizzano,38020,Via Dei Baschenis 6,46.310535,10.758076
+Taio,38012,Via Thomas A. Edison 20,38.50194,43.41667
+Gagliole,62022,Via Bergoni 40,43.240335,13.069515
+San Giovanni Valdarno,52027,Lungarno Guido Reni 5,43.566395,11.536854
+Brentonico,38060,Via Balista 7,45.817515,10.958637
+Offida,63073,Via Del Merletto 29,42.95,13.71
+Trento,38122,Via Piave 108,46.064419,11.127789
+Narni,05035,Piazza Galeotto Marzio 6,42.522486,12.514167
+Cordenons,33084,Via Cervel 68,45.990145,12.701927
+Spiazzo,38088,Via San Vigilio 13,46.100545,10.73647
+Cividale Del Friuli,33043,Viale Trieste 42,46.083092,13.43574
+Mori,38065,Via Del Garda 62,45.85,10.99
+Mezzocorona,38016,Via Baron Cristani 38,46.23,11.12
+Lucca,55100,Viale Carlo Del Prete 718,43.848572,10.500746
+Riva Del Garda,38066,Via Ardaro 20 A,45.892931,10.837526
+Levico Terme,38056,Via Silva Domini 37,46.012664,11.31003
+Folgaria,38064,Via Papa Giovanni Xxiii 1,45.916859,11.166924
+Figline e Incisa Valdarno,50063,Via Della Resistenza 99,43.614568,11.477857
+Castiglion Fiorentino,52043,Piazza S. Francesco 6,43.343519,11.922058
+Rovereto,38068,Via Vannetti 6,45.89,11.04
+Pinzolo,38086,Via Genova 84,46.158656,10.761907
+San Miniato,56028,Via P. Bagnoli 1,43.68,10.85
+Morsano al Tagliamento,33075,Via Roma 27,45.862106,12.926259
+Castelfranco Emilia,41013,Via Circondaria Nord 39,44.597404,11.050645
+Firenze,50122,Via De\' Malcontenti 6,,
+Bolzano,39100,Via Della Roggia 5,46.500848,11.351308
+Pradamano,33040,Via Della Liberta 19 Frazione Lovaria,46.014658,13.299072
+Ledro,38067,Via G. Falcone e P. Borsellino 6,45.89,10.68
+Bleggio Superiore,38071,Fr. S. Croce 41,46.005861,10.796177
+Castel Del Piano,58033,Via IV Novembre 1,42.889331,11.53398
+Vignola,41058,Via Liberta' 823,,
+Macerata,62100,Via B. Gigli 2,43.3,13.45
+Trieste,34129,Via Giovanni Pascoli 31,45.647186,13.784671
+Levico Terme,38056,Via Cavour 65,46.009573,11.30275
+San Severino Marche,62027,V.le Eustachio 103,43.231462,13.180458
+Trento,38123,Via Della Resistenza 63,46.065474,11.159565
+Bitonto,70032,Piazzale Ferdinando Ii Di Borbone 18,41.11,16.69
+Foggia,71122,Viale Degli Aviatori 25,41.447661,15.544672
+Lucera,71036,Piazza S. Leonardo 33,41.51,15.33
+Cascina,56021,Via Tosco Romagnola 2280 San Lorenzo Alle Corti,38.01667,15.83333
+Bari,70131,Via Vaccarella 1,41.07,16.88
+Nomi,38060,Via Roma 21,45.979151,11.09135
+Pieve di Bono,38085,Frazione Strada 1,45.946514,10.645063
+Pieve di Cento,40066,Via Gramsci 28,44.71,11.31
+Norcia,06046,Viale Lombrici 27,42.793249,13.100941
+Pieve Tesino,38050,Via Battaglion Feltre 19,46.069617,11.612073
+Sorano,58010,Via Selvi 6,42.682603,11.71383
+Rutigliano,70018,Via Delle Querce 19,41.012225,17.008842
+Castel Ivano,38059,Via Borgo Allocco 2,46.065989,11.524502
+Dro,38074,Via Molino 9,45.962421,10.913977
+Merano,39012,Via San Francesco 26/a,46.678573,11.157086
+Castello Tesino,38053,Via Fratelli Ballerin 1,46.061802,11.633031
+Pescia,51017,Via S. Domenico 8,43.904768,10.685837
+Grigno,38055,Via Vittorio Emanuele 131,46.016388,11.633897
+Mezzolombardo,38017,Via Damiano Chiesa 6,46.213325,11.096442
+Primiero San Martino di Castrozza,38054,Viale Marconi 19 - PIEVE,46.26,11.8
+Roncegno Terme,38050,Via Alle Fonti 1,46.050266,11.405956
+Borgo Valsugana,38051,Via Per Telve 7,46.05662,11.466215
+Manfredonia,71043,Corso Manfredi 254,41.630496,15.920652
+Villa Santina,33029,Via Stati Uniti D\'america 10,,
+Crevalcore,40014,Via Matteotti 191,44.72,11.15
+Taranto,74121,Via Lombardia 61,40.457307,17.261285
+Bari,70123,Via Napoli 332,41.141691,16.801458
+Latisana,33053,Via Sabbionera 103,45.767697,13.003065
+Vigo di Fassa,38039,Via Pre De Lejia 12,46.422148,11.678337
+San Nicandro Garganico,71015,Localita' San Nazario,,
+Canal San Bovo,38050,Via Danoli 15,46.155224,11.733675
+Sinalunga,53048,Via Costarella 214/a,43.22,11.81
+San Giorgio di Nogaro,33058,Via Cristofoli 18,45.83516,13.201546
+Fidenza,43036,Via Berenini 151,44.87,10.06
+San Mauro Pascoli,47030,Via Alessandro Manzoni 19,44.10205,12.414424
+Cesena,47521,Via Dandini 24,44.14,12.25
+Lavis,38015,Via Orti 50,46.136029,11.11075
+Prato,59100,Via F. Ferrucci 195 T,43.88,11.1
+Trento,38123,Via Degasperi 79,46.05,11.13
+Livigno,23030,Plaza Dal Comun,46.538534,10.135351
+Pergine Valsugana,38057,Via Marconi 4,46.066204,11.246623
+Levico Terme,38056,Via Cavour 65,46.009573,11.30275
+Bari,70121,Via S. Cognetti 36,41.12,16.87
+Taranto,74123,Porto Mercantile,40.481911,17.22532
+Potenza,85100,Via Del Gallitello 89,40.634534,15.786605
+Bari,70121,Piazza Aldo Moro 33,41.119154,16.870396
+Lecce,73100,Via Monte San Michele 20,40.354012,18.179616
+Venezia,30124,San Marco 2637,45.455361,12.40297
+Trieste,34143,v. Karl Ludwig Von Bruck 3,45.63711,13.76941
+Brindisi,72100,Viale Regina Margherita 44,40.64,17.94
+Roma,00161,Viale Del Policlinico 155,41.908302,12.508659
+Venezia,30123,Santa Marta - Fabbricato 13,45.43,12.33
+Boscoreale,80041,Piazza Pace 1,40.77514,14.474907
+Ragusa,97100,Zona Industriale Centro Direzionale Asi,36.862257,14.594291
+Milano,20124,Via Fabio Filzi 22,45.484951,9.200676
+Cagliari,09123,Via Mameli 96/106,39.22,9.11
+Sarno,84087,Via Ingegno snc,40.820265,14.601146
+Catanzaro,88100,Cittadella Regionale - Loc. Germaneto Catanzaro,38.883546,16.574042
+Bologna,40121,Via Santa Maria Maggiore 4,44.498402,11.341077
+Potenza,85100,Corso Umberto I,40.636766,15.800868
+Catanzaro,88100,"Via Alberghi,8",38.9068,16.59155
+Firenze,50132,Viale Antonio Gramsci 36,43.78,11.27
+Catanzaro,88100,Viale Europa Germaneto,38.833617,16.594166
+Copparo,44034,Via Alessandro Volta 26/a,44.894039,11.824596
+Saint-Christophe,11020,Localita\' Grande Charriere 64,,
+Cagliari,09123,Via Cesare Battisti 6,39.22424,9.103368
+Trieste,34149,Padriciano 99,45.650706,13.839342
+Bedollo,38043,Via G. Verdi 35,46.167863,11.306206
+Castellana Sicula,90020,Via Leone XIII 32,37.78569,14.039016
+Roma,00149,Via Portuense 240,41.866163,12.461148
+Nuoro,08100,Via Luigi Oggiano 25,40.312621,9.319167
+Milano,20124,Via Alfredo Campanini 6,45.486489,9.198435
+Milano,20157,Via Cristina Belgioioso 171,45.522908,9.0982
+Oristano,09170,Via Cagliari 276,39.911611,8.587627
+Trieste,34127,Salita Monte Valerio 3,45.6611,13.792988
+Venezia,30123,Dorsoduro 3439a,,
+Milano,20124,via taramelli 12,45.48,9.21
+Bologna,40127,Viale Aldo Moro 38,44.50844,11.363019
+Cagliari,09122,Via Is Mirrionis 195,39.236932,9.106035
+Torino,10121,Corso Bolzano 44,45.072534,7.667771
+Genova,16121,Via San Vincenzo 4,44.406939,8.943631
+Roma,00152,Via Circ.ne Gianicolense 87,41.89,12.46
+Udine,33100,Via Prefettura 13,46.063111,13.238338
+Napoli,80143,Via Vicinale S. Maria Del Pianto C. Polifunzionale Torre 1,40.864943,14.284401
+Campobasso,86100,"Via Ugo Petrella,1",41.555101,14.657934
+Genova,16149,Via Bombrini 8,44.411831,8.883638
+Palermo,90146,palermo via San Lorenzo 312/G,38.167834,13.314017
+Torino,10135,Via Pio VII 9,45.03,7.64
+Napoli,80143,Centro Direzionale Isola C5,40.86,14.28
+Genova,16121,Via D'Annunzio 2/78,,
+Sassari,07100,Loc. Bonassai Ss 291 Km 18.600,7.265386,30.05489
+Campobasso,86100,VIALE REGINA ELENA 1,41.55641,14.659024
+Cosenza,87100,Viale Trieste 93/95,39.293525,16.251136
+Campobasso,86100,Via G.B. Vico 4,41.56,14.66
+Roma,00162,Via Rodolfo Lanciani 38,41.920999,12.523271
+Gorizia,34170,Via Montesanto 17,45.94,13.62
+Bari,70121,Via Giulio Petroni 15/F.1,41.116794,16.868756
+Aosta,11100,Corso XXVI Febbraio 23,45.740521,7.316862
+Roma,00166,Via Del Pescaccio 96-98,41.869758,12.378236
+Campobasso,86100,Via Masciotta 13,41.550677,14.660926
+Roma,00186,Via Del Corso 476,41.906653,12.478014
+Baselga Di Pine\',38042,Via Cesare Battisti 7,,
+Bologna,40139,Via Po 5,44.478678,11.380584
+Potenza,85100,Via Della Fisica 18 C/D,40.634468,15.823687
+Perugia,06121,Corso Vannucci 96,43.109319,12.38803
+Ancona,60131,Via Ruggeri 5,43.567651,13.517675
+Bari,70126,Corso Trieste 27,41.117207,16.893297
+Chieti,66100,Via Asinio Herio 75,42.348724,14.164266
+Cagliari,09122,Via Contivecchi 7,39.240942,9.095183
+Firenze,50144,Via Nicola Porpora 22,43.782355,11.233332
+Saint-Christophe,11020,Loc Grande Charriere 44,45.741396,7.354401
+Catanzaro,88100,Viale Lungomare - Localita' Mosca,,
+Palmanova,33057,Via Cairoli 14,45.903373,13.308513
+Rieti,02100,Via Giuseppe Garibaldi 114,42.404773,12.870683
+Milano,20124,Via Ippolito Rosellini 17,45.48996,9.194756
+Perugia,06132,Via Pievaiola - San Sisto,43.036843,12.223858
+Padova,35121,Via Ospedale Civile 24,45.403641,11.885028
+Campobasso,86100,Via Sant\' Antonio Abate 236,,
+Torino,10123,Via Bogino 23,45.06,7.69
+Reggio Emilia,42122,Via Pietro Marani 9/1,44.69,10.65
+Rozzano,20089,Viale Palmiro Togliatti 129a,45.375816,9.143658
+Cosenza,87100,Viale Trieste 93/95,39.293525,16.251136
+Napoli,80143,Centro Direzionale Isola F9,40.86,14.28
+Aosta,11100,Piazza Narbonne 16,45.74,7.32
+Ancona,60125,Via Gentile Da Fabriano 3,43.610127,13.508454
+Bari,70126,Via Giovanni Gentile 52,41.106959,16.91418
+Venezia,30125,Ex Ospedale G.B. Giustinian Dorsoduro 1454,54.237933,-2.36967
+Palermo,90134,Piazza del Parlamento 1,38.111483,13.35399
+Firenze,50141,Via Pietro Dazzi 1,43.82508,11.242234
+Torino,10126,Via Nizza 230,45.034294,7.668003
+Pescara,65127,Viale Marconi 178,42.456806,14.217252
+Firenze,50127,Via Ruggero Bardazzi 19/21,43.792619,11.21744
+Firenze,50132,Via Pico Della Mirandola 24,43.783229,11.268392
+Bari,70121,Piazza Aldo Moro 33/a,41.12,16.87
+Napoli,80132,Via S.lucia 81,40.832213,14.248811
+Bari,70132,Viale Luigi Corigliano 1,41.122507,16.817608
+Roma,00185,Via Monzambano 10,41.903821,12.507239
+Alba,12051,Via Vida 10,44.700441,8.038749
+Lecce,73100,Via Miglietta 5,40.346803,18.178797
+Bassano del Grappa,36061,"Via Dei Lotti,40",45.749051,11.74672
+La Spezia,19121,Via Fazio 30,44.103309,9.821623
+Lumezzane,25065,Piazzale Della Piscina 6,45.654688,10.238504
+Angri,84012,Piazza Crocifisso 23,40.741856,14.567695
+Lumezzane,25065,Via Rosmini 14,45.64973,10.284039
+Montecosaro,62010,Via Antonio Gatti 5,43.316901,13.635527
+Aprilia,04011,P.zza Roma 1,41.593962,12.648597
+Sassari,07100,Viale S. Pietro 10,40.722487,8.55392
+Ladispoli,00055,Viale Europa 20,41.960655,12.076431
+Pomigliano D\'arco,80038,Via Fiume 64,,
+Soresina,26015,Via Cairoli 17,45.29,9.85
+Collegno,10093,Via Martiri XXX Aprile 30,45.08,7.57
+Corvara In Badia,39033,Str. Col Alt 36,46.549382,11.873356
+Cittaducale,02015,Piazza Pietro Nenni,42.4,12.91
+Sluderno,39020,Piazza Del Magistrato 1,46.66667,10.58333
+San Lorenzo di Sebato,39030,Franz Hellweger Platz 2,46.783324,11.902376
+Pozza di Fassa,38036,Piaza De Comun 1,46.43,11.69
+Prato allo Stelvio,39026,Via Pineta 108,46.62,10.59
+Stelvio,39029,Stelvio Paese 24,46.58,10.54
+Canazei,38032,Streda Roma 12,46.48,11.77
+Rasun Anterselva,39030,Niederrasner Str. 35E,46.7,11.93
+Rasun Anterselva,39030,Niederrasner Str. 35E,46.7,11.93
+Valle Aurina,39030,San Giovanni 273/h,47.391728,8.697319
+Brunico,39031,Piazza Municipio 1,46.79,11.93
+Villabassa,39039,P.zza Von Kurz 5,46.74,12.16
+Laces,39021,Piazza Centro 6,46.603634,10.851215
+Chienes,39030,Via Chienes 4C,38.50194,43.41667
+Valle di Casies,39030,Planca di Sotto 9 b,46.76667,12.18333
+Valle di Casies,39030,Planca di Sotto 9 b,46.76667,12.18333
+Pellizzano,38020,Piazza Santa Maria 6,46.309858,10.760489
+Borgorose,02021,Via San Francesco,42.204873,13.263855
+Vandoies,39030,Mairgasse 5 B,46.81667,11.73333
+Caldes,38022,Via Al Castello 12,46.37,10.95
+Canazei,38032,Streda Roma 12,46.48,11.77
+Braies,39030,Braies Di Dentro 40,46.721231,12.125231
+Dobbiaco,39034,Via Conti Kuenigl 1,46.63,12.23
+Nova Ponente,39050,Via Castello Thurn 1,46.414114,11.425596
+Bressanone,39042,via Eores 241,46.72,11.66
+Rio di Pusteria,39037,Piazza Georg Stocker 8,46.788711,11.65242
+Rasun Anterselva,39030,Niederrasner Str. 35E,46.7,11.93
+Braies,39030,Braies Di Dentro 40,46.721231,12.125231
+Falzes,39030,Piazza Municipio 1,46.7,11.93
+Pergine Valsugana,38057,Piazza Garibaldi 7,46.062387,11.239169
+Voltago Agordino,32020,Viale Della Vittoria 43a,46.255426,11.984293
+Valdaora,39030,Hans V. Perthalerstrasse 15,38.50194,43.41667
+Salorno,39040,Piazza Municipio 1,46.23904,11.212602
+Valdaora,39030,Hans V. Perthalerstrasse 15,38.50194,43.41667
+Rio Di Pusteria,39037,Via Katharina Lanz 47,46.796374,11.667294
+Gais,39030,Ulrich-von-taufers-strasse 5,38.50194,43.41667
+Canazei,38032,Streda Roma 12,46.48,11.77
+Chienes,39030,Chiener Dorfweg 4c,46.7,11.93
+Laces,39021,Piazza Principale 6,46.603634,10.851215
+Malles Venosta,39024,Laudes 110,46.7,10.53
+Lasa,39023,Via Venosta 52,46.617874,10.697565
+Selva dei Molini,39030,Selva Molini Paese 18 a,46.898142,11.820792
+Valle Aurina,39030,Cadipietra 96,46.997216,11.98041
+Badia,39036,Str. Rottonara 21 - Fraz. La Villa,19.922589,102.593737
+Marebbe,39030,Str. Catarina Lanz 48,46.698753,11.930291
+Malles Venosta,39024,Via Ge I. Verdross 36,52.128061,6.083805
+Prato allo Stelvio,39026,Kreuzweg 3,46.62,10.59
+Sesto,39030,Via Dolomiti 9,46.7,11.93
+Monguelfo-Tesido,39035,Via P.-J.-Schwingshackl 3,46.76,12.11
+Nova Ponente,39050,Via Castello Thurn 1,46.414114,11.425596
+Campo Di Trens,39040,Mules 84,46.857856,11.529338
+Rio Di Pusteria,39037,Maranza Via Waldeler 5,46.81,11.68
+Rasun Anterselva,39030,Niederrasner Str. 35E,46.7,11.93
+Nova Ponente,39050,Via Castello Thurn 1,46.414114,11.425596
+Corvara in Badia,39033,Strada Col Alt 36,46.549382,11.873356
+Silandro,39028,Via Sant Egidio 8,46.63,10.77
+Silandro,39028,Via Muehlbach 2,46.63,10.77
+San Candido,39038,Piazza Del Magistrato 2,46.73,12.32
+Corvara In Badia,39033,Str. Col Alt 36,46.549382,11.873356
+Malles Venosta,39024,Planol 18,46.7,10.53
+Canazei,38032,Streda Roma 12,46.48,11.77
+Valle di Casies,39030,Planca di Sotto 9 b,46.76667,12.18333
+Pergine Valsugana,38057,Piazza Garibaldi 7,46.062387,11.239169
+Curon Venosta,39027,Via Claudia Augusta 2,46.803987,10.555329
+Brunico,39031,Piazza Municipio 1,46.79,11.93
+Rodengo,39037,Frazione Villa 3,45.6,10.11667
+Campo Tures,39032,Via Municipio 8,46.92,11.95
+Lasa,39023,Via Tanas 5,46.630775,10.650379
+Malles Venosta,39024,Slingia 46,46.706612,10.472407
+Valle Di Casies,39030,San Martino 9,46.7,11.93
+Rodengo,39037,Frazione San Benedetto 65a,46.786493,11.686911
+San Candido,39038,Piazza Del Magistrato 2,46.73,12.32
+Senale-san Felice,39010,Via Palade 12,46.492158,11.132479
+Brunico,39031,Pipenstrasse 6,46.79,11.93
+Valle Di Casies,39030,Unterstein 1,46.7,11.93
+Valle Aurina,39030,Cadipietra 96,46.997216,11.98041
+Stelvio,39029,Stelvio Paese 24,46.58,10.54
+Brunico,39031,Piazza Municipio 1,46.79,11.93
+Sesto,39030,Via Della Chiesa 7,46.702106,12.351233
+Valle di Casies,39030,Via Pater Haspinger 2,46.7,11.93
+Brunico,39031,Piazza Municipio 1,46.79,11.93
+Laces,39021,Piazza Principale No. 6,69.895747,19.372012
+Malles Venosta,39024,Tarces 84,46.683162,10.555519
+Campodenno,38010,Via Pontara 5 Termon Di Campodenno,33.509224,36.285234
+Taio,38012,Via Simone Barbacovi 4,46.320976,11.06572
+Tres,38010,Via Nazionale 8,45.696111,9.839241
+Lasa,39023,Via Venosta 52,46.617874,10.697565
+Campo Tures,39032,Municipio,46.92,11.95
+Malles Venosta,39024,Ultimo 114,46.723465,10.558185
+Valle Aurina,39030,Innertal 58k,46.7,11.93
+San Genesio Atesino,39050,Schrann 1,46.53333,11.33333
+Velturno,39040,Piazza Simon Rieder 2,46.57,11.67
+Vervo\',38010,Piazza Chiesa 8,,
+Silandro,39028,Via Principale 120,46.63,10.77
+Vandoies,39030,Hinterdrittel 12,46.867425,11.72077
+Valdaora,39030,Hans V. Perthalerstrasse 15,38.50194,43.41667
+Tres,38010,Via Nazionale 8,45.696111,9.839241
+Gais,39030,Via Ulrich Von Taufers 5,40.084776,-108.227397
+Pergine Valsugana,38057,Piazza Garibaldi 7,46.062387,11.239169
+San Candido,39038,Piazza Del Magistrato 2,46.73,12.32
+Porte Di Rendena,38094,Via Iv Novembre 10 Vigo Rendena,46.07,10.72
+Valdaora,39030,Hans V. Perthalerstrasse 15,38.50194,43.41667
+Brunico,39031,Piazza Municipio 1,46.79,11.93
+Dobbiaco,39034,Via Conti Kuenigl 1,46.63,12.23
+Viterbo,01100,Piazza dell' Unita' 21,,
+Valle Aurina,39030,Steinhaus 96,46.7,11.93
+Caldes,38022,Via Al Castello 12,46.37,10.95
+Campo Tures,39032,Acereto 114,46.92,11.95
+Vignola-Falesina,38057,Frazione Vignola 12,46.047466,11.275988
+Campo Tures,39032,Via Municipio 8,46.92,11.95
+Campo Tures,39032,Municipio,46.92,11.95
+Pozza di Fassa,38036,Piaza De Comun 1,46.43,11.69
+Malles Venosta,39024,Burgusio 217 A,46.711248,10.529085
+Silandro,39028,Via Principale 120,46.63,10.77
+Pellizzano,38020,Piazza Santa Maria 6,46.309858,10.760489
+Curon Venosta,39027,Vallelunga Caprone 7,46.803987,10.555329
+Napoli,80143,Via G. Porzio,40.86,14.28
+Cortina D\'ampezzo,32043,Via Della Difesa 12,,
+Giulianova,64021,Via Cavour 2,42.75,13.97
+Portico e San Benedetto,47010,Piazza G. Marconi 3,43.976068,11.775985
+Peio,38024,Via G. Caserotti 31 - 38024 Peio,-22.989187,-43.433003
+Peio,38024,Via G. Caserotti 31 - 38024 Peio,-22.989187,-43.433003
+Cantu\',22063,Via Cavour 19,,
+Salo\',25087,Piazza Carmine 4,,
+Terno d\'Isola,24030,Via G. Bravi 16,,
+Ariano Irpino,83031,Via Fontanuova Snc,41.16,15.09
+Noto,96017,Via Tommaso Fazello 218,36.898507,15.069129
+Peio,38024,Via G. Caserotti 31 - 38024 Peio,-22.989187,-43.433003
+Peio,38024,Via G. Caserotti 31 - 38024 Peio,-22.989187,-43.433003
+San Cipriano d\'Aversa,81036,"Via Roma,6 - Presso Casa Comunale",,
+Saracena,87010,Via Carlo Pisacane,39.775834,16.156297
+Casale Monferrato,15033,Via Candiani D\'olivola 19,,
+Castiglione Delle Stiviere,46043,Via Cesare Battisti 4,45.389105,10.490401
+Carsoli,67061,Via San Nicola 3,42.12,13.11
+L\'Aquila,67100,Via Archi Della Fonte Frazione Arischia,,
+Castelbello-ciardes,39020,Piazza Centro 1,46.67,10.55
+Castelbello-ciardes,39020,Piazza Centro 1,46.67,10.55
+Castelbello-ciardes,39020,Piazza Centro 1,46.67,10.55
+Laces,39021,Piazza Centro 6,46.603634,10.851215
+Castelbello-ciardes,39020,Piazza Centro 1,46.67,10.55
+Castelrotto,39040,Piazza Krausen 1,46.568076,11.5596
+Trodena Nel Parco Naturale,39040,Via Koecknschmied 1,46.327073,11.325846
+Valle di Casies,39030,Via Santa Maddalena 29,46.7,11.93
+Cagliari,09123,Via Cesare Battisti Snc,39.223667,9.102155
+Dimaro,38025,Piazza Giovanni Serra 10,46.325922,10.874464
+Dimaro,38025,Piazza Giovanni Serra 10,46.325922,10.874464
+Rumo,38020,Via Marcena 21,46.440978,11.016919
+Rumo,38020,Via Marcena 21,46.440978,11.016919
+Rumo,38020,Via Marcena 21,46.440978,11.016919
+Predappio,47016,Via Piccinini 66,44.099384,11.960697
+Roma,00133,Via del Politecnico snc,41.8550935,12.618325500000001
+Lavis,38015,Via Giuseppe Di Vittorio 84,46.136913,11.086969
+Napoli,80147,Via Luigi Volpicella 315,40.846806,14.319121
+Castelbello-ciardes,39020,Piazza Centro 1,46.67,10.55
+Novellara,42017,P.le Marconi 1,44.844527,10.731124
+Trento,38121,Via 4 Novembre 23.4,46.07,11.13
+San Dona\' di Piave,30027,Via Nazario Sauro 21,,
+San Michele Al Tagliamento,30028,Via Dell Unione 10,45.64,13.06
+Montesilvano,65015,Piazza Diaz,42.514473,14.149187
+Bari,70126,Viale Japigia 184,41.112766,16.89919
+Omegna,28887,Via Mazzini 117,45.874559,8.411136
+L\'Aquila,67100,Via Saragat loc. Campo di Pile,,
+Benevento,82100,Via Oderisio 1,41.14,14.77
+Sanremo,18038,Via Aurelia Ponente 97,43.82,7.78
+Genova,16121,Via Bertani 4,44.405356,8.943627
+Chiavari,16043,Via G B Ghio 9,44.32,9.32
+Roma,00166,Via Del Pescaccio 96,41.866111,12.374663
+Bari,70123,Lungomare Starita 6,41.13,16.86
+Roma,00193,Borgo Santo Spirito 3,41.901512,12.461159
+Roma,00157,Via Filippo Meda 35,41.912777,12.541865
+Civitavecchia,00053,Via Terme Di Traiano 39A,42.097937,11.797709
+Torino,10149,Via San Secondo 29,45.09,7.66
+Cagliari,09124,Via Ospedale 54,39.219566,9.111916
+Chieti,66100,Via Martiri Lancianesi 17/19,42.345822,14.167849
+Savona,17100,Via Manzoni 14,44.31,8.48
+Alessandria,15121,via Venezia 6,44.915683,8.6194
+Avellino,83100,Via Degli Imbimbo 10/12,40.919456,14.788355
+Bari,70123,Lungomare Starita 6,41.13,16.86
+Andria,76123,Via Fornaci 201,41.227929,16.290544
+Ponderano,13875,Via dei Ponderanesi 2,45.544394,8.06324
+Bologna,40124,Via Castiglione 29,44.489781,11.346938
+Brindisi,72100,Via Napoli 8,40.645085,17.937734
+Cuneo,12100,Via Carlo Boggio 12,44.382895,7.543345
+Foggia,71121,Viale Fortore,41.462215,15.563414
+Latina,04100,Viale Pier Luigi Nervi Pal.G2,41.458679,12.889319
+Frattamaggiore,80027,"Via M. Lupoli,27",40.94,14.27
+Torre del Greco,80059,Via Marconi 66,40.79,14.37
+Roma,00193,Borgo Santo Spirito 3,41.901512,12.461159
+Salerno,84124,Via Nizza 146,40.681113,14.773481
+Chivasso,10034,Via Po 11,45.186895,7.889674
+Chieri,10023,piazza Silvio Pellico 1,45.009529,7.823781
+Vercelli,13100,Corso M. Abbiate 21,45.222014,8.506416
+Taranto,74120,Viale Virgilio 31,40.429994,16.889472
+Gallarate,21013,Via Carlo Cattaneo 9,45.661146,8.798665
+Garbagnate Milanese,20024,Piazza De Gasperi 1,45.576602,9.079737
+Marnate,21050,Via Italia 151,45.628593,8.899563
+Pontecorvo,03037,Piazza IV Novembre 1,41.47,13.66
+Viareggio,55049,Via Pascoli 6,43.877841,10.24446
+Saint-christophe,11020,Loc. Chef-lieu 11,45.74799,7.358666
+Torino,10128,Via Magellano 1,45.06,7.67
+Argenta,44011,Via Provinciale 53 - Consandolo,44.657804,11.777432
+Palmanova,33057,Piazza Garibaldi 7,45.903924,13.307701
+Jesi,60035,Via Gramsci 95,43.52,13.25
+Anguillara Veneta,35022,Piazza De Gasperi 8,45.13891,11.886095
+Roma,00142,Via Calderon De La Barca 87,41.840943,12.511956
+Calizzano,17057,Via Garibaldi 39,44.235405,8.114961
+Castel Bolognese,48014,Via Biancanigo 45/a,44.318279,11.801725
+Bolzano,39100,Via Cassa di Risparmio 4,46.501199,11.349607
+Codogno,26845,Viale Gandolfi 27/33,45.156473,9.710291
+Bologna,40126,Via Marsala 7,44.49748,11.344437
+Chieuti,71010,Via Papa Giovanni XXIII 4,41.841046,15.166575
+Piacenza,29121,Via Campagna 157,45.056654,9.681606
+Paluzza,33026,Via Nazionale 31,46.529434,13.014486
+Massafra,74016,Via Trento 1,40.588399,17.120031
+Mirandola,41037,Via Posta Vecchia 30,44.869018,11.058902
+Cagli,61043,Viale Della Vittoria 3,43.543724,12.649129
+Voghera,27058,Viale Della Repubblica 86,44.99,9.01
+San Polo d\'Enza,42020,Via De Gasperi 3,,
+Cavasso Nuovo,33092,Via Vittorio Veneto 91,46.189614,12.764092
+Codigoro,44021,Viale della Resistenza 3/a,44.832125,12.112148
+Castellana Grotte,70013,Largo San Giuseppe 7,40.885549,17.171769
+Enna,94100,Viale Armando Diaz 7,37.563822,14.271313
+Peio,38024,Via G. Caserotti 31 - 38024 Peio,-22.989187,-43.433003
+Pellizzano,38020,Piazza Santa Maria 6,46.309858,10.760489
+Corato,70033,via Farina 1,41.149777,16.420578
+Milano,20123,Via Bartolomeo d'Alviano 78,,
+Pavia,27100,Viale Matteotti 63,45.190238,9.152945
+Somma Lombardo,21019,Via Bellini 29,45.65,8.72
+Rio Saliceto,42010,Via C.marx 10,44.887303,10.851604
+Genova,16124,Via Della Mercanzia 2,44.41,8.93
+Foggia,71121,Viale Giuseppe Di Vittorio 97-99,41.455543,15.560051
+La Spezia,19126,"Via Del Molo,1",44.112291,9.854191
+Bari,70122,"Piazzale Cristoforo Colombo,1",41.13,16.87
+Augusta,96011,Palazzina Ed1 Porto Commerciale Augusta Contrada Punta Cugno,41.237556,-8.355235
+Livorno,57123,Scali Rosciano 6-7,43.553872,10.306784
+Napoli,80133,Piazzale Pisacane Snc Interno Porto Napoli,40.840075,14.253992
+Montevarchi,52025,Via G. Pascoli 45,43.52,11.57
+Alghero,07041,Tramariglio S.P. 55 44,40.56,8.32
+Olbia,07026,Via Indonesia 9,40.92,9.5
+Citta\' Sant\'angelo,65013,Contrada Vertonica,,
+Modena,41121,Via Sant'Orsola 52,,
+Civitanova Marche,62012,Piazza XXV Luglio 2,43.31,13.73
+Pergola,61045,Via Mameli 6,43.6,12.86
+Ravenna,48121,Via Di Roma 31,44.412781,12.206096
+Monopoli,70043,Largo Cardinale Marzati,40.945452,17.299221
+Parma,43121,Piazzale Antonio Barezzi 3,44.803116,10.326173
+Azzano Decimo,33082,Viale XXV Aprile 42,45.89,12.7
+Spilimbergo,33097,Viale Barbacane 19,46.112633,12.900677
+Renon,39054,Via Del Paese 20 Collalbo,46.517865,11.501781
+Roncade,31056,Via Tiziano Vecellio 8,45.629881,12.376157
+Monguelfo-tesido,39035,Via Riva Di Sotto,46.76,12.11
+Fasano,72015,Via Nazionale Dei Trulli 109,40.831157,17.353954
+Atri,64032,Via Pietro Baiocchi 29,42.579108,13.975563
+San Colombano al Lambro,20078,Via Valsasino 116,45.18,9.48
+Fabriano,60044,Via Santa Caterina 13,43.33761,12.905493
+Rimini,47923,Via Di Mezzo 1,44.055262,12.560451
+Guastalla,42016,Piazza Mazzini 1,44.922624,10.654195
+Agrigento,92100,"Viale Della Vittoria,321",37.303481,13.598328
+Tolmezzo,33028,Via G. B. Morgagni 5,46.41,13.01
+Cosenza,87100,Viale Degli Alimena 8,39.295659,16.250289
+Catanzaro,88100,Via Vinicio Cortese,38.91747,16.584941
+San Lazzaro di Savena,40068,Via Emilia 36,44.471986,11.40485
+Messina,98123,Via La Farina 263,38.174853,15.549987
+Palermo,90141,Via Giacomo Gusmano 24,38.125558,13.347491
+Carpi,41012,Via Trento Trieste 22,44.781229,10.882378
+Trapani,91100,Via Mazzini 1,38.016101,12.518146
+Salerno,84131,Via R. Wenner 61,40.65,14.82
+Rovigo,45100,Via Della Resistenza 4,45.065153,11.799581
+Campobasso,86100,Via A. Depretis,41.56,14.66
+Merate,23807,Piazza V.veneto 2,45.694763,9.429711
+Pescara,65127,Via Attilio Monti 9,42.460531,14.212848
+Bressanone,39042,Viale Mozart 28,46.72,11.66
+Ragusa,97100,Via E. C. Lupis 99,36.862257,14.594291
+Bolzano,39100,viale Druso 116,46.494298,11.317707
+Osimo,60027,Via Dell\'industria 1,,
+Bolzano,39100,Vicolo Gumer 7,46.499141,11.355909
+Gualtieri,42044,Strada Statale 63 87,44.90051,10.631423
+Civitanova Marche,62012,"Via Bruno Buozzi,6",43.306705,13.727562
+Casaluce,81030,Via Salvador Allende 4,40.99,14.14
+Langhirano,43013,Via Don Orsi 1,44.614427,10.263756
+San Donato Milanese,20097,Via Sergnano 2,45.420754,9.262743
+Bari,70126,Via Gentile 52,41.106959,16.91418
+Montelparo,63853,Via Santa Maria Novella,43.018445,13.538143
+Pergine Valsugana,38057,Piazza Garbari 5,46.060463,11.241582
+San Dona\' di Piave,30027,Piazza De Gasperi 5,,
+Frascati,00044,Corso Italia 18,41.807279,12.681232
+Parabiago,20015,Piazza Della Vittoria 7,45.556705,8.950362
+Troina,94018,Via Nuova Del Carmine 6,37.781462,14.597564
+Livinallongo Del Col Di Lana,32020,Via Soraru 59,46.480378,11.957143
+Nicosia,94014,Piazza Garibaldi 29,37.748273,14.398366
+Copparo,44034,Via Mazzini 47,44.892342,11.831335
+Brescia,25123,Piazzale Spedali Civili 1,45.555448,10.232425
+Seriate,24068,Via Paderno 21,45.674651,9.711892
+Treviglio,24047,Piazzale Ospedale 1,45.52,9.59
+Crema,26013,Largo Ugo Dossena 2,45.354601,9.680721
+Cremona,26100,Viale Concordia 1,45.128899,10.051466
+Chiari,25032,Viale G. Mazzini 4,45.54,9.93
+Desenzano del Garda,25015,Localita Montecroce,45.47,10.54
+Milano,20122,Piazza Cardinal Ferrari 1,45.455385,9.192743
+Lecco,23900,Via Dell\'eremo 9-11,,
+Como,22100,Via Napoleona 60,45.795565,9.091401
+Lodi,26900,piazza Ospitale 10,45.31435,9.507528
+Mantova,46100,Strada Lago Paiolo 10,45.167244,10.673459
+Monza,20900,Via Pergolesi 33,45.58,9.27

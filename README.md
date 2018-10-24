@@ -4,11 +4,15 @@
 ## CAP (postcodes) of Italy
 More info: https://www.openstreetmap.org/user/Cascafico/diary/44859
 
+Get amministrazioni.txt file at https://indicepa.gov.it/documentale/n-opendata.php
+Licence Open Data (read, download, copy and reuse allowed)
+
+manually parsed files:
 - cap.csv (municipality,postcode)
 - cap_addr.csv italian postodes with sample addresses (Abbiate Grasso,04128,Via Roma 41)
 
-Licence Open Data (read, download, copy and reuse allowed)
-https://indicepa.gov.it/documentale/n-opendata.php
+alternatively, use OpenRefine with amministrazioni.operations file, exporting tabular data Indirizzo,Comune,Cap
+
 
 ### CAP geocoding
 $ sudo npm install -g csvgeocode
