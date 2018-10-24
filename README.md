@@ -23,12 +23,12 @@ check/add headers accordingly
 alternatively, use OpenRefine to escape apostrophes, trim spaces, remove comma in Indirizzo and Comune, etc.
 
 NOMINATIM
-$ csvgeocode captogeocode.csv capgeocoded.csv --handler osm --delay 1000 --verbose --url "http://nominatim.openstreetmap.org/search?q={{street}},{{postcode}} {{comune}}&format=json"
-rra,40.94976,14.3561691
+$ csvgeocode captogeocode.csv capgeocoded.csv --handler osm --delay 1000 --verbose --url "http://nominatim.openstreetmap.org/search?q={{street}},{{postcode}} {{comune}}&format=json&viewvbox=6,47,15,47"
 
 MAPBOX (more flexible in matches)
 $ csvgeocode captogeocode.csv capgeocoded.csv --handler mapbox --delay 1000 --verbose --url "http://api.tiles.mapbox.com/v4/geocode/mapbox.places/{{street}},{{postcode}} {{city}}.json?access_token=<token>"
 search problem for streets with  apostrophe char (ie: "Via D'Azeglio")
+some coords out of continent (insert Italy in search?)
 
 
 
