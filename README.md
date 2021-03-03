@@ -11,7 +11,10 @@ manually parsed files:
 - cap.csv (municipality,postcode)
 - cap_addr.csv italian postodes with sample addresses (Abbiate Grasso,04128,Via Roma 41)
 
-alternatively, use OpenRefine with amministrazioni.operations file, exporting tabular data Indirizzo,Comune,Cap
+alternatively, use OpenRefine
+- amministrazioni.operations file
+- export tabular data Indirizzo,Comune,Cap
+- apply sort -u -t, -k1,2 openrefinetabularoutput.csv > > tobegeocoded.csv (remember put headers)
 
 
 ### CAP geocoding
@@ -20,7 +23,7 @@ geocoder documentation: https://github.com/veltman/csvgeocode
 
 $ cat cap_addr.csv | awk -F "," '{print $3","$2","$1}' > captogeocode.csv
 check/add headers accordingly
-alternatively, use OpenRefine to escape apostrophes, trim spaces, remove comma in Indirizzo and Comune, etc.
+alternatively, use OpenRefine to remove apostrophes, trim spaces, remove comma in Indirizzo and Comune, etc.
 
 NOMINATIM
 $ csvgeocode captogeocode.csv capgeocoded.csv --handler osm --delay 1000 --verbose --url "http://nominatim.openstreetmap.org/search?q={{street}},{{postcode}} {{comune}}&format=json&viewvbox=6,47,15,47"
