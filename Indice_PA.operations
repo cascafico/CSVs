@@ -1,0 +1,102 @@
+[
+  {
+    "op": "core/column-addition",
+    "description": "Create column addr at index 3 based on column name using expression grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Indirizzo\"].value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "addr",
+    "columnInsertIndex": 3,
+    "baseColumnName": "name",
+    "expression": "grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Indirizzo\"].value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column postcode at index 3 based on column name using expression grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Cap\"].value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "postcode",
+    "columnInsertIndex": 3,
+    "baseColumnName": "name",
+    "expression": "grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Cap\"].value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column website at index 3 based on column name using expression grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"sito_istituzionale\"].value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "website",
+    "columnInsertIndex": 3,
+    "baseColumnName": "name",
+    "expression": "grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"sito_istituzionale\"].value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column ref:vatin at index 3 based on column name using expression grel:\"IT\"+cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Cf\"].value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "ref:vatin",
+    "columnInsertIndex": 3,
+    "baseColumnName": "name",
+    "expression": "grel:\"IT\"+cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Cf\"].value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column email at index 3 based on column name using expression grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"mail1\"].value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "email",
+    "columnInsertIndex": 3,
+    "baseColumnName": "name",
+    "expression": "grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"mail1\"].value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column website using expression grel:replace(value,\"www\",\"https://www\")",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "website",
+          "columnName": "website",
+          "query": "^www",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "website",
+    "expression": "grel:replace(value,\"www\",\"https://www\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column @lat to lat",
+    "oldColumnName": "@lat",
+    "newColumnName": "lat"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column @lon to lon",
+    "oldColumnName": "@lon",
+    "newColumnName": "lon"
+  }
+]
