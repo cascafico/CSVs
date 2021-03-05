@@ -1,7 +1,7 @@
 [
   {
     "op": "core/column-addition",
-    "description": "Create column addr at index 3 based on column name using expression grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Indirizzo\"].value",
+    "description": "Create column addr at index 3 based on column name using expression grel:cell.cross(\"Indice_PA\", \"Comune\")[0].cells[\"Indirizzo\"].value",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
@@ -9,12 +9,12 @@
     "newColumnName": "addr",
     "columnInsertIndex": 3,
     "baseColumnName": "name",
-    "expression": "grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Indirizzo\"].value",
+    "expression": "grel:cell.cross(\"Indice_PA\", \"Comune\")[0].cells[\"Indirizzo\"].value",
     "onError": "set-to-blank"
   },
   {
     "op": "core/column-addition",
-    "description": "Create column postcode at index 3 based on column name using expression grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Cap\"].value",
+    "description": "Create column postcode at index 3 based on column name using expression grel:cell.cross(\"Indice_PA\", \"Comune\")[0].cells[\"Cap\"].value",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
@@ -22,12 +22,12 @@
     "newColumnName": "postcode",
     "columnInsertIndex": 3,
     "baseColumnName": "name",
-    "expression": "grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Cap\"].value",
+    "expression": "grel:cell.cross(\"Indice_PA\", \"Comune\")[0].cells[\"Cap\"].value",
     "onError": "set-to-blank"
   },
   {
     "op": "core/column-addition",
-    "description": "Create column website at index 3 based on column name using expression grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"sito_istituzionale\"].value",
+    "description": "Create column website at index 3 based on column name using expression grel:cell.cross(\"Indice_PA\", \"Comune\")[0].cells[\"sito_istituzionale\"].value",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
@@ -35,12 +35,12 @@
     "newColumnName": "website",
     "columnInsertIndex": 3,
     "baseColumnName": "name",
-    "expression": "grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"sito_istituzionale\"].value",
+    "expression": "grel:cell.cross(\"Indice_PA\", \"Comune\")[0].cells[\"sito_istituzionale\"].value",
     "onError": "set-to-blank"
   },
   {
     "op": "core/column-addition",
-    "description": "Create column ref:vatin at index 3 based on column name using expression grel:\"IT\"+cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Cf\"].value",
+    "description": "Create column ref:vatin at index 3 based on column name using expression grel:\"IT\"+cell.cross(\"Indice_PA\", \"Comune\")[0].cells[\"Cf\"].value",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
@@ -48,12 +48,12 @@
     "newColumnName": "ref:vatin",
     "columnInsertIndex": 3,
     "baseColumnName": "name",
-    "expression": "grel:\"IT\"+cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"Cf\"].value",
+    "expression": "grel:\"IT\"+cell.cross(\"Indice_PA\", \"Comune\")[0].cells[\"Cf\"].value",
     "onError": "set-to-blank"
   },
   {
     "op": "core/column-addition",
-    "description": "Create column email at index 3 based on column name using expression grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"mail1\"].value",
+    "description": "Create column email at index 3 based on column name using expression grel:cell.cross(\"Indice_PA\", \"Comune\")[0].cells[\"mail1\"].value",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
@@ -61,7 +61,7 @@
     "newColumnName": "email",
     "columnInsertIndex": 3,
     "baseColumnName": "name",
-    "expression": "grel:cell.cross(\"Indice PA\", \"Comune\")[0].cells[\"mail1\"].value",
+    "expression": "grel:cell.cross(\"Indice_PA\", \"Comune\")[0].cells[\"mail1\"].value",
     "onError": "set-to-blank"
   },
   {
