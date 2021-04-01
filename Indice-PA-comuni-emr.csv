@@ -1,127 +1,107 @@
-lat,lon,name,email,ref:vatin,website,postcode,addr
-44.4161414,12.2017617,Ravenna,info@pec.acravenna.it,IT00085710390,https://www.acravenna.it,48121,"Piazza Goffredo Mameli, 4"
-44.4766739,11.6383385,Medicina,comune.medicina@cert.provincia.bo.it,IT00421580374,https://www.comune.medicina.bo.it,40059,Via Della Liberta numero 103
-44.6415700,11.3478100,Argelato,comune.argelato@pec.renogalliera.it,IT00968810374,https://www.comune.argelato.bo.it,40050,"Via Argelati, 4"
-44.1629560,11.0358110,Castel di Casio,bomm365005@pec.istruzione.it,IT91378910375,https://www.cpiamontagna.it,40030,"Via Berzantina, 30 10"
-44.1618295,10.8940436,Lizzano in Belvedere,comune.lizzanoinbelvedere@cert.provincia.bo.it,IT01025300375,https://www.comune.lizzano.bo.it,40042,"Piazza Marconi, 6"
-44.2792634,11.2664080,Monzuno,comune.monzuno@cert.provincia.bo.it,IT00956680375,https://www.comune.monzuno.bo.it,40036,Via Casaglia 4
-44.2152590,11.2329140,San Benedetto Val di Sambro,comune.sanbenedettovaldisambro@cert.provincia.bo.it,IT80014530374,https://www.comune.sanbenedettovaldisambro.bo.it,40048,"Via Roma, 39"
-44.3409877,11.2047820,Marzabotto,comune.marzabotto@cert.provincia.bo.it,IT01042720373,https://www.comune.marzabotto.bo.it,40043,"Piazza XX Settembre, 1"
-44.6241987,11.4906968,Minerbio,comune.minerbio@cert.provincia.bo.it,IT01042870376,https://www.comune.minerbio.bo.it,40061,"Via Garibaldi, 44"
-44.6461651,11.5332953,Baricella,comune.baricella@cert.provincia.bo.it,IT01042180370,https://www.comune.baricella.bo.it,40052,"Via Roma, 76"
-44.2758590,10.9994080,Castel d'Aiano,comune.casteldaiano@cert.provincia.bo.it,IT01041620376,https://www.comune.casteldaiano.bo.it,40034,"Piazza Nanni Levera, 12"
-44.1591596,10.9723006,Porretta Terme,,,,,
-44.8941828,11.8278892,Copparo,comune.copparo@cert.comune.copparo.fe.it,IT00053930384,https://www.comune.copparo.fe.it,44034,"Via Roma, 28"
-44.8824077,11.9793488,Jolanda di Savoia,pec@cert-comune-jolandadisavoia-fe.it,IT00313290389,https://www.comune.jolandadisavoia.fe.it,44037,"Piazza Unita' D'Italia, 5"
-44.7590740,11.7511320,Voghiera,comune.voghiera.fe@legalmail.it,IT00289060386,https://www.comune.voghiera.fe.it,44019,"Viale B. Buozzi, 12B"
-44.8508830,12.2949270,Goro,comune.goro@cert.comune.goro.fe.it,IT82000830388,https://www.comune.goro.fe.it,44020,"Piazza Dante Alighieri, 19"
-44.7456780,11.9435210,Ostellato,zerosei@pec.it,IT00815010384,,44020,"Piazza Repubblica, 1"
-44.6963790,12.1804270,Comacchio,comune.comacchio@cert.comune.comacchio.fe.it,IT82000590388,https://www.comune.comacchio.fe.it,44022,"Piazza Folegatti,15"
-44.8315810,12.1095240,Codigoro,comune.codigoro@cert.comune.codigoro.fe.it,IT00339040388,https://www.comune.codigoro.fe.it,44021,"Piazza Matteotti, 60"
-44.7945780,11.8018170,Masi Torello,protocollo@cert.comune.masitorello.fe.it,IT00321080384,https://www.comune.masitorello.fe.it,44020,"Piazza Cesare Toschi, 3"
-44.8000790,11.9738210,Migliaro,,,,,
-44.7659740,11.4901110,Poggio Renatico,comune.poggiorenatico@cert.comune.poggiorenatico.fe.it,IT00339480386,https://www.comune.poggiorenatico.fe.it,44028,"P.za Castello, 1"
-44.0422403,12.3182595,Roncofreddo,roncofreddo@cert.provincia.fc.it,IT81006880405,https://www.comune.roncofreddo.fc.it,47020,"Via C Battisti, 93"
-44.0315914,12.3543893,Borghi,comune.borghi@cert.provincia.fc.it,IT00664610409,https://www.comune.borghi.fc.it,47030,"Piazza Lombardini, 7"
-44.0046630,12.3005410,Sogliano al Rubicone,comune.sogliano@cert.provincia.fc.it,IT81007720402,https://www.comune.sogliano.fc.it,47030,"Piazza Repubblica,35"
-43.9187582,12.1432584,Sarsina,sarsina@pec.unionevallesavio.it,IT81000770404,https://www.comune.sarsina.fc.it,47027,"Largo Alcide De Gasperi, 9"
-44.1022154,11.9816196,Predappio,comune.predappio@cert.provincia.fc.it,IT80008750400,https://www.comune.predappio.fc.it,47016,"Piazza Sant'Antonio, 3"
-44.0829650,12.3044400,Montiano,montiano@pec.unionevallesavio.it,IT81000990408,https://www.comune.montiano.fc.it,47020,Piazza Maggiore 3
-44.1611630,11.7935280,Modigliana,modigliana@cert.provincia.fc.it,IT80002730408,https://www.comune.modigliana.fc.it,47015,"Via Garibaldi, 63"
-44.0744650,12.3275410,Longiano,comune.longiano@cert.provincia.fc.it,IT81001810407,https://www.comune.longiano.fc.it,47020,"Piazza Tre Martiri, 8"
-44.1094660,12.3860420,Gatteo,gatteo@cert.provincia.fc.it,IT81001970409,https://www.comune.gatteo.fc.it,47043,"Piazza A. Vesi, 6"
-44.1169463,12.3387643,Gambettola,comune.gambettola@cert.provincia.fc.it,IT00607230406,https://www.comune.gambettola.fc.it,47035,"Piazza II Risorgimento, 6"
-44.3072628,10.7317768,Lama Mocogno,comune@cert.comune.lamamocogno.mo.it,IT00460930365,https://www.comune.lamamocogno.mo.it,41023,Via XXIV Maggio 4
-44.6776083,11.0436236,Nonantola,comune.nonantola@cert.comune.nonantola.mo.it,IT00237070362,https://www.comune.nonantola.mo.it,41015,Via Guglielmo Marconi 11
-44.2685063,10.9411886,Montese,comunemontese@cert.comune.montese.mo.it,IT00273460360,https://www.comune.montese.mo.it,41055,Via Panoramica 60
-44.3396940,10.8341135,Pavullo nel Frignano,stradevicinalipavullo@pec.it,IT03334870361,,41026,"Piazza Monteccucoli, 1"
-44.3447580,10.7235010,Polinago,comune@cert.comune.polinago.mo.it,IT00474870367,https://www.comune.polinago.mo.it,41040,"Corso Roma, 71"
-44.2047540,10.6166010,Pievepelago,comune@cert.comune.pievepelago.mo.it,IT00632850368,https://www.comune.pievepelago.mo.it,41027,Piazza Vittorio Veneto 16
-44.2299738,10.6515646,Riolunato,comune@cert.comune.riolunato.mo.it,IT00661380360,https://www.comune.riolunato.mo.it,41020,"Via Castello, 8"
-44.1799513,10.6477331,Fiumalbo,comune@cert.comune.fiumalbo.mo.it,IT83000910360,https://www.comune.fiumalbo.mo.it,41022,"Via Capitano Coppi, N.2"
-44.2955550,10.5701980,Frassinoro,comune.frassinoro@pec.it,IT84002170367,https://www.comune.frassinoro.mo.it,41044,Piazza Miani 16
-44.2459550,10.7176020,Montecreto,comune@cert.comune.montecreto.mo.it,IT83000490363,https://www.comune.montecreto.mo.it,41025,Via Roma 24
-44.7297700,11.0384010,Bomporto,comunedibomporto@cert.comune.bomporto.mo.it,IT00662760362,https://www.comune.bomporto.mo.it,41030,Via Per Modena 7
-44.7835699,10.8854523,Carpi,Comune.Carpi@pec.comune.carpi.mo.it,IT00184280360,https://www.carpidiem.it,41012,Corso Alberto Pio 91
-44.5034615,10.9432999,Castelvetro di Modena,comune.castelvetro@cert.unione.terredicastelli.mo.it,IT00285350369,https://www.comune.castelvetro-di-modena.mo.it,41014,"Piazza Roma, 5"
-44.7896710,11.0221000,San Prospero,comunesanprospero@cert.comune.sanprospero.mo.it,IT82002070363,https://www.comune.sanprospero.mo.it,41030,Via Pace 2
-44.5334130,11.0240826,Spilamberto,comune.spilamberto@cert.unione.terredicastelli.mo.it,IT00185420361,https://www.comune.spilamberto.mo.it/,41057,"Piazza Caduti Liberta', 3"
-44.3472638,10.9904070,Zocca,comunezocca@cert.comune.zocca.mo.it,IT00717780365,https://www.comunezocca.it/,41059,Via Del Mercato n. 104
-44.7269690,10.9986000,Bastiglia,comunedibastiglia@cert.comune.bastiglia.mo.it,IT00686230368,https://www.comune.bastiglia.mo.it,41030,Piazza Repubblica 57
-44.5684560,9.8832790,Mormorola,,,,,
-44.5106079,9.9896546,Berceto,protocollo@postacert.comune.berceto.pr.it,IT00202280343,https://www.comune.berceto.pr.it,43042,"Via Marconi, 18"
-44.7211700,11.0984030,Ravarino,comunediravarino@cert.comune.ravarino.mo.it,IT00314810367,https://www.comune.ravarino.mo.it,41017,Via Roma 173
-44.3209570,10.6461000,Palagano,comune.palagano@pec.it,IT00415030360,https://www.comune.palagano.mo.it,41046,"Via 23 Dicembre, 74"
-44.3528570,10.6255990,Montefiorino,comune.montefiorino@pec.it,IT00495090367,https://www.comune.montefiorino.mo.it,41045,"Via Rocca, 1"
-44.6130570,9.9754800,Solignano,protocollo@postacert.comune.solignano.pr.it,IT00419760343,https://www.comune.solignano.pr.it,43040,"Piazza Ubaldo Bertoli, 1"
-44.5205442,10.1991991,Tizzano Val Parma,protocollo@postacert.comune.tizzano-val-parma.pr.it,IT00241790344,https://www.comune.tizzano-val-parma.pr.it,43028,"Piazza Roma, 1"
-44.8587650,10.1751800,Fontevivo,protocollo@postacert.comune.fontevivo.pr.it,IT00429190341,https://www.comune.fontevivo.pr.it,43010,piazza Repubblica n. 1
-45.0093690,10.2193780,Roccabianca,protocollo@postacert.comune.roccabianca.pr.it,IT00427670344,https://www.comune.roccabianca.pr.it,43010,"Viale Rimembranze, 3"
-44.4129554,10.1241904,Monchio delle Corti,protocollo@postacert.comune.monchio-delle-corti.pr.it,IT00341170348,https://www.comune.monchio-delle-corti.pr.it,43010,"Piazza Caduti Di Tutte Le Guerre, 1"
-44.7331681,9.9275557,Pellegrino Parmense,protocollo@postacert.comune.pellegrino-parmense.pr.it,IT00449420348,https://www.comune.pellegrino-parmense.pr.it,43047,"Via Roma, 28"
-44.4374371,10.1944619,Palanzano,protocollo@postacert.comune.palanzano.pr.it,IT00452160344,https://www.comune.palanzano.pr.it,43025,"Piazza Cardinal Ferrari, 1"
-44.8816660,10.1721790,Fontanellato,protocollo@postacert.comune.fontanellato.pr.it,IT00227430345,https://www.comune.fontanellato.pr.it,43012,"P.zza Matteotti, 1"
-44.7764457,9.6062795,Bettola,protocollo@pec.comune.bettola.pc.it,IT00220720338,https://www.comune.bettola.pc.it,29021,Piazza Cristoforo Colombo n. 10
-44.9262660,10.1241780,Soragna,protocollo@postacert.comune.soragna.pr.it,IT00223170341,https://www.comune.soragna.pr.it,43019,Piazzale Meli Lupi N. 1
-44.8624600,9.5453660,Travo,comune.travo@sintranet.legalmail.it,IT00230140337,https://www.comune.travo.pc.it,29020,"P.zza Trento, 21"
-44.9541630,9.7368690,San Giorgio Piacentino,comune.sangiorgio@sintranet.legalmail.it,IT00229130331,https://www.comune.sangiorgiopiacentino.pc.it,29019,Piazza Torrione 4
-44.9991650,9.7885690,Pontenure,comune.pontenure@sintranet.legalmail.it,IT00211890330,https://www.comune.pontenure.pc.it,29010,"Via Moschini, 16"
-44.6232492,9.3326598,Ottone,comune.ottone@sintranet.legalmail.it,IT00231170333,https://www.comune.ottone.pc.it,29026,"Piazza Municipio, 1"
-44.7227486,9.7028607,Morfasso,comune.morfasso@sintranet.legalmail.it,IT81000110338,https://www.comune.morfasso.pc.it,29020,"Via Roma, 23"
-44.6441441,9.4974568,Ferriere,comune.ferriere@sintranet.legalmail.it,IT80011530336,https://www.comune.ferriere.pc.it,29024,"Piazza Delle Miniere, 1"
-44.9051687,9.3287813,Nibbiano,,,,,
-44.8327057,9.7298940,Gropparello,comune.gropparello@sintranet.legalmail.it,IT00284400330,https://www.comune.gropparello.pc.it,29025,"Piazza Roma, 1"
-44.8219940,9.8284819,Lugagnano Val d'Arda,comune.lugagnano@sintranet.legalmail.it,IT00223910332,https://www.comune.lugagnano.pc.it,29018,"Via Bersani,27"
-45.0131630,9.5689640,Gragnano Trebbiense,protocollo@pec.comune.gragnanotrebbiense.pc.it,IT00230280331,https://www.comune.gragnanotrebbiense.pc.it,29010,"Via Roma, 121"
-44.7128373,9.5692864,Farini,comune.farini@sintranet.legalmail.it,IT80000230336,https://www.comune-farini-pc.it,29023,p.zza G. Marconi 10
-44.9280841,9.9107218,Fiorenzuola d'Arda,protocollo@pec.comune.fiorenzuola.pc.it,IT00115070336,https://www.comune.fiorenzuola.pc.it,29017,Piazzale San Giovanni 2
-45.0495995,9.8743749,Caorso,comune.caorso@sintranet.legalmail.it,IT00229440334,https://www.comune.caorso.pc.it,29012,"Piazza Rocca, 1"
-44.8983640,9.9613740,Alseno,comune.alseno@sintranet.legalmail.it,IT00215780339,https://www.comune.alseno.pc.it,29010,"P.zza XXV Aprile, 1"
-44.3838426,11.9402173,Cotignola,pg.comune.cotignola.ra.it@legalmail.it,IT00148580392,https://www.comune.cotignola.ra.it,48010,"Piazza Vittorio Emanuele II, 31"
-44.2770835,11.7245200,Riolo Terme,comune.rioloterme@cert.provincia.ra.it,IT00226010395,https://www.comune.rioloterme.ra.it,48025,"Via Aldo Moro, 2"
-44.9018700,10.5542870,Boretto,protocolloboretto@legalmail.it,IT00439040353,https://www.comune.boretto.re.it,42022,Piazza San Marco 5
-44.8866561,10.8582083,Rolo,rolo@cert.provincia.re.it,IT00440750354,https://www.comune.rolo.re.it,42047,"Corso Repubblica, 39"
-44.8392700,10.7570930,Campagnola Emilia,campagnolaemilia@cert.provincia.re.it,IT00449250356,https://www.comune.campagnola-emilia.re.it,42012,Piazza Roma 2
-44.7633191,10.5951823,Cadelbosco di Sopra,cadelbosco@legalmail.it,IT00441540358,https://www.comune.cadelbosco-di-sopra.re.it/,42023,"Piazza Della Liberta', 1"
-44.6661530,9.2871640,Zerba,comune.zerba@sintranet.legalmail.it,IT00231550336,https://www.comune.zerba.pc.it,29020,Strada Provinciale n. 72
-44.8673610,9.6422680,Ponte dell'Olio,compdo@actaliscertymail.it,IT00255060337,https://www.comune.pontedellolio.pc.it,29028,Via Vittorio Veneto 147
-45.0213670,9.9498720,San Pietro in Cerro,comune.sanpietroincerro@legalmail.it,IT00222560336,https://www.comune.sanpietroincerro.pc.it,29010,"Via Roma, 31/2"
-45.0014620,9.4015600,Ziano Piacentino,elettorale@pec.comune.ziano.pc.it,IT00216920330,https://www.comune.ziano.pc.it,29010,"Via Roma, 167"
-44.4188782,11.9082311,Lugo,RAMM059004@pec.istruzione.it,IT91020360391,https://www.cpiaravenna.edu.it,48022,"Corso Matteotti, 55"
-44.2855555,11.8832055,Faenza,aspromagnafaentina@pec.it,IT02517840399,https://www.aspromagnafaentina.it,48018,"Piazza San Rocco, 2"
-44.3891687,11.8264514,Bagnara di Romagna,pg.comune.bagnara.ra.it@legalmail.it,IT00218780393,https://www.comune.bagnaradiromagna.ra.it,48010,"Piazza Guglielmo Marconi, 2"
-44.4421700,11.8601240,Sant'Agata sul Santerno,pg.comune.santagata.ra.it@legalmail.it,IT00349960393,https://www.comune.santagatasulsanterno.ra.it,48020,"Piazza Garibaldi, 5"
-44.3603680,11.8445250,Solarolo,comune.solarolo@cert.provincia.ra.it,IT00218770394,https://www.comune.solarolo.ra.it,48027,"Piazza Gonzaga, 1"
-44.9050126,10.6302265,Gualtieri,comune.gualtieri@postecert.it,IT00440630358,https://www.comune.gualtieri.re.it,42044,"Piazza Bentivoglio, 26"
-44.8108626,10.5632954,Castelnovo di Sotto,asp-castelnovodisotto@altrapec.com,IT80010310359,https://www.asp-opuscivium.it,42024,"Via Conciliazione, 10"
-44.9211516,10.6539985,Guastalla,guastalla@cert.provincia.re.it,IT00439260357,https://www.comune.guastalla.re.it,42016,Piazza Mazzini n.1
-44.8416698,10.5416150,Poviglio,poviglio@cert.provincia.re.it,IT00440380350,https://www.comune.poviglio.re.it,42028,"Via Giuseppe Verdi, 1"
-44.8720906,10.8100618,Fabbrico,fabbrico@cert.provincia.re.it,IT00440730356,https://www.comune.fabbrico.re.it,42042,"Via Roma, 35"
-44.9185339,10.8042114,Reggiolo,comunereggiolo@postecert.it,IT00440760353,https://www.comune.reggiolo.re.it,42046,"Piazza Martiri 1,2,3"
-44.6258624,10.4222874,San Polo d'Enza,sanpolodenza@cert.provincia.re.it,IT00445450356,https://www.comune.sanpolodenza.re.it,42020,"Piazza IV Novembre, 1"
-44.6201821,10.6019259,Albinea,albinea@cert.provincia.re.it,IT00441130358,https://www.comune.albinea.re.it,42020,"Piazza Cavicchioni, 8"
-43.8726846,12.6685074,Saludecio,comune.saludecio@legalmail.it,IT82006930406,https://www.comunesaludecio.it,47835,Piazza Beato Amato N.1
-43.9204993,12.5520847,Monte Colombo,,,,,
-43.9041617,12.5830579,Gemmano,comune.gemmano@legalmail.it,IT82005670409,https://www.comune.gemmano.rn.it,47855,Piazza Roma 1
-43.9651860,12.6023740,Coriano,comune.coriano@legalmail.it,IT00616520409,https://www.comune.coriano.rn.it,47853,"Piazza Mazzini, 15"
-43.8557055,12.6713923,Mondaino,comune.mondaino@legalmail.it,IT00664480407,https://www.mondaino.com,47836,"Piazza Maggiore, 1 -"
-43.9322054,12.6256931,San Clemente,comune.sanclemente@legalmail.it,IT82009450402,https://www.sanclemente.it,47832,Piazza Mazzini 12
-43.9386683,12.7124941,San Giovanni in Marignano,comune.sangiovanniinmarignano@legalmail.it,IT82005910409,https://www.comune.san-giovanni-in-marignano.rn.it,47842,"Via Roma, 62"
-43.8739600,12.3111440,Maiolo,protocollo@pec.comunemaiolo.it,IT00364720417,https://www.comune.maiolo.rn.it,47862,"Via Capoluogo, 2 Maiolo (rn)"
-43.9049899,12.2858982,Talamello,comune.talamello.rn@pec.it,IT00364280412,https://www.comune.talamello.rn.it,47867,"Piazza Garibaldi, 2"
-43.8969610,12.3436440,San Leo,comune.san-leo@pec.it,IT00315680413,https://www.comune.san-leo.rn.it,47865,Piazza Dante Alighieri N.1
-44.8372737,11.6186451,Ferrara,pec.info@pec.aspfe.it,IT80006330387,https://www.aspfe.it,44121,Via Ripagrande N. 5
-44.9201605,10.2295580,San Secondo Parmense,protocollo@postacert.comune.san-secondo-parmense.pr.it,IT00231310343,https://www.comune.san-secondo-parmense.pr.it,43017,Piazza Mazzini 10
-43.9567436,12.1957664,Mercato Saraceno,mercatosaraceno@pec.unionevallesavio.it,IT00738210400,https://www.comune.mercatosaraceno.fc.it,47025,"Piazza Mazzini, 50"
-44.2221401,11.7722262,Brisighella,comune.brisighella@cert.provincia.ra.it,IT00202300398,https://www.comune.brisighella.ra.it/,48013,Via Naldi 2
-44.6306119,11.2777018,Padulle,,,,,
-44.7447549,11.4375138,San Venanzio,,,,,
-44.7115979,9.3815158,Marsaglia,marsaglia@cert.ruparpiemonte.it,IT00521560045,https://www.comune.marsaglia.cn.it/,12060,Via Del Municipio N. 17
-44.6992584,11.8040780,Portomaggiore,comune.portomaggiore@legalmail.it,IT00292080389,https://www.comune.portomaggiore.fe.it,44015,piazza Umberto I n. 5
-44.2661566,11.3255341,Loiano,comune.loiano@cert.provincia.bo.it,IT80008290373,https://www.loiano.eu,40050,Via Roma 55
-44.3268824,11.4061440,Monterenzio,comune.monterenzio@cert.provincia.bo.it,IT80013710373,https://www.comune.monterenzio.bologna.it,40050,Piazza Guerrino De Giovanni 1
-44.9102508,9.5965212,Rivergaro,comune.rivergaro@sintranet.legalmail.it,IT00271960338,https://www.comune.rivergaro.pc.it,29029,"Via San Rocco, 24"
-43.7911505,12.1551264,Casteldelci,protocollo.comune.casteldelci@pec.it,IT80008970412,https://www.comune.casteldelci.rn.it,47861,Piazza San Nicolo' N.2
-43.9756646,11.7774968,Premilcuore,comune.premilcuore@cert.provincia.fc.it,IT80002530402,https://www.comune.premilcuore.fc.it,47010,Piazza Dei Caduti 14
-44.1425053,11.1665077,Castiglione dei Pepoli,comune.castiglionedeipepoli@cert.provincia.bo.it,IT80014510376,https://www.comune.castiglionedeipepoli.bo.it,40035,"Piazza Marconi, 1"
-44.0810425,11.7442078,Tredozio,tredozio@cert.provincia.fc.it,IT00695070409,https://www.comune.tredozio.fc.it,47019,"Via Dei Martiri , 1"
+lat,lon,name,addr,postcode,website,ref:vatin,mail1
+44.4161414,12.2017617,Ravenna,"Piazza Del Popolo, 1",48121,http://www.comune.ravenna.it,IT00354730392,comune.ravenna@legalmail.it
+44.6415700,11.3478100,Argelato,"Via Argelati, 4",40050,http://www.comune.argelato.bo.it,IT00968810374,comune.argelato@pec.renogalliera.it
+44.1629560,11.0358110,Castel di Casio,Via Marconi 9,40030,http://www.comune.casteldicasio.bo.it,IT01042260370,comune.casteldicasio@cert.provincia.bo.it
+44.1618295,10.8940436,Lizzano in Belvedere,"Piazza Marconi, 6",40042,http://www.comune.lizzano.bo.it,IT01025300375,comune.lizzanoinbelvedere@cert.provincia.bo.it
+44.2792634,11.2664080,Monzuno,Via Casaglia 4,40036,http://www.comune.monzuno.bo.it,IT00956680375,comune.monzuno@cert.provincia.bo.it
+44.2152590,11.2329140,San Benedetto Val di Sambro,"Via Roma, 39",40048,http://www.comune.sanbenedettovaldisambro.bo.it,IT80014530374,comune.sanbenedettovaldisambro@cert.provincia.bo.it
+44.6461651,11.5332953,Baricella,"Via Roma, 76",40052,http://www.comune.baricella.bo.it,IT01042180370,comune.baricella@cert.provincia.bo.it
+44.2758590,10.9994080,Castel d'Aiano,"Piazza Nanni Levera, 12",40034,http://www.comune.casteldaiano.bo.it,IT01041620376,comune.casteldaiano@cert.provincia.bo.it
+44.8941828,11.8278892,Copparo,"Via Roma, 28",44034,http://www.comune.copparo.fe.it,IT00053930384,comune.copparo@cert.comune.copparo.fe.it
+44.8824077,11.9793488,Jolanda di Savoia,"Piazza Unita' D'Italia, 5",44037,http://www.comune.jolandadisavoia.fe.it,IT00313290389,pec@cert-comune-jolandadisavoia-fe.it
+44.7590740,11.7511320,Voghiera,"Viale B. Buozzi, 12B",44019,http://www.comune.voghiera.fe.it,IT00289060386,comune.voghiera.fe@legalmail.it
+44.8508830,12.2949270,Goro,"Piazza Dante Alighieri, 19",44020,http://www.comune.goro.fe.it,IT82000830388,comune.goro@cert.comune.goro.fe.it
+44.7456780,11.9435210,Ostellato,"Piazza Repubblica, 1",44020,http://www.comune.ostellato.fe.it,IT00142430388,comune.ostellato@cert.comune.ostellato.fe.it
+44.6963790,12.1804270,Comacchio,"Piazza Folegatti,15",44022,http://www.comune.comacchio.fe.it,IT82000590388,comune.comacchio@cert.comune.comacchio.fe.it
+44.8315810,12.1095240,Codigoro,"Piazza Matteotti, 60",44021,http://https://www.comune.codigoro.fe.it,IT00339040388,comune.codigoro@cert.comune.codigoro.fe.it
+44.7659740,11.4901110,Poggio Renatico,"P.za Castello, 1",44028,http://www.comune.poggiorenatico.fe.it,IT00339480386,comune.poggiorenatico@cert.comune.poggiorenatico.fe.it
+44.0422403,12.3182595,Roncofreddo,"Via C Battisti, 93",47020,http://www.comune.roncofreddo.fc.it,IT81006880405,roncofreddo@cert.provincia.fc.it
+44.0315914,12.3543893,Borghi,"Piazza Lombardini, 7",47030,http://www.comune.borghi.fc.it,IT00664610409,comune.borghi@cert.provincia.fc.it
+44.0046630,12.3005410,Sogliano al Rubicone,"Piazza Repubblica,35",47030,http://www.comune.sogliano.fc.it,IT81007720402,comune.sogliano@cert.provincia.fc.it
+43.9187582,12.1432584,Sarsina,"Largo Alcide De Gasperi, 9",47027,http://www.comune.sarsina.fc.it,IT81000770404,sarsina@pec.unionevallesavio.it
+44.1022154,11.9816196,Predappio,"Piazza Sant'Antonio, 3",47016,http://www.comune.predappio.fc.it,IT80008750400,comune.predappio@cert.provincia.fc.it
+44.0829650,12.3044400,Montiano,Piazza Maggiore 3,47020,http://www.comune.montiano.fc.it,IT81000990408,montiano@pec.unionevallesavio.it
+44.1611630,11.7935280,Modigliana,"Via Garibaldi, 63",47015,http://www.comune.modigliana.fc.it,IT80002730408,modigliana@cert.provincia.fc.it
+44.0744650,12.3275410,Longiano,"Piazza Tre Martiri, 8",47020,http://www.comune.longiano.fc.it,IT81001810407,comune.longiano@cert.provincia.fc.it
+44.1094660,12.3860420,Gatteo,"Piazza A. Vesi, 6",47043,http://www.comune.gatteo.fc.it,IT81001970409,gatteo@cert.provincia.fc.it
+44.1169463,12.3387643,Gambettola,"Piazza II Risorgimento, 6",47035,http://www.comune.gambettola.fc.it,IT00607230406,comune.gambettola@cert.provincia.fc.it
+44.3072628,10.7317768,Lama Mocogno,Via XXIV Maggio 4,41023,http://www.comune.lamamocogno.mo.it,IT00460930365,comune@cert.comune.lamamocogno.mo.it
+44.6776083,11.0436236,Nonantola,Via Guglielmo Marconi 11,41015,http://www.comune.nonantola.mo.it,IT00237070362,comune.nonantola@cert.comune.nonantola.mo.it
+44.2685063,10.9411886,Montese,Via Panoramica 60,41055,http://www.comune.montese.mo.it,IT00273460360,comunemontese@cert.comune.montese.mo.it
+44.3396940,10.8341135,Pavullo nel Frignano,"Piazza Montecuccoli, 1",41026,http://www.comune.pavullo-nel-frignano.mo.it,IT00223910365,comune.pavullo@cert.comune.pavullo-nel-frignano.mo.it
+44.3447580,10.7235010,Polinago,"Corso Roma, 71",41040,http://www.comune.polinago.mo.it,IT00474870367,comune@cert.comune.polinago.mo.it
+44.2047540,10.6166010,Pievepelago,Piazza Vittorio Veneto 16,41027,http://www.comune.pievepelago.mo.it,IT00632850368,comune@cert.comune.pievepelago.mo.it
+44.2299738,10.6515646,Riolunato,"Via Castello, 8",41020,http://www.comune.riolunato.mo.it,IT00661380360,comune@cert.comune.riolunato.mo.it
+44.1799513,10.6477331,Fiumalbo,"Via Capitano Coppi, N.2",41022,http://www.comune.fiumalbo.mo.it,IT83000910360,comune@cert.comune.fiumalbo.mo.it
+44.2955550,10.5701980,Frassinoro,Piazza Miani 16,41044,http://www.comune.frassinoro.mo.it,IT84002170367,comune.frassinoro@pec.it
+44.2459550,10.7176020,Montecreto,Via Roma 24,41025,http://www.comune.montecreto.mo.it,IT83000490363,comune@cert.comune.montecreto.mo.it
+44.7297700,11.0384010,Bomporto,Via Per Modena 7,41030,http://www.comune.bomporto.mo.it,IT00662760362,comunedibomporto@cert.comune.bomporto.mo.it
+44.7835699,10.8854523,Carpi,Corso Alberto Pio 91,41012,http://www.carpidiem.it,IT00184280360,Comune.Carpi@pec.comune.carpi.mo.it
+44.5034615,10.9432999,Castelvetro di Modena,"Piazza Roma, 5",41014,http://www.comune.castelvetro-di-modena.mo.it,IT00285350369,comune.castelvetro@cert.unione.terredicastelli.mo.it
+44.7896710,11.0221000,San Prospero,Via Pace 2,41030,http://www.comune.sanprospero.mo.it,IT82002070363,comunesanprospero@cert.comune.sanprospero.mo.it
+44.5334130,11.0240826,Spilamberto,"Piazza Caduti Liberta', 3",41057,http://www.comune.spilamberto.mo.it/,IT00185420361,comune.spilamberto@cert.unione.terredicastelli.mo.it
+44.3472638,10.9904070,Zocca,Via Del Mercato n. 104,41059,http://https://www.comunezocca.it/,IT00717780365,comunezocca@cert.comune.zocca.mo.it
+44.7269690,10.9986000,Bastiglia,Piazza Repubblica 57,41030,http://www.comune.bastiglia.mo.it,IT00686230368,comunedibastiglia@cert.comune.bastiglia.mo.it
+44.5106079,9.9896546,Berceto,"Via Marconi, 18",43042,http://www.comune.berceto.pr.it,IT00202280343,protocollo@postacert.comune.berceto.pr.it
+44.7211700,11.0984030,Ravarino,Via Roma 173,41017,http://www.comune.ravarino.mo.it,IT00314810367,comunediravarino@cert.comune.ravarino.mo.it
+44.3209570,10.6461000,Palagano,"Via 23 Dicembre, 74",41046,http://www.comune.palagano.mo.it,IT00415030360,comune.palagano@pec.it
+44.3528570,10.6255990,Montefiorino,"Via Rocca, 1",41045,http://www.comune.montefiorino.mo.it,IT00495090367,comune.montefiorino@pec.it
+44.6130570,9.9754800,Solignano,"Piazza Ubaldo Bertoli, 1",43040,http://www.comune.solignano.pr.it,IT00419760343,protocollo@postacert.comune.solignano.pr.it
+44.8587650,10.1751800,Fontevivo,piazza Repubblica n. 1,43010,http://www.comune.fontevivo.pr.it,IT00429190341,protocollo@postacert.comune.fontevivo.pr.it
+45.0093690,10.2193780,Roccabianca,"Viale Rimembranze, 3",43010,http://www.comune.roccabianca.pr.it,IT00427670344,protocollo@postacert.comune.roccabianca.pr.it
+44.4129554,10.1241904,Monchio delle Corti,"Piazza Caduti Di Tutte Le Guerre, 1",43010,http://www.comune.monchio-delle-corti.pr.it,IT00341170348,protocollo@postacert.comune.monchio-delle-corti.pr.it
+44.4374371,10.1944619,Palanzano,"Piazza Cardinal Ferrari, 1",43025,http://www.comune.palanzano.pr.it,IT00452160344,protocollo@postacert.comune.palanzano.pr.it
+44.7764457,9.6062795,Bettola,Piazza Cristoforo Colombo n. 10,29021,http://www.comune.bettola.pc.it,IT00220720338,protocollo@pec.comune.bettola.pc.it
+44.9262660,10.1241780,Soragna,Piazzale Meli Lupi N. 1,43019,http://www.comune.soragna.pr.it,IT00223170341,protocollo@postacert.comune.soragna.pr.it
+44.8624600,9.5453660,Travo,"P.zza Trento, 21",29020,http://www.comune.travo.pc.it,IT00230140337,comune.travo@sintranet.legalmail.it
+44.9541630,9.7368690,San Giorgio Piacentino,Piazza Torrione 4,29019,http://www.comune.sangiorgiopiacentino.pc.it,IT00229130331,comune.sangiorgio@sintranet.legalmail.it
+44.9991650,9.7885690,Pontenure,"Via Moschini, 16",29010,http://www.comune.pontenure.pc.it,IT00211890330,comune.pontenure@sintranet.legalmail.it
+44.6232492,9.3326598,Ottone,"Piazza Municipio, 1",29026,http://www.comune.ottone.pc.it,IT00231170333,comune.ottone@sintranet.legalmail.it
+44.7227486,9.7028607,Morfasso,"Via Roma, 23",29020,http://www.comune.morfasso.pc.it,IT81000110338,comune.morfasso@sintranet.legalmail.it
+44.8327057,9.7298940,Gropparello,"Piazza Roma, 1",29025,http://www.comune.gropparello.pc.it,IT00284400330,comune.gropparello@sintranet.legalmail.it
+44.8219940,9.8284819,Lugagnano Val d'Arda,"Via Bersani,27",29018,http://www.comune.lugagnano.pc.it,IT00223910332,comune.lugagnano@sintranet.legalmail.it
+45.0131630,9.5689640,Gragnano Trebbiense,"Via Roma, 121",29010,http://www.comune.gragnanotrebbiense.pc.it,IT00230280331,protocollo@pec.comune.gragnanotrebbiense.pc.it
+44.7128373,9.5692864,Farini,p.zza G. Marconi 10,29023,http://www.comune-farini-pc.it,IT80000230336,comune.farini@sintranet.legalmail.it
+44.9280841,9.9107218,Fiorenzuola d'Arda,Piazzale San Giovanni 2,29017,http://www.comune.fiorenzuola.pc.it,IT00115070336,protocollo@pec.comune.fiorenzuola.pc.it
+45.0495995,9.8743749,Caorso,"Piazza Rocca, 1",29012,http://www.comune.caorso.pc.it,IT00229440334,comune.caorso@sintranet.legalmail.it
+44.8983640,9.9613740,Alseno,"P.zza XXV Aprile, 1",29010,http://www.comune.alseno.pc.it,IT00215780339,comune.alseno@sintranet.legalmail.it
+44.3838426,11.9402173,Cotignola,"Piazza Vittorio Emanuele II, 31",48010,http://www.comune.cotignola.ra.it,IT00148580392,pg.comune.cotignola.ra.it@legalmail.it
+44.2770835,11.7245200,Riolo Terme,"Via Aldo Moro, 2",48025,http://www.comune.rioloterme.ra.it,IT00226010395,comune.rioloterme@cert.provincia.ra.it
+44.9018700,10.5542870,Boretto,Piazza San Marco 5,42022,http://www.comune.boretto.re.it,IT00439040353,protocolloboretto@legalmail.it
+44.8866561,10.8582083,Rolo,"Corso Repubblica, 39",42047,http://www.comune.rolo.re.it,IT00440750354,rolo@cert.provincia.re.it
+44.8392700,10.7570930,Campagnola Emilia,Piazza Roma 2,42012,http://www.comune.campagnola-emilia.re.it,IT00449250356,campagnolaemilia@cert.provincia.re.it
+44.7633191,10.5951823,Cadelbosco di Sopra,"Piazza Della Liberta', 1",42023,http://www.comune.cadelbosco-di-sopra.re.it/,IT00441540358,cadelbosco@legalmail.it
+44.6661530,9.2871640,Zerba,Strada Provinciale n. 72,29020,http://www.comune.zerba.pc.it,IT00231550336,comune.zerba@sintranet.legalmail.it
+44.8673610,9.6422680,Ponte dell'Olio,Via Vittorio Veneto 147,29028,http://www.comune.pontedellolio.pc.it,IT00255060337,compdo@actaliscertymail.it
+45.0213670,9.9498720,San Pietro in Cerro,"Via Roma, 31/2",29010,http://www.comune.sanpietroincerro.pc.it,IT00222560336,comune.sanpietroincerro@legalmail.it
+45.0014620,9.4015600,Ziano Piacentino,"Via Roma, 167",29010,http://www.comune.ziano.pc.it,IT00216920330,elettorale@pec.comune.ziano.pc.it
+44.4188782,11.9082311,Lugo,Piazza Dei Martiri 1,48022,http://www.comune.lugo.ra.it,IT82002550398,pg.comune.lugo.ra.it@cert.legalmail.it
+44.2855555,11.8832055,Faenza,"Piazza Del Popolo, 31",48018,http://www.comune.faenza.ra.it,IT00357850395,comune.faenza@cert.provincia.ra.it
+44.3891687,11.8264514,Bagnara di Romagna,"Piazza Guglielmo Marconi, 2",48010,http://www.comune.bagnaradiromagna.ra.it,IT00218780393,pg.comune.bagnara.ra.it@legalmail.it
+44.4421700,11.8601240,Sant'Agata sul Santerno,"Piazza Garibaldi, 5",48020,http://www.comune.santagatasulsanterno.ra.it,IT00349960393,pg.comune.santagata.ra.it@legalmail.it
+44.3603680,11.8445250,Solarolo,"Piazza Gonzaga, 1",48027,http://www.comune.solarolo.ra.it,IT00218770394,comune.solarolo@cert.provincia.ra.it
+44.9050126,10.6302265,Gualtieri,"Piazza Bentivoglio, 26",42044,http://www.comune.gualtieri.re.it,IT00440630358,comune.gualtieri@postecert.it
+44.8108626,10.5632954,Castelnovo di Sotto,Piazza 4 Novembre 1,42024,http://www.comune.castelnovo-di-sotto.re.it,IT00453840357,info@pec.comune.castelnovo-di-sotto.re.it
+44.8720906,10.8100618,Fabbrico,"Via Roma, 35",42042,http://www.comune.fabbrico.re.it,IT00440730356,fabbrico@cert.provincia.re.it
+44.9185339,10.8042114,Reggiolo,"Piazza Martiri 1,2,3",42046,http://www.comune.reggiolo.re.it,IT00440760353,comunereggiolo@postecert.it
+44.6258624,10.4222874,San Polo d'Enza,"Piazza IV Novembre, 1",42020,http://www.comune.sanpolodenza.re.it,IT00445450356,sanpolodenza@cert.provincia.re.it
+44.6201821,10.6019259,Albinea,"Piazza Cavicchioni, 8",42020,http://www.comune.albinea.re.it,IT00441130358,albinea@cert.provincia.re.it
+43.8726846,12.6685074,Saludecio,Piazza Beato Amato N.1,47835,http://www.comunesaludecio.it,IT82006930406,comune.saludecio@legalmail.it
+43.9651860,12.6023740,Coriano,"Piazza Mazzini, 15",47853,http://www.comune.coriano.rn.it,IT00616520409,comune.coriano@legalmail.it
+43.8557055,12.6713923,Mondaino,"Piazza Maggiore, 1 -",47836,http://www.mondaino.com,IT00664480407,comune.mondaino@legalmail.it
+43.9322054,12.6256931,San Clemente,Piazza Mazzini 12,47832,http://www.sanclemente.it,IT82009450402,comune.sanclemente@legalmail.it
+43.9386683,12.7124941,San Giovanni in Marignano,"Via Roma, 62",47842,http://www.comune.san-giovanni-in-marignano.rn.it,IT82005910409,comune.sangiovanniinmarignano@legalmail.it
+43.8739600,12.3111440,Maiolo,"Via Capoluogo, 2 Maiolo (rn)",47862,http://www.comune.maiolo.rn.it,IT00364720417,protocollo@pec.comunemaiolo.it
+43.9049899,12.2858982,Talamello,"Piazza Garibaldi, 2",47867,http://www.comune.talamello.rn.it,IT00364280412,comune.talamello.rn@pec.it
+43.8969610,12.3436440,San Leo,Piazza Dante Alighieri N.1,47865,http://www.comune.san-leo.rn.it,IT00315680413,comune.san-leo@pec.it
+44.8372737,11.6186451,Ferrara,"p. Municipale, 2",44120,http://www.comune.fe.it,IT00297110389,comune.ferrara@cert.comune.fe.it
+44.9201605,10.2295580,San Secondo Parmense,Piazza Mazzini 10,43017,http://www.comune.san-secondo-parmense.pr.it,IT00231310343,protocollo@postacert.comune.san-secondo-parmense.pr.it
+43.9567436,12.1957664,Mercato Saraceno,"Piazza Mazzini, 50",47025,http://www.comune.mercatosaraceno.fc.it,IT00738210400,mercatosaraceno@pec.unionevallesavio.it
+44.2221401,11.7722262,Brisighella,Via Naldi 2,48013,http://www.comune.brisighella.ra.it/,IT00202300398,comune.brisighella@cert.provincia.ra.it
+44.6992584,11.8040780,Portomaggiore,piazza Umberto I n. 5,44015,http://www.comune.portomaggiore.fe.it,IT00292080389,comune.portomaggiore@legalmail.it
+44.2661566,11.3255341,Loiano,Via Roma 55,40050,http://www.loiano.eu,IT80008290373,comune.loiano@cert.provincia.bo.it
+44.9102508,9.5965212,Rivergaro,"Via San Rocco, 24",29029,http://www.comune.rivergaro.pc.it,IT00271960338,comune.rivergaro@sintranet.legalmail.it
+43.7911505,12.1551264,Casteldelci,Piazza San Nicolo' N.2,47861,http://www.comune.casteldelci.rn.it,IT80008970412,protocollo.comune.casteldelci@pec.it
+43.9756646,11.7774968,Premilcuore,Piazza Dei Caduti 14,47010,http://www.comune.premilcuore.fc.it,IT80002530402,comune.premilcuore@cert.provincia.fc.it
+44.1425053,11.1665077,Castiglione dei Pepoli,"Piazza Marconi, 1",40035,http://www.comune.castiglionedeipepoli.bo.it,IT80014510376,comune.castiglionedeipepoli@cert.provincia.bo.it
+44.0810425,11.7442078,Tredozio,"Via Dei Martiri , 1",47019,http://www.comune.tredozio.fc.it,IT00695070409,tredozio@cert.provincia.fc.it
