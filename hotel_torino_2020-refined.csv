@@ -1,0 +1,447 @@
+latitude,longitude,stars,name,Indirizzo,addr:street,addr:housenumber,addr:postcode,addr:city,phone,email,website,wheelchair,rooms,beds
+45.1911461744,7.01478448257,1,Della Posta,VIA MAESTRA 115,Via Maestra, 115,10050,Novalesa,+39 0122653245,albergodellaposta@yahoo.it,www.albergodellaposta.com,no,18,38
+45.027344,6.859229,1,Derby,VIA MONFOL 8,Via Monfol, 8,10050,Sauze D'Oulx,+39 3409678343,info@powdercatskiitaly.com,,no,14,20
+45.364374,7.223246,3,Savoia,VIA SANTUARIO 5,Via Santuario, 5,10070,Groscavallo,+39 012381184,,,no,11,21
+45.075889,7.664158,2,Statuto,VIA PRINCIPI D'ACAJA 17,Via Principi D'acaja, 17,10138,Torino,+39 0114344638,statuto@gaiahotels.it ,https://www.gaiahotels.it/statuto,no,22,36
+45.075629,7.510818,3,Davide,VIA LEGNANO 21,Via Legnano, 21,10098,Rivoli,+39 0119534097,info@hoteldaviderivoli.com,www.hoteldaviderivoli.com,yes,39,74
+44.85974,7.89923,3,Rio Verde,VIA ALBA 10,Via Alba, 10,10040,Pralormo,+39 01119885381-0119481358,info@hotelrioverde.it,www.hotelrioverde.it,yes,16,32
+45.154125,7.797524,4,Green Hotel,VIA MILANO 177,Via Milano, 177,10036,Settimo Torinese,+39 0118005661,info@green-hotel.it,www.green-hotel.it,yes,41,87
+44.95479,7.176826,3,Chiabriera,BORGATA CHIABRERA 2,Borgata Chiabrera, 2,10063,Pomaretto,+39 0121803358,info@hotelchiabriera.it,www.hotelchiabriera.it,yes,6,19
+45.193169,7.888736,3,La Noce,PIAZZA GARIBALDI GIUSEPPE 10,Piazza Garibaldi Giuseppe, 10,10034,Chivasso,+39 0119101614,info@hotel-lanoce.it,www.hotel-lanoce.it,yes,20,30
+44.9566972866,6.80430458879,4,Rio Envers,FRAZIONE SAN SICARIO  ,Frazione San Sicario  ,,10054,Cesana Torinese,+39 0122811937,info@hotelrioenvers.com,www.mountainhotelsgroup.it,no,46,100
+45.063748,7.678126,3,Astoria,VIA XX SETTEMBRE 4,Via Xx Settembre, 4,10121,Torino,+39 0115620653,info@astoriahotel.it,https://www.astoriahotel.it,yes,57,86
+44.973086,6.895559,3,Sciatori,VIA S. FILIPPO 5,Via S. Filippo, 5,10058,Sestriere,+39 0122751920,info@hotel-sciatori.com,www.hotel-sciatori.com,no,17,38
+45.106551,7.645341,3,Master Hotel,CORSO GROSSETO 366,Corso Grosseto, 366,10151,Torino,+39 0114555482,info@masterhoteltorino.it,https://www.masterhoteltorino.it,yes,35,93
+45.055415,7.676183,4,Executive Hotel Residence,VIA NIZZA 28,Via Nizza, 28,10125,Torino,+39 0116507707,hotel.executive@gtgrouphotels.com,https://www.hotelexecutivetorino.com,yes,51,150
+45.061453,7.67446,3,Luxor,CORSO STATI UNITI 7,Corso Stati Uniti, 7,10128,Torino,+39 0115620777,info@hoteluxor.it,https://www.hoteluxor.it,no,77,138
+45.313289,7.530795,3,Del Gallo,PIAZZA CADUTI PER LA LIBERTA' 36,Piazza Caduti Per La Liberta', 36,10070,Corio,+39 011928844,info@albergodelgallo.it,www.albergodelgallo.it,yes,16,20
+45.027176,6.858388,2,Assietta,PIAZZA ASSIETTA 4,Piazza Assietta, 4,10050,Sauze D'Oulx,+39 0122850180,info@albergoassietta.it,www.albergoassiettta.it,no,18,44
+45.074127,7.618946,4,Holiday Inn Turin - Corso Francia,PIAZZA MASSAUA 21,Piazza Massaua, 21,10142,Torino,+39 011740187,reservations@hiturin.it,https://www.hiturin.it,yes,130,263
+44.976223,7.715187,4,Meditur Hotel,STRADA PALERA 96,Strada Palera, 96,10024,Moncalieri,+39 0116477801,manager.torino@hotelidea,www.ideahotel.it,yes,80,160
+44.9383157997,6.74891134592,3,Savoia,VIA NAZIONALE 34,Via Nazionale, 34,10050,Claviere,+39 0122878803,htl_savoia@libero.it,www.claviere.it,no,28,74
+45.085684,7.677756,4,Pacific Hotel Fortino,STRADA DEL FORTINO 36,Strada del Fortino, 36,10152,Torino,+39 0115217757,hotelfortino@pacifichotels.it,https://www.pacifichotels.it,yes,92,174
+45.033334,7.648164,3,Cairo,VIA LA LOGGIA 6,Via La Loggia, 6,10134,Torino,+39 0113171555,info@hotelcairo.it,https://www.hotelcairo.it,yes,46,69
+45.080687,6.698294,3,Bucaneve,VIALE DELLA VECCHIA 2,Viale della Vecchia, 2,10052,Bardonecchia,+39 3356024714,info@hotelbucanevebardonecchia.it,www.hotelbucanevebardonecchia.it,yes,15,38
+45.200538,7.529009,4,Relais Bella Rosina,VIA AGNELLI GIOVANNI 2,Via Agnelli Giovanni, 2,10070,Fiano,+39 0119233600,info@bellarosina.it,www.bellarosina.it,yes,21,44
+45.107461,7.707291,4,Novotel Torino,CORSO GIULIO CESARE  338/34,Corso Giulio Cesare  338/34,,10154,Torino,+39 0112601211,h3306@accor.com,https://www.novotel.com,yes,162,324
+45.175331,7.714063,4,Air Palace Hotel,VIA TORINO 100,Via Torino, 100,10040,Leinì,+39 0119977777,info@airpalacehotel.com,www.airpalacehotel.com,yes,89,178
+45.066172,7.691709,3,Amadeus e Teatro,VIA PRINCIPE AMEDEO 41 Bis,Via Principe Amedeo 41, Bis,10123,Torino,+39 0118174951,info@hotelamadeustorino.com,https://www.hotelamadeustorino.com,no,28,51
+44.93791,6.746571,3,Miramonti,VIA RIO SECCO 1,Via Rio Secco, 1,10050,Claviere,+39 0122878804,miramonti.claviere@libero.it,,no,19,46
+45.028774,6.832043,3,Oberje Dla Viere,VIA DES AMBROIS 41,Via Des Ambrois, 41,10056,Oulx,+39 0122830888,info@oberjedlaviere.com,www.oberjedlaviere.com,yes,16,40
+45.06713,7.67783,4,Golden Palace 2,VIA ARCIVESCOVADO 14/F,Via Arcivescovado 14/f,,10121,Torino,+39 0115512111,infogolden@allegroitalia.it,https://www.allegroitalia.it,yes,103,206
+45.07623,7.652029,3,Tourist,VIA ALPIGNANO 3,Via Alpignano, 3,10143,Torino,+39 0117761740,info@torinohoteltourist.it,,no,28,48
+45.080687,6.698294,4,Jafferau,LOCALITA' FREGIUSIA  ,Localita' Fregiusia  ,,10052,Bardonecchia,+39 012299899,booking@hoteljafferau.it,www.hoteljafferau.it,yes,93,258
+45.300086,7.460721,3,Italia,VIA CAPOLUOGO 188,Via Capoluogo, 188,10070,Coassolo Torinese,+39 012345588,info@hotelitaliasaber.it,www.hotelitaliasaber.it,yes,12,34
+45.084511,7.470084,3,Des Alpes,CORSO MONCENISIO 55,Corso Moncenisio, 55,10090,Rosta,+39 0119567777,info@hoteldesalpes.com,www.hoteldesalpes.com,yes,60,99
+45.0712346838,6.69441299527,4,Ca' Fiore,S.P. MELEZET 2,S.P. Melezet, 2,10052,Bardonecchia,+39 012296591,info@cafiore.it,www.cafiore.it,yes,35,98
+45.041931,7.35136,3,Valsangone,PIAZZA MOLINES 46,Piazza Molines, 46,10094,Giaveno,+39 0119766812,albergovalsangone@ica-net.it,www.albergovalsangone.it,yes,15,23
+45.084944,7.404088,2,Vittoria,CORSO TORINO 90/A,Corso Torino 90/a,,10051,Avigliana,+39 0119367367,,,no,11,24
+45.448572,8.005016,3,Taverna Verde,S.S. 228 LAGO DI VIVERONE 28,S.S. 228 Lago di Viverone, 28,10010,Piverone,+39 0125687965,info@tavernaverde.it,www.tavernaverde.it,no,11,25
+45.315526,7.388622,3,Valli di Lanzo,VIA ROMA  11,Via Roma , 11,10070,Ceres,+39 012353180,info@ristorantevallidilanzo.eu,www.ristorantevallidilanzo.eu,no,8,13
+45.0715422757,6.69646870571,4,Rive' Hotel,REGIONE MOLINO  4,Regione Molino , 4,10052,Bardonecchia,+39 0122909233,info@hotelrive.it,www.hotelrive.it,yes,77,220
+45.448572,8.005016,3,Meuble' Giardino,STRADA STATALE 228 10,Strada Statale 228, 10,10010,Piverone,+39 0125727237,meublegiardino@libero.it,www.meublegiardino.it,no,12,24
+45.0112723853,7.81604130759,3,Park Hotel,VIALE FRANCESCO FASANO  34,Viale Francesco Fasano , 34,10023,Chieri,+39 3884265681,info@ilparkhotel.it,www.ilparkhotel.it,yes,26,46
+45.033715,7.655482,1,Azzurro,VIA TAGGIA 65,Via Taggia, 65,10134,Torino,+39 0113195739,,,no,11,21
+44.958972,6.876597,4,Grand Hotel Sestriere,VIA ASSIETTA 1,Via Assietta, 1,10058,Sestriere,+39 012276476,info@grandhotelsestriere.it,www.grandhotelsestriere.it,yes,97,245
+45.329184,7.718854,3,Europa,VIALE LOSEGO 22,Viale Losego, 22,10086,Rivarolo Canavese,+39 0124425871,,,yes,40,67
+45.063988,7.376746,3,Hermitage,VIA SACRA DI SAN MICHELE 12,Via Sacra di San Michele, 12,10051,Avigliana,+39 0119369207,info@ristorantehermitage.it,www.ristorantehermitage.it,no,8,16
+45.467708,7.883513,3,Eden,CORSO D'AZEGLIO MASSIMO 67,Corso D'azeglio Massimo, 67,10015,Ivrea,+39 012549190,info@hoteledenivrea.it,www.mediturhotels.it,no,36,71
+45.027088,6.856486,3,Gran Baita,VIA VILLAGGIO ALPINO 21,Via Villaggio Alpino, 21,10050,Sauze D'Oulx,+39 0122850183,granbaitasauze@gmail.com,www.granbaitasauze.it,no,32,78
+45.031502,7.613917,2,Casa del Re,CORSO ORBASSANO 460,Corso Orbassano, 460,10137,Torino,+39 3204026244,zhaodongkui2233210@gmail.com,,yes,15,25
+45.113484,7.780386,1,Il Patio,VIA CASALE 146,Via Casale, 146,10099,San Mauro Torinese,+39 3388674438,,,no,10,16
+44.958089,7.190488,2,Valentino,PIAZZA III ALPINI 4/A,Piazza Iii Alpini 4/a,,10063,Perosa Argentina,+39 0121803781,,www.hotelvalentinoristorante.it,no,30,52
+45.094937,7.650108,3,Castello,VIA VEROLENGO 202,Via Verolengo, 202,10149,Torino,+39 011731665,hotelcastello@libero.it,https://www.hotelcastellotorino.com,no,20,36
+44.836277,7.494479,3,Residence Hotel Vigone,VIA MONTAGNA 3,Via Montagna, 3,10067,Vigone,+39 0119802527,info@vigone.com,www.vigone.com,yes,13,41
+45.060752,7.685024,1,Doria,VIA ACCADEMIA ALBERTINA 42 ,Via Accademia Albertina 42 ,,10123,Torino,+39 0118390601,,,no,20,25
+45.08518,7.657543,4,Royal,CORSO REGINA MARGHERITA 249,Corso Regina Margherita, 249,10144,Torino,+39 3487214500,info@hotelroyaltorino.it,https://www.hotelroyaltorino.it,yes,75,141
+45.204585,7.619638,3,Flying Hotel,VIA TORINO 34,Via Torino, 34,10077,San Maurizio Canavese,+39 0119278550,info@hotelflying.com,www.hotelflying.com,no,26,43
+45.065219,7.681519,5,Principi di Piemonte,VIA GOBETTI PIERO 15,Via Gobetti Piero, 15,10123,Torino,+39 01155151,info@principidipiemonte.com,https://www.atahotels.it,yes,99,249
+45.315185,7.303569,2,Ala,VIA VILLAR 10,Via Villar, 10,10070,Ala Di Stura,+39 0123565028,info@albergoristoranteala.it,www.albergoristoranteala.it,no,19,35
+45.189693,7.879957,3,Fortyfive,STRADALE TORINO 40,Stradale Torino, 40,10034,Chivasso,+39 0119131152,info@hotelfortyfive.it,www.hotelfortyfive.it,yes,21,41
+45.175326,7.648047,2,Caccia Reale,VIA GARIBALDI 1,Via Garibaldi, 1,10072,Caselle Torinese,+39 0119961392,cacciareale@tiscali.it,www.cacciareale.it,no,7,13
+44.850483,7.721814,3,San Marco,VIA SAN FRANCESCO DI SALES 18,Via San Francesco di Sales, 18,10022,Carmagnola,+39 0119626953,info@sanmarcoalbergo.com,www.sanmarcoalbergo.com,yes,20,45
+45.130335,7.200941,1,Paradise,LOCALITA' POSTA  7,Localita' Posta , 7,10050,Bruzolo,+39 0119637243,paradise.74@libero.it,www.paradisebruzolo.it,no,7,16
+45.028108,6.860474,3,Serendipity,VIA MONFOL 21,Via Monfol, 21,10050,Sauze D'Oulx,+39 0122675174,info@serendipityhotel.eu,www.serendipityhotel.eu,yes,20,47
+45.432221,7.237321,2,Chalet del Lago,BORGATA PIAN DELLA BALMA 10,Borgata Pian della Balma, 10,10080,Ceresole Reale,+39 0124953128,info@chalet-ceresolereale.it,www.chalet-ceresolereale.it,no,9,15
+45.088275,7.393344,3,Sport,CORSO TORINO 248,Corso Torino, 248,10051,Avigliana,+39 0119342384,info@hotelsport.org,www.hotelsport.org,yes,29,60
+45.5363477407,7.85929109768,2,'l Burnel,VIA MAESTRA 31,Via Maestra, 31,10010,Nomaglio,+39 0125604051,lburnel@libero.it,,no,7,11
+45.15406,7.74992,2,L'ultimo Borgo,STRADA CEBROSA 166,Strada Cebrosa, 166,10036,Settimo Torinese,+39 0118975846,info@golfsettimo.it,www.ultimoborgo.com,yes,12,20
+45.064181,7.678453,1,Napoleon,VIA XX SETTEMBRE 5,Via Xx Settembre, 5,10121,Torino,+39 0115613223,info@hotelnapoleontorino.it,,no,13,25
+45.056376,7.694615,3,Crimea,VIA MENTANA 3,Via Mentana, 3,10133,Torino,+39 0116604700,info@hotelcrimea.it,https://www.hotelcrimea.it,no,49,92
+45.45757,7.85722,4,Crystal Palace,VIA CIRCONVALLAZIONE 4 F,Via Circonvallazione 4, F,10010,Banchette,+39 0125613060,info@hcrystalpalace.com,www.hcrystalpalace.com,yes,29,58
+45.10701,7.272002,1,Dell'angelo,VIA TORINO 130,Via Torino, 130,10050,Sant'antonino Di Susa,+39 3420760436,,,no,9,18
+45.041684,7.671285,2,Smeraldo,PIAZZA CARDUCCI GIOSUE' 169 B,Piazza Carducci Giosue' 169, B,10126,Torino,+39 0116634577-3299839909,info@hotelsmeraldotorino.it,https://www.hotelsmeraldotorino.it,no,13,25
+45.080687,6.698294,1,Pian del Sole,REGIONE GRANGE HYPPOLITES 1,Regione Grange Hyppolites, 1,10052,Bardonecchia,+39 0122999266,info@piandelsole.it,www.piandelsole.it ,no,10,19
+44.971474,6.894329,3,Banchetta,VIA DEL COLLE 28,Via del Colle, 28,10058,Sestriere,+39 012270307,sestriere2000@sestriere2000.com,www.sestriere2000.com,yes,28,46
+45.033365,7.523614,3,Hotelto,VI STRADA INTERPORTO - SUD  ,Vi Strada Interporto - Sud  ,,10040,Rivalta Di Torino,+39 0113981600 ,info@hotelto.it,https://www.hotelto.it,yes,118,276
+45.017146,6.941716,3,Ski Jumping Hotel,VIA WENNBACH HANN  ,Via Wennbach Hann  ,,10060,Pragelato,+39 012278471,booking@hotelskijumping.it,www.hotelskijumping.it,yes,33,99
+45.063303,7.680844,4,Concord,VIA LAGRANGE GIUSEPPE LUIGI 47 ,Via Lagrange Giuseppe Luigi 47 ,,10123,Torino,+39 0115176756,booking@hotelconcordtorino.com,https://www.hotelconcordtorino.com,no,139,229
+45.073412,6.703536,3,Park Hotel Rosa Serenella,VIALE DELLA VITTORIA 37,Viale della Vittoria, 37,10052,Bardonecchia,+39 0122999066,rosaserenella@virgilio.it,,no,33,78
+45.115054,7.708376,3,Vittoriano,CORSO GIULIO CESARE 373,Corso Giulio Cesare, 373,10156,Torino,+39 0112621258,direzione@hotelvittoriano.com,https://www.hotelvittoriano.com,no,24,50
+44.9475996204,6.85240384587,2,Del Centro,VIA NAZIONALE 7,Via Nazionale, 7,10058,Sestriere,+39 012277138,info@albergodelcentro.it,www.albergodelcentro.it,no,9,20
+45.025292,6.859388,3,Hermitage,VIA MIRAMONTI 7,Via Miramonti, 7,10050,Sauze D'Oulx,+39 0122881572,info@sauzedoulx.org,www.sauzedoulx.org,yes,22,42
+45.0456043509,7.67511629358,3,Valentino Du Parc,VIA DI BONDONE GIOTTO 16,Via di Bondone Giotto, 16,10126,Torino,+39 011673932,hotelvalentinoduparc@yahoo.com,https://www.hotelvalentinoduparc.com,no,18,25
+45.0444,7.771894,3,Pino Torinese,VIA ROMA 34,Via Roma, 34,10025,Pino Torinese,+39 011843404-3402526211,info@hotelpinotorinese.it,www.hotelpinotorinese.it,no,7,14
+45.0608821941,7.67279131816,2,Montevecchio,VIA MONTEVECCHIO RODOLFO DETTO GABRIELLI 13 Bis,Via Montevecchio Rodolfo Detto Gabrielli 13, Bis,10128,Torino,+39 0115620023,info@hotelmontevecchio.com,https://www.hotelmontevecchio.com,no,29,48
+45.075545,6.706112,3,I Larici,VIA MONTENERO 28,Via Montenero, 28,10052,Bardonecchia,+39 0122902490,info@hotelilarici.com,www.hotelilarici.com,no,18,48
+44.95761,6.881104,4,Cristallo,VIA PINEROLO 5,Via Pinerolo, 5,10058,Sestriere,+39 0122750707,info@hotelcristallosestriere.com ,www.hotelcristallosestriere.com,yes,46,140
+45.064523,7.6787,3,Adalesia,VIA XX SETTEMBRE 7/A,Via Xx Settembre 7/a,,10121,Torino,+39 011545361,info@adalesia.it,https://www.hoteladalesia.it,no,9,21
+45.034387,7.684717,1,Gran Mago,VIA SABAUDIA 25 Bis,Via Sabaudia 25, Bis,10133,Torino,+39 0116611435,albergogranmago@gmail.com,,no,11,20
+45.23269,7.857634,3,Garden,PIAZZA FROLA SECONDO SENATORE 4,Piazza Frola Secondo Senatore, 4,10017,Montanaro,+39 0119193216,garden.albergo2017@gmail.com,,yes,7,14
+45.026323,6.861044,3,La Terrazza,VIA CLOTES 32,Via Clotes, 32,10050,Sauze D'Oulx,+39 0122850173,chezlaterrazzahotel@gmail.com,www.hotellaterrazzasauze.com,no,40,99
+44.941181,6.758525,3,Clari,REGIONE SAN GERVASIO 1,Regione San Gervasio, 1,10050,Claviere,+39 0122878876,info@hotelclari.it,www.hotelclari.it,yes,17,52
+45.141813,7.190638,3,Massi Hotel Valle di Susa,VIA CAVOUR 18/b,Via Cavour 18/b,,10050,Bruzolo,+39 0119637610,info@massihotel.com,www.massihotel.com,yes,18,37
+45.064344,7.650808,3,Universo,CORSO PESCHIERA 166,Corso Peschiera, 166,10138,Torino,+39 011336480,info@universohotel.it,https://www.universohotel.it,no,36,66
+45.061695,7.673781,3,Italia,CORSO STATI UNITI 9 Bis,Corso Stati Uniti 9, Bis,10128,Torino,+39 0115620402,info@hotelitaliatorino.it,https://www.hotelitaliatorino.it,no,49,81
+45.06548,7.691199,1,Alba,VIA MARIA VITTORIA 34,Via Maria Vittoria, 34,10123,Torino,+39 0118127981,info@albergoalba.it,https://www.albergoalba.it,no,7,11
+45.0327782506,7.65455538779,3,Astor,PIAZZA GALIMBERTI TANCREDI DUCCIO 12 ,Piazza Galimberti Tancredi Duccio 12 ,,10134,Torino,+39 0113173073,info@hotelastortorino.it,https://www.hotelastortorino.it,no,28,56
+44.920113,7.425244,2,Centro,VIA  UMBERTO I   50,Via  Umberto I  , 50,10060,Piscina,+39 0121570147,,,no,7,12
+45.562504,7.80684,2,Mini Hotel Praiale,VIA RE UMBERTO I 5,Via Re Umberto I, 5,10010,Quincinetto,+39 0125757188,info@hotelpraiale.it,www.hotelpraiale.it,no,9,15
+45.003536,7.129575,3,Lion,VIA NAZIONALE 141,Via Nazionale, 141,10060,Roure,+39 0121842012,info@hotellion.it,www.hotellion.it,no,12,25
+45.11201,7.6604,1,Squalo Blu,VIA VERONESE PAOLO 344,Via Veronese Paolo, 344,10148,Torino,+39 0112974946,losqualo02@gmail.com,,no,9,20
+45.067418,7.675762,3,Artua',VIA BROFFERIO ANGELO 1 ,Via Brofferio Angelo 1 ,,10121,Torino,+39 0115175301,info@artua.it,https://www.artua.it,no,14,25
+44.941574,7.346608,3,Locanda della Maison Verte,VIA ROSSI 34,Via Rossi, 34,10060,Cantalupa,+39 0121354610,information@maisonvertehotel.com,www.maisonvertehotel.com,yes,28,59
+45.232476,7.222697,3,Rocciamelone,VIA ROMA 37,Via Roma, 37,10070,Usseglio,+39 012383743,albergo.rocciamelone@gmail.com,www.albergorocciamelone.com,yes,17,32
+45.032131,7.587226,3,Relais La Tour,STRADA DEL BOTTONE 36,Strada del Bottone, 36,10043,Orbassano,+39 3394655036,jacopofea@libero.it,,yes,10,24
+45.025892,6.855738,3,Gran Trun,VIA ASSIETTA 39,Via Assietta, 39,10050,Sauze D'Oulx,+39 0122850016,amministrazione@gruppoabc.info,,no,11,25
+45.084969,7.488606,3,Garden,CORSO SUSA 381,Corso Susa, 381,10098,Rivoli,+39 0119580274-0119564405,hotelgardenrivoli@tiscali.it,www.hotelgardenrivoli.it,no,26,65
+45.155332,7.786799,3,Da Sergio,VIA BRESCIA 6,Via Brescia, 6,10036,Settimo Torinese,+39 0118007069,info@da-sergio.it,www.da-sergio.it,yes,9,19
+44.932421,7.611125,2,Ristorante Hotel Celestino,CORSO ITALIA 10,Corso Italia, 10,10040,Piobesi Torinese,+39 0119650343-0119657034,info@hotelristorantecelestino.it,www.hotelristorantecelestino.it,yes,12,18
+45.225655,7.605574,4,Gotha,VIA TORINO 53,Via Torino, 53,10034,Ciriè,+39 0119212059,gotha@gothahotel.com,www.gothahotel.com,yes,45,78
+45.061859,7.39215,3,Caprice,VIA PINEROLO 1,Via Pinerolo, 1,10051,Avigliana,+39 0119312646,info@capricehotel.it,www.capricehotel.it,yes,10,18
+44.91693,7.743803,3,La Siesta,VIA VALLONGO 27,Via Vallongo, 27,10029,Villastellone,+39 0119610954,lasiestahotel@hotmail.it,www.hotellasiesta.it,yes,11,22
+45.024891,7.641696,3,Cristallo,CORSO TRAIANO 28/9,Corso Traiano 28/9,,10135,Torino,+39 011618383/4,info@hotelcristallotorino.it,https://www.hotelcristallotorino.it,no,35,50
+44.951467,6.874439,4,Principi di Piemonte,VIA SAUZE 3,Via Sauze, 3,10058,Sestriere,+39 01227941,info@principidipiemonte.it,www.prinicpidipiemonte.it,no,100,230
+44.808705,7.13658,3,Palavas,BORGATA GARNIER 1,Borgata Garnier, 1,10060,Villar Pellice,+39 335334119,albergo.palavas@libero.it,,yes,15,24
+45.062235,7.380904,3,Chalet del Lago La Libellula,VIA MONGINEVRO 26,Via Monginevro, 26,10051,Avigliana,+39 0119369225,,www.hotelchaletdellago.com,yes,23,42
+44.940326,6.753537,3,Piccolo Chalet,VIA TORINO 7,Via Torino, 7,10050,Claviere,+39 0122878806,info@piccolochalet.it,www.piccolochalet.it,yes,27,60
+45.369115,7.282175,1,Setugrino,CORSO ROMA 10,Corso Roma, 10,10070,Groscavallo,+39 012381016,setugrino@gmail.com,,yes,7,16
+45.274887,7.474198,3,Piemonte,VIA UMBERTO I 23,Via Umberto I, 23,10074,Lanzo Torinese,+39 012329461,info@hotelristorantepiemonte.it,www.hotelristorantepiemonte.it,no,34,71
+45.192069,7.014879,2,La Chiocciola,STRADA S. ANTONIO 1,Strada S. Antonio, 1,10050,Novalesa,+39 0122653245,albergodellaposta@yahoo.it,www.albergodellaposta.com,no,8,18
+45.01593,7.628423,3,Original,VIA FARINELLI ARTURO 4,Via Farinelli Arturo, 4,10135,Torino,+39 0113910508,info@hoteloriginal.it,https://www.hoteloriginal.it,yes,16,21
+45.095141,7.650839,4,Art Hotel Olympic,VIA VEROLENGO 19,Via Verolengo, 19,10149,Torino,+39 01139997,info@arthotelolympic.it,https://www.arthotelolympic.com,yes,147,285
+45.041928,6.846416,2,La Casetta del Gad,VIA RICCARDO GHIOTTI 19,Via Riccardo Ghiotti, 19,10056,Oulx,+39 0122831087,info@lacasettadelgad.it,www.lacasettadelgad.it,no,9,22
+44.952567,6.791936,4,Edelweiss,PIAZZA DES ESCARTONS 6,Piazza Des Escartons, 6,10054,Cesana Torinese,+39 012289450-012297345,info@hoteledelweisscesana.com,www.hoteledelweisscesana.com,yes,19,53
+45.028988,7.688584,3,La Cicala,STRADA DEL FIOCCARDO 3,Strada del Fioccardo, 3,10133,Torino,+39 3475341727,hotel-lacicala@libero.it,https://www.lacicalahotel.it,no,14,24
+45.077884,6.71045,3,Sommeiller,PIAZZA STATUTO 3,Piazza Statuto, 3,10052,Bardonecchia,+39 012299582,info@hotelsommeiller.it,www.hotelsommeillerbardonecchia.com ,yes,31,77
+44.952567,6.791936,3,Olympic Centre Cesana,Frazione Sansicario  57,Frazione Sansicario , 57,10054,Cesana Torinese,+39 0122811513 - 3333466344,massimo@gestimax.it,www.gestimax.it,yes,58,189
+45.069764,7.667674,1,Vinzaglio,CORSO VINZAGLIO 12,Corso Vinzaglio, 12,10121,Torino,+39 0115613793,albergo@albergovinzaglio.it,https://www.albergovinzaglio.it,no,14,25
+45.061739,7.67664,4,Genova,VIA SACCHI PAOLO 14 B,Via Sacchi Paolo 14, B,10128,Torino,+39 0115629400,info@albergogenova.it,https://www.albergogenova.it,yes,92,176
+45.232536,7.22253,2,Grand Usseglio,VIA ROMA 21,Via Roma, 21,10070,Usseglio,+39 012383740,info@hotelgrandusseglio.com,www.hotelgrandusseglio.com,no,22,42
+45.061407964,7.67985528813,3,Taverna Dantesca,VIA SAN PIO V  0,Via San Pio V , 0,10125,Torino,+39 0116505737,info@hoteltavernadantesca.it,https://www.hoteltavernadantesca.it,no,30,52
+45.06016,7.681086,1,Lux,VIA GALLIARI BERNARDINO 9 ,Via Galliari Bernardino 9 ,,10125,Torino,+39 0116687482,hotel.lux@pec.it,,no,17,25
+45.061386,7.390963,3,Domus,VIA GIAVENO 4,Via Giaveno, 4,10051,Avigliana,+39 0119369059,,,no,10,21
+45.073675,7.680989,3,Dogana Vecchia,VIA CORTE D'APPELLO 4 ,Via Corte D'appello 4 ,,10122,Torino,+39 0114366752,info@hoteldoganavecchia.com,https://www.hoteldoganavecchia.com,yes,58,90
+45.462741,7.874031,2,Aquila Nera,CORSO NIGRA COSTANTINO 56,Corso Nigra Costantino, 56,10015,Ivrea,+39 0125641416,aquilanera.ditony@gmail.com,www.aquilanera-nera.it,no,14,24
+45.062062,7.680338,3,Genio,CORSO VITTORIO EMANUELE II 47,Corso Vittorio Emanuele Ii, 47,10125,Torino,+39 0116505771,info@hotelgenio.it,https://www.hotelgenio.it,yes,116,200
+45.0636434574,7.69487309667,3,Alpi Resort,VIA BONAFUS 5,Via Bonafus, 5,10123,Torino,+39 0118129677,reservation@hotelalpiresort.it,https://www.hotelalpiresort.it,yes,34,62
+45.02068,7.66274,3,Air Palace Lingotto,VIA NIZZA 362/3,Via Nizza 362/3,,10127,Torino,+39 0116630665,info@airpalacelingotto.com,https://www.airpalacelingotto.com,yes,38,73
+44.955912,6.877159,3,Villaggio degli Atleti,VIA POSSETTO 9,Via Possetto, 9,10058,Sestriere,+39 3335004322,info@uappalasestriere.com,www.uappalasestriere.com,yes,210,485
+45.260505,7.465993,3,Delle Valli,VIA MIGLIETTI CELSO 67,Via Miglietti Celso, 67,10070,Germagnano,+39 012327816,info@hoteldellevalli.it,www.hoteldellevalli.it,no,26,40
+45.136915,7.626543,3,Cascina di Corte,VIA AMEDEO DI CASTELLAMONTE 2,Via Amedeo di Castellamonte, 2,10078,Venaria,+39 0114593278 ,info@cascinadicorte.it,www.cascinadicorte.it,yes,12,17
+45.024939,6.845233,3,Martin,FRAZIONENE JOUVENCEAUX 113,Frazionene Jouvenceaux, 113,10050,Sauze D'Oulx,+39 3356089733,info@hotelmartin.com,www.hotelmartin.com,no,18,47
+45.103677,7.75949,3,La Pace,VIA ROMA 36,Via Roma, 36,10099,San Mauro Torinese,+39 0118221945-8222700,info@hotelapace.it,www.hotelapace.it,no,25,50
+45.363023,7.344117,2,Albero Fiorito,VIA ROMA  23,Via Roma , 23,10070,Chialamberto,+39 0123506707,,,no,10,19
+45.082225,6.690074,2,Europa,VIA LA RHO 80/82,Via La Rho 80/82,,10052,Bardonecchia,+39 0122901444,europa@heuropa.com,www.heuropa.com,no,42,98
+45.419447,7.883098,3,Gardenia,REGIONE POARELLO 11,Regione Poarello, 11,10090,Romano Canavese,+39 0125631095,info@hgardenia.com,www.hgardenia.com,yes,38,74
+45.296421,7.888888,3,Erbaluce,VIA NUOVA CIRCONVALLAZIONE  1,Via Nuova Circonvallazione , 1,10014,Caluso,+39 0119891503,info@hotel-erbaluce.com,www.hotel-erbaluce.com,yes,40,74
+45.060966,7.679968,3,Urbani,VIA SALUZZO 7 ,Via Saluzzo 7 ,,10125,Torino,+39 0116695047,,,yes,48,80
+45.4720904014,7.92259999778,3,La Fontana,STRADA STATALE 228 DEL LAGO DI VIVERONE 24,Strada Statale 228 del Lago di Viverone, 24,10010,Burolo,+39 012557141,,,no,18,36
+45.143968,7.748119,3,Record Hotel,VIA LEINI' 101,Via Leini', 101,10036,Settimo Torinese,+39 0118009773,info@recordhotel.it,www.recordhotel.it,no,194,232
+45.273899,7.421338,2,Lusiana,VIA LUSIANA 5,Via Lusiana, 5,10070,Traves,+39 0123410009,info@albergoristorantelusiana.it,www.albergoristorantelusiana.it,no,20,40
+44.954014,6.867456,4,Belvedere,VIA CESANA 18,Via Cesana, 18,10058,Sestriere,+39 0122750698,info@hotelbelvederesestriere.com ,www.hotebelvederesestriere.com,yes,36,140
+45.065242,7.683098,1,Abanyta,VIA CAVOUR CAMILLO BENSO 9 ,Via Cavour Camillo Benso 9 ,,10123,Torino,+39 011531584,albergo.abanyta@gmail.com,,no,15,25
+45.065021,7.683785,5,Grand Hotel Sitea,VIA CARLO ALBERTO 35,Via Carlo Alberto, 35,10123,Torino,+39 0115170171,info@gradhotelsitea.it,https://www.grandhotelsitea.it,yes,120,200
+45.04224,7.63025,3,Guido Reni,VIA TEMPIO PAUSANIA 43,Via Tempio Pausania, 43,10137,Torino,+39 0113149318,albergo.guido.reni@gmail.com,https://www.albergoguidoreni.it,yes,38,76
+45.029121,7.832499,3,Villa Les Reves,STRADA SANTA MARGHERITA 14,Strada Santa Margherita, 14,10023,Chieri,+39 0119427236,info@villalesreves.com,www.villalesreves.com,no,7,12
+45.36987,7.280244,3,Pialpetta,PIAZZA SAN LORENZO 1,Piazza San Lorenzo, 1,10070,Groscavallo,+39 0123819801,,,yes,14,23
+45.025692,6.858948,3,Stella Alpina,VIA MIRAMONTI 22/24,Via Miramonti 22/24,,10050,Sauze D'Oulx,+39 0122858731,info@stellalpinahotel.it,www.stellalpinahotel.it,no,38,82
+45.093419,7.690453,3,Lo Squalo,CORSO VERCELLI 98 ,Corso Vercelli 98 ,,10155,Torino,+39 011235300,losqualo01@gmail.com,,no,15,25
+44.956796,7.057471,3,La Foresteria,LOCALITA' MOLINO 6,Localita' Molino, 6,10060,Massello,+39 0121808678-3668183564,lory@foresteriamassello.it,www.foresteriamassello.it,yes,8,16
+45.316218,7.305058,3,Grand Ala di Stura,VIA PIAN DEL TETTO 2,Via Pian del Tetto, 2,10070,Ala Di Stura,+39 012355189-012355290,info@grandhotelaladistura.it,www.grandhotelaladistura.it,yes,22,38
+45.14733,7.383534,1,La Pineta,BORGATA MADONNA VICO  2,Borgata Madonna Vico , 2,10040,Rubiana,+39 0119370582,,,no,10,19
+45.017146,6.941716,2,Info Point Villaggio Kinka,VIA NAZIONALE 20,Via Nazionale, 20,10060,Pragelato,+39 3482307615,info@villaggiokinka.it,www.villaggiokinka.it,no,8,15
+45.149282,7.707988,2,Stellina,VIA CUORGNE' 95,Via Cuorgne', 95,10072,Caselle Torinese,+39 3485555694,,,no,8,12
+45.116154,7.743406,3,Glis,CORSO LOMBARDIA 42,Corso Lombardia, 42,10099,San Mauro Torinese,+39 0112740151,info@hotelglis.it,www.hotelglis.it,yes,77,156
+45.073304,7.664137,3,Orchidea,VIA BEAUMONT CLAUDIO 31 C,Via Beaumont Claudio 31, C,10138,Torino,+39 0114343114,info@hotelorchidea.com,https://www.hotelorchidea.com,no,25,43
+45.073534,7.668546,3,Dock Milano,VIA CERNAIA 46,Via Cernaia, 46,10122,Torino,+39 0115622622,dockmilano@bqhotel.it,https://www.hoteldockmilano.it,yes,70,135
+45.432221,7.237321,2,Lo Stambecco,BORGATA PIAN DELLA BALMA 17,Borgata Pian della Balma, 17,10080,Ceresole Reale,+39 0124953161 - 3272657981,zafira68@libero.it,,yes,7,14
+45.025687,6.85834,3,Sauze,VIA MIRAMONTI 12,Via Miramonti, 12,10050,Sauze D'Oulx,+39 0122850285,info@sauzehotel.com,www.sauzehotel.com,no,27,48
+45.078684,7.68382,3,San Giors,VIA BORGO DORA 3,Via Borgo Dora, 3,10152,Torino,+39 0115216357,info@hotelsangiors.it,https://www.hotelsangiors.it,no,13,21
+45.045043,7.586429,4,Motel Prestige,STRADA DEL PORTONE 102,Strada del Portone, 102,10095,Grugliasco,+39 0113975664,info@hotelmotelprestige.it,www.hotelmotelprestige.it,yes,87,174
+45.022874,6.84822,3,Etoile Des Neiges,BORGATA JOUVENCEAUX 24,Borgata Jouvenceaux, 24,10050,Sauze D'Oulx,+39 3493903912,info@etoiledesneiges.it,www.etoiledesneiges.it,no,13,34
+44.956952,6.877996,3,Savoy Edelweiss,VIA FRAITEVE 7,Via Fraiteve, 7,10058,Sestriere,+39 012277040,info@hotelsavoysestriere.com,www.hotelsavoysestriere.com,yes,29,65
+44.94838,6.79597,3,Club Solaris,VIALE IV NOVEMBRE  27,Viale Iv Novembre , 27,10054,Cesana Torinese,+39 0122897154,info@clubhotelsolaris.it,www.clubhotelsolaris.it,yes,58,112
+44.954347,6.793788,3,Chaberton,VIA ROMA 10,Via Roma, 10,10054,Cesana Torinese,+39 012289147,info@hotelchaberton.com,www.hotelchaberton.com,no,27,69
+45.231474,7.206851,3,Furnasa,VIA XXIV MAGGIO 16,Via Xxiv Maggio, 16,10070,Usseglio,+39 012383788,furnasa@libero.it,www.ristorantehotelfurnasa.it,yes,8,12
+44.939312,7.334605,3,Tre Denti,VIA ROMA 25,Via Roma, 25,10060,Cantalupa,+39 0121352063,info@albergotredenti.com,www.albergotredenti.com,yes,36,74
+44.9763989348,7.51378370909,3,Tenuta Canta,STRADA VICINALE CANTA 65,Strada Vicinale Canta, 65,10040,Volvera,+39 0119906982,info@tenutacanta.it,www.tenutacanta.it,yes,10,24
+45.010301,7.530793,3,Eden,STRADA RIVALTA 15,Strada Rivalta, 15,10043,Orbassano,+39 0119063131,eden.orbassano@tiscali.it,www.edenhotel.info,yes,39,56
+45.223682,7.660645,4,Romantic Hotel Furno,VIA ROGGERI 2,Via Roggeri, 2,10070,San Francesco Al Campo,+39 0119274900,info@romantichotelfurno.it,www.romantichoteltorino.com,yes,33,64
+45.061301,7.680201,3,Due Mondi,VIA SALUZZO 3,Via Saluzzo, 3,10125,Torino,+39 0116698981/6505084,info@hotelduemondi.it,https://www.hotelduemondi.it,no,42,89
+44.963937,6.880358,3,Lago Losetta Melvin Jones,STRADA AZZURRI D'ITALIA 4,Strada Azzurri D'italia, 4,10058,Sestriere,+39 0122754041,info@hotellagolosetta.it,,yes,23,77
+45.130184,7.583798,3,Dropiluc,STRADA MADONNA 15,Strada Madonna, 15,10040,Druento,+39 0119941340,info@hoteldropiluc.it,www.hoteldropiluc.it,yes,30,43
+45.042225,7.672623,3,Continental,VIA GENOVA 2,Via Genova, 2,10126,Torino,+39 0116964537,info@continental.to.it,https://www.continental.to.it,no,49,71
+45.143431,7.49121,3,Vald-hotel,VIA LANZO 35,Via Lanzo, 35,10040,Val Della Torre,+39 0119689696,info@valdhotel.it,www.valdhotel.it,yes,56,111
+44.952567,6.791936,4,Sansicario Majestic,CLOS DE LA MAIS  ,Clos De La Mais  ,,10054,Cesana Torinese,+39 012281051,info@bluserena.it,www.bluserena.it,yes,155,347
+44.965979,7.571872,3,Candiolo Hotel,VIA SESTRIERE 12,Via Sestriere, 12,10060,Candiolo,+39 0119622380,candiolo@bqhotel.it,www.candiolo.bqhotel.it,yes,53,93
+45.436743,7.879324,3,La Villa,VIA TORINO 334,Via Torino, 334,10015,Ivrea,+39 0125631696,info@ivrealavilla.com,www.ivrealavilla.com,yes,37,65
+44.928403,7.524615,2,Quo Vadis,VIA SESTRIERE 71,Via Sestriere, 71,10060,None,+39 0119865179,info@hotelquovadis.org hotel-quovadis@libero.it,www.hotelquovadis.org,no,31,49
+45.017721,6.879034,3,Ciao Pais,VIA CASE SPARSE 17,Via Case Sparse, 17,10050,Sauze D'Oulx,+39 0122850280,info@ciaopais.it,www.ciaopais.it,no,11,16
+45.31307,7.38784,3,Ceres,VIA ALA 1,Via Ala, 1,10070,Ceres,+39 0123521079,trestelle95@hotmail.it,,no,7,12
+45.059963,7.681629,1,Sara,VIA GALLIARI BERNARDINO 12 ,Via Galliari Bernardino 12 ,,10125,Torino,+39 011658946,reception@hotelsara.torino.it,https://www.hotelsara.torino.it,no,7,12
+45.0592456968,7.5546349907,3,Tulip Inn Turin West,CORSO ALLAMANO CANONICO GIUSEPPE 153,Corso Allamano Canonico Giuseppe, 153,10098,Rivoli,+39 0119517811,info@tulipinnturinwest.com,www.tulipinnturinwest.com,yes,113,237
+45.083323,7.41904,4,Ninfa Hotel,VIALE GANDHI 9,Viale Gandhi, 9,10051,Avigliana,+39 0119761611,info@hotelninfa.it,,yes,76,190
+45.07732,7.664509,3,Principi D'acaja,VIA PRINCIPI D'ACAJA 8,Via Principi D'acaja, 8,10143,Torino,+39 0114338348,info@hotelprincipidacaja.com,https://www.hotelprincipidacaja.com,no,14,25
+45.099841,7.75138,3,Elite,VIA TRENTO 35,Via Trento, 35,10099,San Mauro Torinese,+39 0118221888,info@hotelelitetorino.it,www.hotelelitetorino.it,no,20,40
+45.192508,7.890733,3,Ritz,VIA ROMA 17,Via Roma, 17,10034,Chivasso,+39 0119102191,info@ritzchivasso.it,www.ritzchivasso.it,yes,38,63
+45.051553,7.294179,3,Piemonte,VIA FREINETTO 5,Via Freinetto, 5,10050,Coazze,+39 0119349130,piemonte2@libero.it,www.albergoristorantepiemonte.com,no,29,54
+45.070575,7.694972,2,Serenella,VIA TARINO LUIGI 4,Via Tarino Luigi, 4,10124,Torino,+39 011837031-3492118593,info@albergoserenella.com,https://www.albergoserenella.com,no,7,10
+45.509207,7.750004,3,Le Miniere,PIAZZA MARTIRI 1944 4,Piazza Martiri 1944, 4,10080,Traversella,+39 0125749006,albergominiere@albergominiere.com,www.albergominiere.com,no,25,36
+45.428797,7.79798,3,Villa Soleil,VIA DELLA CARTIERA 13/15,Via della Cartiera 13/15,,10010,Colleretto Giacosa,+39 0125669022,info@villasoleil.it,www.villasoleil.it,yes,15,39
+45.01646,7.66249,1,Bengasi,VIA CIMABUE DOMENICO,Via Cimabue, DOMENICO,10024,Moncalieri,+39 3396056006,info@hotelbengasi.it,www.hotelbengasi.it,no,9,18
+45.062968,7.644,3,Adriano,VIA POLLENZO 41,Via Pollenzo, 41,10141,Torino,+39 0113854050-0113854667,reception@hotel-adriano.it,https://www.hotel-adriano.it,no,33,57
+45.4942,7.778579,2,Centro,PIAZZA GARIBALDI 1,Piazza Garibaldi, 1,10080,Vico Canavese,+39 012574348,info@albergocentro.net,www.albergocentro.net,yes,11,23
+45.43326,7.23301,2,Meuble' Sport,BORGATA CAPOLUOGO 12,Borgata Capoluogo, 12,10080,Ceresole Reale,+39 3492935560,info@albergosportceresole.it,www.albergosportceresole.it,no,9,21
+45.005873,7.534945,3,J Hotel,VIA FREJUS 2,Via Frejus, 2,10043,Orbassano,+39 0119002796,info@jhotel.it,www.jhotel.it,yes,18,34
+45.027688,6.85996,2,Villa Cary,VIA MONFOL 13,Via Monfol, 13,10050,Sauze D'Oulx,+39 0122850191,marilynrose@tiscali.it,www.villacary.com,no,17,24
+45.201417,7.655056,3,Ruatta,VIA DEVIETTI GOGGIA 80,Via Devietti Goggia, 80,10077,San Maurizio Canavese,+39 0119247860,ruatta@libero.it,,yes,7,9
+45.0251305853,6.84506305979,2,Des Amis,FRAZIONE JOVENCEAUX 131,Frazione Jovenceaux, 131,10050,Sauze D'Oulx,+39 3386132213,,,no,28,54
+45.068599,7.648658,1,Casa Ex Allievi Salesiani In Famiglia,VIA REVELLO 27 ,Via Revello 27 ,,10100,Torino,+39 0114470122,albergoexallievi@email.it,,no,10,18
+45.435737,7.855231,4,Castello di Pavone,VIA RICETTI 1,Via Ricetti, 1,10018,Pavone Canavese,+39 0125672111,info@castellodipavone.com,www.castellodipavone.com,no,27,51
+45.025909,6.856698,3,Chalet Faure,VIA CHABERTON  4,Via Chaberton , 4,10050,Sauze D'Oulx,+39 0122859760,info@sauzehotelfaure.it,www.faure.it,no,11,28
+45.063392,7.677554,2,Bologna,CORSO VITTORIO EMANUELE II 60 ,Corso Vittorio Emanuele Ii 60 ,,10121,Torino,+39 0115620191,info@hotelbolognasrl.it,https://www.hotelbolognasrl.it,no,44,69
+45.10652,7.315894,1,Stazione,VIA CONDOVE 4,Via Condove, 4,10050,Chiusa Di San Michele,+39 3393840343,,,no,7,14
+45.067023,7.689463,3,Des Artistes,VIA PRINCIPE AMEDEO 21,Via Principe Amedeo, 21,10123,Torino,+39 0118124416,info@desartisteshotel.it,https://www.desartisteshotel.it,no,22,25
+45.0519146364,7.34901123859,2,Miramonte,VIA MONTE RUBINET 10,Via Monte Rubinet, 10,10094,Giaveno,+39 0119377409,albergo.miramonte@gmail.com,,no,18,24
+45.0271561283,6.85962706236,4,Relais Des Alpes,PIAZZA III REGIMENTO ALPINI 24,Piazza Iii Regimento Alpini, 24,10050,Sauze D'Oulx,+39 0122859831,info@hotelrelaisdesalpes.com,www.hotelrelaisdesalpes.com,no,63,186
+45.026653,6.858898,3,Holiday Debili,VIA CLOTES 5,Via Clotes, 5,10050,Sauze D'Oulx,+39 0122850260,info@hotelholidaydebili.it,www.hotelholidaydebili.it,yes,41,94
+45.065255,7.685363,4,Victoria,VIA COSTA NINO 4,Via Costa Nino, 4,10123,Torino,+39 0115611909,info@hotelvictoria-torino.com,https://www.hotelvictoria-torino.com,yes,106,200
+45.081502,7.63248,3,Lo Scudiero,VIA EXILLES 84 ,Via Exilles 84 ,,10146,Torino,+39 0117732032,info@hotelscudiero.it,https://www.hotelscudiero.it,yes,23,54
+45.02622,6.859281,3,Savoia Debili,VIA CLOTES 20,Via Clotes, 20,10050,Sauze D'Oulx,+39 3482217735,debili@tin.it,www.hotelsavoiadebili.it,yes,33,69
+44.9394055189,6.75095664972,2,Roma,VIA NAZIONALE 5,Via Nazionale, 5,10050,Claviere,+39 0122878812,info@hotelromaclaviere.it,www.hotelromaclaviere.it,yes,27,76
+45.38992,7.649922,3,Astoria,VIA DON MINZONI 5,Via Don Minzoni, 5,10082,Cuorgnè,+39 0124666001,info@astoria-damauro.it,www.astoria-damauro.it,no,27,47
+45.049813,7.678098,2,Eden,VIA DONIZETTI GAETANO 22,Via Donizetti Gaetano, 22,10126,Torino,+39 0116699545,info@hoteledentorino.it,https://www.hoteledentorino.it,no,26,42
+45.003105,7.67481,3,Aba,VIA VILLAFRANCA 5 Bis,Via Villafranca 5, Bis,10024,Moncalieri,+39 011645128,reception@abatorino.it,www.abatorino.it,no,75,147
+45.152358,7.654797,4,Atlantic,VIA LANZO 163,Via Lanzo, 163,10071,Borgaro Torinese,+39 0114500055,atlantic@hotelatlantic.com,www.hotelatlantic.com,no,133,260
+45.071078,7.680655,1,Azalea,VIA MERCANTI 16 ,Via Mercanti 16 ,,10122,Torino,+39 011538115-3332467449,info@hotelazalea.it,https://www.hotelazalea.it,no,10,17
+45.041587,7.622455,3,Idea Hotel Torino Mirafiori,VIA GAIDANO PAOLO 113,Via Gaidano Paolo, 113,10137,Torino,+39 0110825511,manager.torino@sandshotel.it,https://www.ideahotel.it,yes,100,194
+44.93184,7.612472,2,Stazione,PIAZZA PARACLETO 2,Piazza Paracleto, 2,10040,Piobesi Torinese,+39 0119657372,albergo.stazione@hotmail.it,,yes,9,15
+45.058228,6.682785,3,La Pigna,VIA MELEZET 119,Via Melezet, 119,10052,Bardonecchia,+39 3480525741,info@hotel-lapigna.it,www.hotel-lapigna.it,yes,7,22
+45.0710319759,6.7222910043,1,Bellevue Chalet,FRAZIONE MILLAURES  ,Frazione Millaures  ,,10052,Bardonecchia,+39 0122999862,info@bellevuechalet.it,www.bellevuechalet.it,yes,9,15
+45.482288,7.877728,3,Sirio,VIA LAGO SIRIO 85,Via Lago Sirio, 85,10015,Ivrea,+39 0125424247,info@hotelsirio.it,www.hotelsirio.it,no,51,88
+45.05788,7.68235,2,Tomato Backpackers,VIA PELLICO 11,Via Pellico, 11,10125,Torino,+39 0110209400,info@tomato.to.it,https://www.tomato.to.it,no,19,42
+45.138109,7.05196,3,Susa e Stazione,CORSO STATI UNITI 4/6,Corso Stati Uniti 4/6,,10059,Susa,+39 0122622226,info@hotelsusa.it,www.hotelsusa.it,yes,12,24
+45.151917,7.652586,3,Pacific Hotel Airport,VIALE MARTIRI DELLA  LIBERTA' 76,Viale Martiri della  Liberta', 76,10071,Borgaro Torinese,+39 01119821038,hotelairport@pacifichotels.it,www.pacifichotels.it,yes,54,95
+45.029418,6.859998,2,Piccolo Chalet,VIALE GENEVRIS 5,Viale Genevris, 5,10050,Sauze D'Oulx,+39 0122881571,info@sauzedoulx.org,www.sauzedoulx.org,yes,14,24
+45.225063,7.786245,2,San Marco,VIA REGINA MARGHERITA 2,Via Regina Margherita, 2,10080,San Benigno Canavese,+39 0119880266,r.a.sanmarco@gmail.com,,no,7,12
+45.017146,6.941716,3,Villa Plinia,VIA NAZIONALE 7,Via Nazionale, 7,10060,Pragelato,+39 0122741821-012278949,info@villaplinia.it,www.villaplinia.it,yes,20,73
+45.025618,6.85426,3,Miravalle,VIA ASSIETTA 60,Via Assietta, 60,10050,Sauze D'Oulx,+39 0122858530,info@miravalle-hotel.com,www.miravalle-hotel.it,no,42,84
+44.78517,7.375191,3,Locanda La Posta,VIA DEI FOSSI 4,Via dei Fossi, 4,10061,Cavour,+39 012169989,posta@locandalaposta.it,www.locandalaposta.it,yes,20,45
+44.919689,7.844814,3,Brindor Hotel,VIA TORINO 36,Via Torino, 36,10046,Poirino,+39 0119452728,mail@brindorhotel.info,www.brindorhotel.it,yes,58,116
+44.952567,6.791936,2,Chalet Casa Cesana,VIALE BOUVIER  ,Viale Bouvier  ,,10054,Cesana Torinese,+39 012289462-3298780787,contatti@hotelcasacesana.com,www.hotelcasacesana.com,yes,9,21
+44.881123,7.314578,4,Relais Barrage,STRADALE SAN SECONDO 100,Stradale San Secondo, 100,10064,Pinerolo,+39 0121040500,info@hotelbarrage.it,www.hotelbarrage.it,yes,41,98
+45.034895,7.666687,4,Doubletree By Hilton Turin Lingotto,VIA NIZZA 230,Via Nizza, 230,10126,Torino,+39 0116642781,(fo.turinlingotto@hilton.com) - simona.calabrese@hilton.com,https://www.turinlingotto.doubletreebythilton.com,yes,142,284
+45.060867,7.679059,4,Crystal Palace,VIA NIZZA 11,Via Nizza, 11,10125,Torino,+39 0116680273,info@hotelcrystalpalace.it,https://www.hotelcrystalpalace.it,yes,60,108
+45.061935,7.676149,4,Holiday Inn Turin City Centre,VIA ASSIETTA 3,Via Assietta, 3,10128,Torino,+39 0115167111,hi.torit@libero.it,,yes,56,108
+45.274286,7.474394,2,Del Mercato,VIA DIAZ ARMANDO 29,Via Diaz Armando, 29,10074,Lanzo Torinese,+39 012329320-0123320343,,,no,7,9
+45.006841,7.685633,4,Best Quality Hotel La Darsena,STRADA TORINO 29,Strada Torino, 29,10024,Moncalieri,+39 011642448,ladarsena@bqhotel.it,www.ladarsena.bqhotel.it,yes,50,90
+45.003564,7.651372,3,Parisi,VIA GALVANI LUIGI 19,Via Galvani Luigi, 19,10042,Nichelino,+39 0116061162,info@hotelparisi.it,www.hotelparisi.it,yes,61,118
+45.017146,6.941716,3,Casa Alpina Don Barra,VIA NAZIONALE 10,Via Nazionale, 10,10060,Pragelato,+39 3205352137,direzione@casalpinadonbarra.it,www.casalpinadonbarra.it,yes,39,130
+45.134922,7.058534,3,Fell,VIA MEANA  11,Via Meana , 11,10059,Susa,+39 0122623759,hotelfell@libero.it,www.hotelfell.it,yes,11,23
+45.193513,7.794812,4,Verdina,VIA PISA 69,Via Pisa, 69,10088,Volpiano,+39 01118890370,info@verdinahotel.it,www.verdinahotel.it,no,36,72
+44.929976,6.78706,2,Baita della Luna,LOCALITA' SAGNALONGA  22,Localita' Sagnalonga , 22,10054,Cesana Torinese,+39 0122843060,info@baitadellaluna.com,www.baitadellaluna.com,no,26,66
+45.138171,7.048287,3,Napoleon,VIA MAZZINI 44,Via Mazzini, 44,10059,Susa,+39 0122622855,hotelnapoleon@hotelnapoleon.it,www.hotelnapoleon.it,yes,59,96
+45.189138,7.886592,3,Europa,PIAZZA D'ARMI 5,Piazza D'armi, 5,10034,Chivasso,+39 0119171886,info@hoteleuropachivasso.it,www.hoteleuropachivasso.it,no,32,62
+45.069022,6.689786,3,La Nigritella,VIA MELEZET 96,Via Melezet, 96,10052,Bardonecchia,+39 0122980477,info@lanigritella.it,www.lanigritella.it,yes,7,15
+45.059524,7.682803,1,Della Mole,VIA PRINCIPE TOMMASO 8,Via Principe Tommaso, 8,10125,Torino,+39 0116698612,,,no,34,49
+45.132252,7.635059,2,Stazione Reale,VIALE ROMA 20,Viale Roma, 20,10078,Venaria,+39 0114597354,info@hotelstazionereale.it,www.hotelstazionereale.it,no,17,32
+45.028661,6.857681,4,Grand Hotel La Torre,VIA DELLA TORRE 4,Via della Torre, 4,10050,Sauze D'Oulx,+39 0122859812,prenotazioni@grandhotellatorre.it,www.grandhotellatorre.it,yes,119,270
+45.503217,7.908752,3,Antica Posta,VIA CASALE RAVERA 4,Via Casale Ravera, 4,10010,Chiaverano,+39 0125643303,info@hotels-gm.it,,no,9,17
+45.071724,7.683578,4,Town House 70,VIA XX SETTEMBRE 70,Via Xx Settembre, 70,10122,Torino,+39 01119700003,th70@townhousehotels.com,https://www.townhousehotels.com,yes,48,84
+45.073649,6.699557,3,La Quiete,VIALE SAN FRANCESCO 26,Viale San Francesco, 26,10052,Bardonecchia,+39 0122999859-3356774672,info@hotelaquiete.it,www.hotelaquiete.it,no,17,52
+45.069886,7.678821,3,Le Petit Hotel,VIA SAN FRANCESCO D'ASSISI 21,Via San Francesco D'assisi, 21,10121,Torino,+39 0115612626,info@lepetithotel.it,https://www.lepetithotel.it,yes,82,163
+44.956205,6.878883,3,Tana della Volpe,LOCALITA' BANCHETTA  ,Localita' Banchetta  ,,10058,Sestriere,+39 335362054,info@tanadellavolpe.it,www.tanadellavolpe.it,no,9,20
+45.0720983569,7.6825998088,4,Nh Santo Stefano,VIA PORTA PALATINA 19,Via Porta Palatina, 19,10122,Torino,+39 0115223311,nhsantostefano@nh-hotels.com,https://www.nh-hotels.it/hotel/nh-torino-santo-stefano,yes,134,292
+44.956741,6.873471,3,Biancaneve,VIA CESANA 12,Via Cesana, 12,10058,Sestriere,+39 0122755177,info@hotelbiancanevesestriere.com,www.hotelbiancanevesestriere.com,no,50,111
+45.100436,7.735214,3,Belvedere,VIA CARO ANNIBAL 12,Via Caro Annibal, 12,10156,Torino,+39 0112730441,info@belvederetorino.com,https://www.belvederetorino.com,yes,16,24
+45.0715937689,8.60628502413,4,Villa Savoia,CORSO SICILIA 1,Corso Sicilia, 1,10133,Torino,+39 0116613546-0117920701,mail@hotelvillasavoia.com,,yes,20,52
+45.120362,6.98416,2,Belvedere,VIA ARGUEIL 2,Via Argueil, 2,10050,Chiomonte,+39 0122655226,renzopinard@libero.it,,no,8,16
+45.089461,7.678581,3,President,VIA CECCHI ANTONIO 67,Via Cecchi Antonio, 67,10152,Torino,+39 011859555,info@hotelpresident-to.it,https://www.hotelpresident-to.it,yes,72,178
+45.177481,7.016708,3,El Dorado,FRAZIONE SAN ROCCO  13,Frazione San Rocco , 13,10050,Novalesa,+39 0122653910,info@albergoeldorado.it,www.albergoeldorado.it,no,7,16
+44.9369294107,6.74762531333,3,Grande Albergo Claviere,VIA NAZIONALE 43,Via Nazionale, 43,10050,Claviere,+39 0122878787,r.gestioni@hotmail.com,,yes,38,105
+45.000749,7.64244,3,Euro Motel,VIA I MAGGIO 57,Via I Maggio, 57,10042,Nichelino,+39 011621843,euro@euromotel.it,,yes,126,322
+45.271791,7.484744,2,Sangri-la',VIA DELLE VALLI 10,Via delle Valli, 10,10074,Lanzo Torinese,+39 012329476,info@hotelsangrila.it,www.hotelsangrila.it,yes,15,25
+45.067402,7.682545,1,San Carlo,PIAZZA SAN CARLO 197,Piazza San Carlo, 197,10123,Torino,+39 0115627846,info@albergosancarlo.it,https://www.albergosancarlo.it,no,13,25
+45.067692,7.711413,3,River,CORSO CASALE 89 D,Corso Casale 89, D,10132,Torino,+39 0118399352,info@albergoriverhotel.it,https://www.albergoriverhotel.it,no,18,54
+44.958208,6.881673,4,Du Col,VIA PINEROLO 12,Via Pinerolo, 12,10058,Sestriere,+39 012276990,info@hotelducol.com,www.ducol.com,no,70,157
+44.9380151314,6.74798097768,3,Pian del Sole,VIA NAZIONALE 28,Via Nazionale, 28,10050,Claviere,+39 0122878053,info@hotelpiandelsole.it,www.hotelpiandelsole.it,no,8,25
+44.9294484141,7.22998644585,3,L'ostu del Povr-om 2,VIA PROVINCIALE 34,Via Provinciale, 34,10060,Inverso Pinasca,+39 3472129004,,,no,9,24
+45.046348,7.67296,3,Plaza,VIA PETITTI ILARIONE 18,Via Petitti Ilarione, 18,10126,Torino,+39 0116632424,info@hotelplazatorino.it,https://www.hotelplazatorino.it,no,65,128
+44.992068,7.738431,3,Park Hotel Villa Salzea,VIA VICOFORTE 2,Via Vicoforte, 2,10028,Trofarello,+39 0116497809,villasalzea@libero.it,www.villasalzea.it,no,22,24
+45.070123,7.616299,3,Balbo,VIA ASIAGO 18,Via Asiago, 18,10142,Torino,+39 3485629649,hotelbalbo@libero.it,,yes,13,24
+45.365328,7.839015,2,Stella Bianca,VIA SCARMAGNO 7,Via Scarmagno, 7,10010,Scarmagno,+39 0125712875,hotelstellabianca@gmail.com,www.hotelstellabianca.it,no,16,25
+44.9376482131,6.74839586231,3,Passero Pellegrino,VIA NAZIONALE 38,Via Nazionale, 38,10050,Claviere,+39 0122878914,info@passeropellegrino.com,,no,35,136
+44.940239,6.858382,3,Cima del Bosco,VIA SESTRIERE 16,Via Sestriere, 16,10054,Sauze Di Cesana,+39 012276148,hotelcimadelbosco@gmail.com ,www.hotelcimadelbosco.com,yes,40,80
+45.05171,7.600604,3,Piccolo Hotel Allamano,STRADA DEL GERBIDO 106,Strada del Gerbido, 106,10095,Grugliasco,+39 0117803544,info@hotelpiccoloallamano.it,www.piccolohotelallamano.it,no,24,52
+45.065123,7.654573,3,Ferrucci,VIA SAN PAOLO 2,Via San Paolo, 2,10138,Torino,+39 011331718,info@hotelferrucci.it,https://www.hotelferrucci.it,yes,24,38
+45.060609,7.682083,1,Elena,VIA SAN PIO V 10 ,Via San Pio V 10 ,,10125,Torino,+39 0116692782,hotelelena.torino@libero.it,,no,8,16
+45.466884,7.871551,2,Luca,CORSO GARIBALDI GIUSEPPE 58,Corso Garibaldi Giuseppe, 58,10015,Ivrea,+39 012548697,albergoluca.ye@hotmail.it,,no,11,17
+45.07112,7.693517,1,San Maurizio,CORSO SAN MAURIZIO 31,Corso San Maurizio, 31,10124,Torino,+39 011882434,albergosanmaurizio@fastwebnet.it,,no,14,25
+45.384607,7.841577,3,Arcadia,VIA ROMANO  27,Via Romano , 27,10010,Scarmagno,+39 0125739243,info@hotel-arcadia.it,www.hotel-arcadia.it,no,50,100
+45.189936,7.884466,3,City,VIA TORINO 90,Via Torino, 90,10034,Chivasso,+39 0119112157,info@hotel-city.it,www.hotel-city.it,yes,16,25
+45.077238,6.705619,3,Villa Myosotis,VIA GENERALE CANTORE 2,Via Generale Cantore, 2,10052,Bardonecchia,+39 0122999883,info@villamyosotis.it,www.villamyosotis.it,no,8,15
+45.137995,7.127886,2,Isolabella,STRADA SUSA 13,Strada Susa, 13,10053,Bussoleno,+39 0122641612,albergoisolabella@libero.it,,no,8,16
+45.336133,7.719778,4,Rivarolo Hotel,CORSO INDIPENDENZA  76,Corso Indipendenza , 76,10086,Rivarolo Canavese,+39 012426097,info@hotelrivarolo.it,www.hotelrivarolo.it,yes,81,162
+45.292862,7.400895,3,Ca' di Spagna,VIA PROVINCIALE 1,Via Provinciale, 1,10070,Pessinetto,+39 0123504161,cadispagna@msn.com,,no,11,33
+45.008313,7.530289,1,Primavera,VIA MONTE GRAPPA 16,Via Monte Grappa, 16,10043,Orbassano,+39 0119002001,luigiprimavera@libero.it,www.albergoristoranteprimavera.it,no,15,24
+45.13661,7.77185,3,La Meridiana,PIAZZA VITTORIO VENETO 2,Piazza Vittorio Veneto, 2,10036,Settimo Torinese,+39 0118971703,info@hotel-lameridiana.it,www.hotel-lameridiana.it,yes,11,13
+44.892709,7.354863,3,Cavalieri,STRADA ORBASSANO 21,Strada Orbassano, 21,10064,Pinerolo,+39 0121378141,amministratore_laura.bonomi.pec@maildoc.it,,yes,7,13
+45.071542,7.597019,3,Frejus,VIA CASTAGNEVIZZA 27,Via Castagnevizza, 27,10093,Collegno,+39 0114111507,hfrejushotelfrejus.it,www.hotelfrejus.it,no,35,70
+45.13554,7.14857,1,Del Forte,S.S. DEL MONGINEVRO n. 3,S.S. del Monginevro N., 3,10050,Exilles,+39 012258199,anna@osteriadegliarchibugi.it,,no,8,16
+44.834615,7.220427,2,La Casassa,VIA CASASSA 3,Via Casassa, 3,10066,Torre Pellice,+39 0121933294,lacasassa@hotmail.it,www.lacasassa.it,no,7,20
+45.028106,7.586418,4,San Luigi,VIA SAN LUIGI 3,Via San Luigi, 3,10092,Beinasco,+39 0113972220,info@hotelsanluigi.it,www.hotelsanluigi.it,yes,94,134
+45.042712,7.675282,3,D'azeglio,VIA MENABREA FEDERICO 20,Via Menabrea Federico, 20,10126,Torino,+39 0116670574,info@hoteldazegliotorino.com,https://www.hoteldazegliotorino.com,no,23,46
+45.3834471801,7.7126114896,2,Del Teatro,VIA G. ROMANA 2,Via G. Romana, 2,10081,Castellamonte,+39 0124515462,,,no,8,12
+45.433065,7.260632,3,Gli Scoiattoli,BORGATA BARILO' 4,Borgata Barilo', 4,10080,Ceresole Reale,+39 0124953007,info@hotelgliscoiattoli.it,www.hotelgliscoiattoli.it,yes,7,19
+45.195455,7.790765,3,Eurhotel,VIA BRANDIZZO 115,Via Brandizzo, 115,10088,Volpiano,+39 0119952369,info@eurhotelto.it,www.eurhotelto.it,yes,61,100
+45.05021,7.68833,4,Principe di Torino,VIA FEBO 1/B,Via Febo 1/b,,10133,Torino,+39 01119504950,info@principeditorino.it,https://www.principeditorino.it,yes,23,46
+45.343289,7.379662,4,Cantoira,VIA ROMA 137,Via Roma, 137,10070,Cantoira,+39 0123585413,info@albergoristorantecantoira.com,www.albergoristorantecantoira.com,yes,12,22
+45.076989,7.674873,2,Antico Distretto,CORSO VALDOCCO 10,Corso Valdocco, 10,10122,Torino,+39 0115213713,info@anticodistretto.it,https://www.anticodistretto.it,yes,32,57
+45.075267,6.708467,3,La Betulla,VIALE DELLA VITTORIA 4,Viale della Vittoria, 4,10052,Bardonecchia,+39 0122999846,info@labetullahotel.it,www.labetullahotel.it,no,38,77
+45.087678,7.690752,2,Rey,CORSO NOVARA 16,Corso Novara, 16,10152,Torino,+39 011282840,hotelrey@libero.it,https://www.hotelreytorino.it,no,12,22
+45.385806,7.87098,4,Relais Villa Matilde,VIALE MARCONI 29,Viale Marconi, 29,10090,Romano Canavese,+39 0125639290,sinavillamatilde@sinahotels.com,www.sinahotels.com,yes,43,86
+45.199542,7.944194,2,Dei Cacciatori,VIA MATTEOTTI 2,Via Matteotti, 2,10038,Verolengo,+39 0119149195,,,no,16,33
+45.26933,7.513674,2,Corona Grossa,STRADALE LANZO 2,Stradale Lanzo, 2,10070,Balangero,+39 0123346225,info@hotelcoronagrossa.it,www.hotelcoronagrossa.it,yes,8,20
+45.059902,7.678885,1,Paradiso,VIA BERTHOLLET CLAUDIO LUIGI 3 E,Via Berthollet Claudio Luigi 3, E,10151,Torino,+39 0116698678,elisagolovka@libero.it,,no,11,25
+45.330351,7.793467,3,Meta,VIA CIRCONVALLAZIONE 22,Via Circonvallazione, 22,10090,San Giorgio Canavese,+39 012432133,tommyandmaffy@libero.it,,yes,10,22
+45.079585,7.7293,3,Parco Sassi,VIA AGUDIO 31,Via Agudio, 31,10132,Torino,+39 0118995117,info@parcosassihotel.com,https://www.parcosassihotel.com,yes,76,150
+45.027287,6.857344,4,Il Capricorno,CASE SPARSE 21,Case Sparse, 21,10050,Sauze D'Oulx,+39 0122850275,info@chaletilcapricorno.it,www.chaletilcapricorno.it,no,7,14
+45.067694,7.67499,3,Solferino,VIA BROFFERIO ANGELO 3,Via Brofferio Angelo, 3,10121,Torino,+39 0115175301,info@hotelsolferino.it,https://www.hotelsolferino.it,no,14,25
+45.432115,7.242808,2,Aquila Alpina,BORGATA GARSINES  2,Borgata Garsines , 2,10080,Ceresole Reale,+39 0124953188-3398240132,info@albergoaquilaalpina.it,www.albergoaquilaalpina.it,yes,7,13
+45.094389,7.339525,2,Locanda della Sacra,REGIONE COLLE CROCE NERA 2,Regione Colle Croce Nera, 2,10050,Chiusa Di San Michele,+39 011939843-3343330101,info@ristorantedellasacra.it,,no,8,15
+45.231222,7.20453,2,Meuble' Stella Alpina,VIA MARGONE 10,Via Margone, 10,10070,Usseglio,+39 012383788,furnasa@libero.it,www.ristorantehotelfurnasa.com,yes,18,24
+45.067797,7.665343,4,Nh Torino Centro,CORSO VITTORIO EMANUELE II 104,Corso Vittorio Emanuele Ii, 104,10121,Torino,+39 01157521,nhtorinocentro@nh-hotels.com,https://www.nh-hotels.it/hotel/nh-torino-centro,yes,182,350
+45.044592,7.674724,3,Giotto,VIA GIOTTO 27,Via Giotto, 27,10126,Torino,+39 0116637172,info@hotelgiottotorino.com,https://www.hotelgiottotorino.com,no,50,93
+45.120465,6.986427,1,Chiomonte,VIA LEVIS GIUSEPPE AUGUSTO 1,Via Levis Giuseppe Augusto, 1,10050,Chiomonte,+39 0122830117,albergo.chiomonte@gmail.com,wwww.albergochiomonte.weebly.com,no,7,14
+45.15486,7.8634,1,La Dimora,VIA MAESTRA 56,Via Maestra, 56,10090,San Raffaele Cimena,+39 0119812154,info@albergoladimora.it,www.albergoladimora.it,yes,9,23
+45.07258,7.68416,3,Chelsea,VIA CAPPEL VERDE 1 D,Via Cappel Verde 1, D,10122,Torino,+39 3204935704/0114360100,info@hotelchelsea.it,https://www.hotelchelsea.it,no,15,25
+45.063487,7.678955,3,Roma e Rocca Cavour,PIAZZA CARLO FELICE 60 ,Piazza Carlo Felice 60 ,,10121,Torino,+39 0115612772,info@romarocca.it,https://www.romarocca.it,no,82,166
+44.933793,7.531984,3,Arcadia,VIA SESTRIERE 37,Via Sestriere, 37,10060,None,+39 0119904737,info@arcadiahotel.it,www.hotelarcadianone.com,no,13,18
+44.957737,6.881256,3,Torre,PIAZZA AGNELLI  6,Piazza Agnelli , 6,10058,Sestriere,+39 0122400018,torre@aurumhotels.com,www.aurumhotels.it,no,80,169
+45.057817,7.763939,4,Aston Hotel,STRADA MONGRENO 23,Strada Mongreno, 23,10025,Pino Torinese,+39 0118998733,info@astonhotel.it,www.astonhotel.it,yes,40,80
+45.193072,7.889898,3,Albergo D'italia,PIAZZA GARIBALDI GIUSEPPE 7,Piazza Garibaldi Giuseppe, 7,10034,Chivasso,+39 0119103679,info@albergoditalia.com,www.albergoditalia.com,yes,25,28
+45.274216,7.474002,1,Torino,VIA UMBERTO I 45,Via Umberto I, 45,10074,Lanzo Torinese,+39 012329470-3406714845,marghe70m@libero.it,,no,10,15
+44.87575,7.38937,4,Tenuta La Cascinetta,VIA PINEROLO 9,Via Pinerolo, 9,10060,Buriasco,+39 0121368040,info@tenutalacascinetta.it,www.tenutalacascinetta.it,yes,13,24
+44.959074,6.878758,4,Il Fraitevino,PIAZZA FRAITEVE 3/Bis,Piazza Fraiteve 3/bis,,10058,Sestriere,+39 3351329821-012276022,info@hotelilfraitevino.it,www.hotelilfraitevino.it,yes,20,38
+44.883777,7.330987,3,Regina,PIAZZA LUIGI BARBIERI 22,Piazza Luigi Barbieri, 22,10064,Pinerolo,+39 0121322157,info@albergoregina.net,www.albergoregina.net,no,15,25
+45.148414,7.655131,1,Antico Tre Valli,VIA TORINO 74,Via Torino, 74,10071,Borgaro Torinese,+39 0114702369-3357799978,tre.valli@libero.it,www.albergoanticotrevalli.it,no,11,19
+45.067329,7.677338,5L,Golden Palace,VIA DELL' ARCIVESCOVADO 18,Via dell' Arcivescovado, 18,10121,Torino,+39 0115512111,infogolden@allegroitalia.it,https://www.allegroitalia.it,yes,92,184
+45.0059584024,6.86763426814,1,Orso Bianco,LOCALITA' SPORTINIA  ,Localita' Sportinia  ,,10050,Sauze D'Oulx,+39 0122850226,,,no,14,21
+45.012856,7.665079,3,Twelve Hotel,VIA LEOPARDI GIACOMO 12,Via Leopardi Giacomo, 12,10024,Moncalieri,+39 0116068382,info@twelvehotel.it,www.twelvehotel.it,no,27,48
+45.139087,7.144712,1,L'angolo di Toto',VIA TRAFORO 14,Via Traforo, 14,10053,Bussoleno,+39 3398934140,,,no,11,18
+45.315156,7.306419,3,Raggio di Sole,VIA CERES 7,Via Ceres, 7,10070,Ala Di Stura,+39 012355191,info@hotelraggiodisole.it,www.hotelraggiodisole.it,yes,21,44
+44.854201,7.322252,4,Residence Hotel Villa Glicini,VIA VAL PELLICE  68/A,Via Val Pellice  68/a,,10060,San Secondo Di Pinerolo,+39 0121503125,info@glicinihotel.com,www.glicinihotel.com,yes,38,85
+44.820506,7.222796,2,Centro,VIA CADUTI PER LA LIBERTA' 7,Via Caduti Per La Liberta', 7,10066,Torre Pellice,+39 3339496103,info@hotelcentro.it,www.hotelcentro.it,no,10,16
+45.13416,7.215548,3,Peccati di Gola,VIA ABEGG AUGUSTO 16,Via Abegg Augusto, 16,10050,San Didero,+39 0119637044,info@osteriapeccatidigola.it,www.osteriapeccatidigola.it,yes,10,21
+45.0710319759,6.7222910043,1,Bellevue,FRAZIONE MILLAURES  ,Frazione Millaures  ,,10052,Bardonecchia,+39 0122999862,info@bellevuechalet.it,www.bellevuechalet.it,no,12,24
+44.958703,6.87298,3,Sud-ovest,VIA MONTEROTTA 17,Via Monterotta, 17,10058,Sestriere,+39 3355865651-0122755222,info@hotelsud-ovest.it,www.hotelsud-ovest.it,yes,25,67
+45.494279,7.803088,1,N. Tre Hotel,PIAZZA REPUBBLICA 3,Piazza Repubblica, 3,10080,Brosso,+39 3396455477,catranomario@libero.it,,no,16,24
+44.985013,7.734045,3,Rigolfo,VIA RIGOLFO 28,Via Rigolfo, 28,10024,Moncalieri,+39 0116495944,info@hotelrigolfo.it,www.hotelrigolfo.it,no,30,50
+45.433011,7.256359,3,Blanchetti,BORGATA PRESE 13,Borgata Prese, 13,10080,Ceresole Reale,+39 0124953174-3493838502,info@hotelblanchetti.it,www.hotelblanchetti.it,no,11,21
+44.959059,6.8738,3,Olimpic,VIA MONTEROTTA 9,Via Monterotta, 9,10058,Sestriere,+39 3336060766,info@hotelolimpicsestriere.com,www.hotelolimpicsestriere.com,no,26,62
+45.010301,7.530793,2,Eden (dipendenza),STRADA RIVALTA 15,Strada Rivalta, 15,10043,Orbassano,+39 0119063131,eden.orbassano@tiscali.it,www.edenhotel.info,no,11,11
+45.119315,7.129385,2,Il Mulino di Mattie,VIA GIORDANI 52,Via Giordani, 52,10050,Mattie,+39 012238132-3331973660,info@mulinomattie.it,www.mulinomattie.it,no,15,31
+45.0232242026,6.84719863288,3,Chalet Chez Nous,FRAZIONE JOVENCEAUX 41,Frazione Jovenceaux, 41,10050,Sauze D'Oulx,+39 0122859782,info@chaletcheznous.it,www.chaletcheznous.it,no,10,18
+44.85262,7.724464,3,Italia,VIA TORINO 23,Via Torino, 23,10022,Carmagnola,+39 0119720496,info@hotelitaliasnc.com,www.hotelitaliasnc.com,yes,35,79
+45.081054,7.684315,1,Dora,VIA BORGO DORA 36,Via Borgo Dora, 36,10152,Torino,+39 0115213868,info@hoteldora-torino.com,https://www.hoteldora-torino.com,no,12,24
+45.0558,7.669164,4,Art Hotel Boston,VIA MASSENA ANDREA 70,Via Massena Andrea, 70,10128,Torino,+39 011500359,info@hotelbostontorino.it,https://www.hotelbostontorino.it,yes,83,147
+45.019442,7.632598,3,Giada,VIA BARBERA GASPERO 6,Via Barbera Gaspero, 6,10135,Torino,+39 0113489383,info@hotelgiadatorino.it,https://www.hotelgiadatorino.it,yes,32,52
+45.4228747598,7.59957315589,1,Al Brunet,VIA FRASSINETTO 24,Via Frassinetto, 24,10085,Pont Canavese,+39 012485701,ristorantealbrunet@gmail.com,www.hotelristorantealbrunet.it,no,11,17
+45.029756,6.866262,3,Park Hotel Gran Bosco,VIA MONFOL 48,Via Monfol, 48,10050,Sauze D'Oulx,+39 0122881571,info@sauzedoulx.org,www.sauzedoulx.org,yes,40,80
+45.074764,7.620757,1,Kun Lun,CORSO FRANCIA 318,Corso Francia, 318,10146,Torino,+39 0117725990,kunlun89@libero.it,,no,18,25
+45.336267,7.795011,3,Foresteria del Castello,VIA BIANDRATE  31,Via Biandrate , 31,10090,San Giorgio Canavese,+39 0124450738,info@castellosangiorgio.it,www.castellosangiorgio.it,no,10,19
+45.053435,7.705155,1,Six Love,VIALE THOVEZ ENRICO 58,Viale Thovez Enrico, 58,10131,Torino,+39 0110683737,info@sixlove.it,https://www.sixlove.it,no,10,24
+44.860753,7.900508,3,Lo Scoiattolo,VIA POIRINO 24,Via Poirino, 24,10040,Pralormo,+39 0119481148-0119481481,info@hotelscoiattolo.com,www.hotelscoiattolo.com,yes,39,76
+45.23199,7.605598,3,D'oria,VIA TRENTO 19,Via Trento, 19,10073,Ciriè,+39 0119210118-3383609232,,,no,9,16
+45.096963,7.569291,1,K 11,VIA TORINO 36,Via Torino, 36,10044,Pianezza,+39 0119677474,albergok11@libero.it,,no,13,23
+45.060891,7.679076,3,Nizza,VIA NIZZA 9 ,Via Nizza 9 ,,10125,Torino,+39 0116690516,reception@hotelnizza.to.it,,no,59,121
+45.363016,7.34417,2,Della Posta,VIA ROMA 28,Via Roma, 28,10070,Chialamberto,+39 0123506286,larissarosca28@gmail.com,www.albergodellaposta-chialamberto.it,no,16,25
+45.060069,7.678479,3,Romano,VIA NIZZA 17 Bis,Via Nizza 17, Bis,10125,Torino,+39 0116698665,romanotorino@hotmail.com,,no,27,47
+45.028211,6.860522,2,Biancaneve,VIA MONFOL 25,Via Monfol, 25,10050,Sauze D'Oulx,+39 0122850160,hotel.biancaneve@tiscali.it,www.hotelbiancanevesauze.it,no,14,34
+45.327446,7.885266,3,Residenza del Lago,VIA ROMA 48,Via Roma, 48,10010,Candia Canavese,+39 0119834885,info@residenzadelago.it,www.residenzadelago.it,yes,11,25
+45.184018,7.770327,3,Vazzana,VIA TORINO 34,Via Torino, 34,10088,Volpiano,+39 0119882386,info@hotelvazzana.it,www.hotelvazzana.it,no,12,18
+45.095528,7.568596,3,Gallia,VIA TORINO 29 A,Via Torino 29, A,10044,Pianezza,+39 0119943673,info@galliahotel.it,www.galliahotel.it,yes,54,98
+44.903401,7.053838,3,Delle Alpi,VIA ROMA 10,Via Roma, 10,10060,Prali,+39 0121807537,hoteldellealpi.prali@gmail.com,www.hoteldellealpiprali.it,no,10,25
+45.033481,7.655343,2,Galimberti,VIA TAGGIA 67,Via Taggia, 67,10134,Torino,+39 0113195739,info@hotelgalimberti.it,https://www.hotelgalimberti.it,no,18,25
+45.052064,7.302694,2,Serenella,VIALE ITALIA 85,Viale Italia, 85,10050,Coazze,+39 0119349125-3398241906,albergoserenella.coazze@gmail.com,www.albergoserenellacoazze.it,no,21,41
+45.063088,7.681427,3,Gran Mogol,VIA GUARINI GUARINO 2,Via Guarini Guarino, 2,10123,Torino,+39 0115612120,granmogol@bqhotel.it,https://www.granmogol.bqhotel.it,no,45,75
+45.431653,7.24896,1,Stella Alpina,BORGATA CROSE 1,Borgata Crose, 1,10080,Ceresole Reale,+39 0124953127,pensionestellalpina@gmail.com,www.pensionestellalpina.wordpress.com,no,26,30
+44.955917,6.877183,3,Duchi D'aosta,VIA VINCENZO POSSETTO 5,Via Vincenzo Possetto, 5,10058,Sestriere,+39 0122400073,duchi@aurumhotels.com,,yes,194,460
+44.839234,7.729198,3,Il Bivio,VIA SOMMARIVA 12,Via Sommariva, 12,10022,Carmagnola,,info@ilbivio-hotel.it,,yes,14,18
+45.034952,7.051318,3,I Dragoni Rossi,VIA RE UMBERTO I 67,Via Re Umberto I, 67,10060,Fenestrelle,+39 012183037,idragonirossi@yahoo.it,,no,7,17
+45.193072,7.890661,1,Locanda Stella,VIA ROMA 28,Via Roma, 28,10034,Chivasso,+39 0115504080,borgomargherita@yahoo.it,,yes,11,15
+44.9389057173,6.75022411337,4,Bes,VIA NAZIONALE 18,Via Nazionale, 18,10050,Claviere,+39 0122878735,hotelbesclaviere@gmail.com,www.hotelbes.com,yes,26,69
+44.93381,7.531999,3,Arcadia 2,VIA SESTRIERE 33 Bis,Via Sestriere 33, Bis,10060,None,+39 0119904737,info@arcadiahotel.it,,yes,19,24
+45.454418,7.314153,1,La Cascata,FRAZIONE GERE SOPRA 1,Frazione Gere Sopra, 1,10080,Noasca,+39 0124901804,info@lacascatahotel.it,www.lacascatahotel.it,no,18,56
+45.074502,6.704578,1,Pensione Bianca,VIALE BRAMAFAM 57,Viale Bramafam, 57,10052,Bardonecchia,+39 0122999889,info@pensionebianca.com,www.pensionebianca.com,no,12,23
+45.078952,6.706269,2,Ziel,VIA MONTELLO 9,Via Montello, 9,10052,Bardonecchia,+39 3333828461,hotelzielbardonecchia@gmail.com,www.hotelzielbardonecchia.com,no,9,25
+44.865523,7.29907,3,Sansecondo,VIA ROMA 1,Via Roma, 1,10060,San Secondo Di Pinerolo,+39 0121503101,hotelsansecondo@gmail.com,www.hotelsansecondo.net,yes,19,31
+45.383135,7.709495,3,Tre Re,PIAZZA MARTIRI DELLA LIBERTA' 27,Piazza Martiri della Liberta', 27,10081,Castellamonte,+39 0124515470,info@trerecastellamonte.it,www.trerecastellamonte.it,no,7,15
+45.026542,6.864357,3,Splendid,VIA CLOTES 71,Via Clotes, 71,10050,Sauze D'Oulx,+39 0122850172,info@hotelsplendid.eu,www.hotelsplendid.eu,no,36,96
+45.030303,7.655175,3,Parco Fiera,VIA BRUNO GIORDANO 210,Via Bruno Giordano, 210,10134,Torino,+39 011615906,hotel@parcofiera.it,,no,17,25
+44.997319,7.758,3,Hostellerie Du Golf,STRADA VALLE SAUGLIO 130,Strada Valle Sauglio, 130,10020,Pecetto Torinese,+39 0118608138,info@hostelleriedugolf.it,www.hostelleriedugolf.it,yes,26,45
+45.024585,6.855722,4,Grand Hotel Besson,VIA DEL RIO 15,Via del Rio, 15,10050,Sauze D'Oulx,+39 0122859785,info@grandhotelbesson.it,www.grandhotelbesson.it,yes,44,85
+45.201882,7.377889,2,Hotel dei Rododendri,FRAZIONE BERTESSENO 1,Frazione Bertesseno, 1,10070,Viù,+39 0123697004,rododendri@turismocolledellys.it,www.turismocolledellys.it,yes,11,22
+45.39768,7.80914,3,Canavese Country Club,STRADA PIANE 4,Strada Piane, 4,10010,Torre Canavese,+39 0124512078,info@canavesecountryclub.it,www.canavesecountryclub.it,yes,9,21
+45.52449,7.54956,2,Casa del Fondo,FRAZIONE PIAMPRATO SNC,Frazione Piamprato, SNC,10080,Valprato Soana,+39 0124066052,,,yes,7,24
+44.919948,7.84563,1,Alex Bar,VIA INDIPENDENZA 64,Via Indipendenza, 64,10046,Poirino,+39 0119451207,alessandro.piscedda@gmail.com,,no,8,10
+44.953045,6.793593,2,La Ginestra,VIA ROMA 20,Via Roma, 20,10054,Cesana Torinese,+39 012289617,info@laginestra-cesana.it,www.laginestra-cesana.it,yes,8,23
+44.981582,7.746663,4,Villa Damian,VIA TORINO 141,Via Torino, 141,10028,Trofarello,+39 0116496898,hoteldamian@hotmail.it,,no,12,22
+45.059327,6.683173,1,La Provinciale,FRAZIONE MELEZET 97,Frazione Melezet, 97,10052,Bardonecchia,+39 012299164,loredana.luglio1966@libero.it,,no,7,23
+45.4921387277,7.89315738719,4,Castello San Giuseppe,LOCALITA' CASTELLO SAN GIUSEPPE  ,Localita' Castello San Giuseppe  ,,10010,Chiaverano,+39 0125424370,info@castellosangiuseppe.it,www.castellosangiuseppe.it,no,18,24
+45.222192,7.787003,3,Il Mandorlo,VIA CHIVASSO 24,Via Chivasso, 24,10080,San Benigno Canavese,+39 0119959454,ilmandorlo@email.it,www.ristoranteilmandorlo.it,yes,7,14
+45.031701,7.667062,4,Nh Lingotto,VIA NIZZA 262,Via Nizza, 262,10126,Torino,+39 0116642000,nhlingotto@nh-hotels.com,https://www.nh-hotels.it/hotel/nh-torino-lingotto-congress,yes,240,480
+45.029459,6.83277,3,Chez Toi,VIA DES AMBROIS 28,Via Des Ambrois, 28,10056,Oulx,+39 0122832146-3475796999,info@hotel-cheztoi.it,www.hotel-cheztoi.it,yes,11,25
+45.036333,7.667301,4,Ac Hotel Torino,VIA BISALTA 11,Via Bisalta, 11,10126,Torino,+39 0116395091,direc.actorino@ac-hotels.com,https://www.hotelactorino.com,yes,89,178
+45.082549,7.685078,3,Alexandra,VIA LUNGO DORA NAPOLI 14,Via Lungo Dora Napoli, 14,10152,Torino,+39 011858327,info@hotel-alexandra.it,https://www.hotel-alexandra.it,yes,56,88
+44.9294484141,7.22998644585,3,L'ostu del Povr-om,VIA PROVINCIALE 34,Via Provinciale, 34,10060,Inverso Pinasca,+39 0121809100-3332863313,povr-om@alpimedia.it,www.povr-om.com,yes,14,25
+45.093931,7.694842,1,Don Chisciotte,CORSO GIULIO CESARE 132,Corso Giulio Cesare, 132,10152,Torino,+39 3334544112,hoteldonchisciotte@gmail.com,,no,7,11
+45.07329,7.669232,4,Diplomatic,VIA CERNAIA 42,Via Cernaia, 42,10122,Torino,+39 0115612444,info@hotel-diplomatic.it,https://www.hotel-diplomatic.it,yes,129,168
+45.076118,6.705697,4,Des Geneys Splendid,VIA EINAUDI 21,Via Einaudi, 21,10052,Bardonecchia,+39 012299001,info@hoteldesgeneys.it,www.hoteldesgeneys.it,no,52,99
+44.971592,7.764382,3,Panorama,VIA VOLTA ALESSANDRO 2,Via Volta Alessandro, 2,10020,Cambiano,+39 0119440396,info@hotelpanorama.org,www.hotelpanorama.org,yes,73,150
+45.022943,6.85134,2,Edelweiss,VIA FRAITEVE 19,Via Fraiteve, 19,10050,Sauze D'Oulx,+39 0122850028,turin.areamanager@neilson.com,www.neilson.co.uk,no,19,40
+44.969424,6.891441,3,Hermitage,VIA AL COLLE 50,Via al Colle, 50,10058,Sestriere,+39 012270380,hotel@hermitagesestriere.com,www.hermitagesestriere.com,no,14,34
+45.054248,7.670263,4,Lancaster,CORSO TURATI FILIPPO 8,Corso Turati Filippo, 8,10128,Torino,+39 0115681982,hotel@lancaster.it,https://www.lancaster.it,no,83,136
+45.075617,7.729579,3,Ponte Sassi,PIAZZA PASINI ALBERTO 3,Piazza Pasini Alberto, 3,10132,Torino,+39 0118987888,info@hotelpontesassi.com,https://www.hotelpontesassi.com,no,20,41
+45.433325,7.233016,2,Tre Levanne,BORGATA CAPOLUOGO 21,Borgata Capoluogo, 21,10080,Ceresole Reale,+39 0124953004,albergotrelevanne@libero.it,,no,7,14
+45.025728,6.858371,1,Stella Alpina (dipendenza),VIA MIRAMONTI 16,Via Miramonti, 16,10050,Sauze D'Oulx,+39 0122858731,info@stellalpinahotel.it,www.stellalpinahotel.it,yes,7,18
+45.22429,7.657692,3,Le Rondini,VIA PARROCCHIA 5/B,Via Parrocchia 5/b,,10070,San Francesco Al Campo,+39 0119279675,info@hotellerondini.it,www.hotellerondini.it,yes,14,32
+45.017146,6.941716,3,Passet,VIA NAZIONALE 5,Via Nazionale, 5,10060,Pragelato,+39 012278948-3490861190,albergopasset121@gmail.com,www.albergopasset.com,no,12,25
+45.17975,7.64627,1,Niagara,VIA CRAVERO 70,Via Cravero, 70,10072,Caselle Torinese,,hotelniagara2015@libero.it,,no,7,7
+45.073139,7.590085,4,Blu Hotel,VIA TORINO 154/156,Via Torino 154/156,,10093,Collegno,+39 0114018700,info@bluhoteltorino.it,www.bluhoteltorino.it,yes,75,174
+45.241342,7.960193,3,Rondissone,VIA XX SETTEMBRE 59 A,Via Xx Settembre 59, A,10030,Rondissone,+39 0119183054,info@hotelrondissone.it,www.hotelrondissone.it,yes,45,81
+45.015588,6.945649,3,Villaggio Kinka,VIA TRIESTE 5,Via Trieste, 5,10060,Pragelato,+39 3482307615,info@villaggiokinka.it,www.villaggiokinka.it,yes,24,72
+45.080414,6.696628,2,La Genzianella,VIA DES GENEYS 12,Via Des Geneys, 12,10052,Bardonecchia,+39 0122999897,hotel.genzianella@alice.it,,yes,25,50
+45.036148,7.682431,1,Gardenia,VIA SABAUDIA 10,Via Sabaudia, 10,10133,Torino,+39 0116615665,info@hotelgardenia-torino.it,https://www.hotelgardenia-torino.it,no,21,37
+45.062313,7.68052,4,Starhotels Majestic,CORSO VITTORIO EMANUELE II 54,Corso Vittorio Emanuele Ii, 54,10123,Torino,+39 011539153,majestic.to@starhotels.it,https://www.starhotels.com,yes,161,338
+45.027073,7.452253,3,San Giorgio,VIA SAN GIORGIO 41,Via San Giorgio, 41,10090,Sangano,+39 0119084684,info@sgh.it,www.sgh.it,no,63,156
+45.07271,6.699346,3,Villaggio Olimpico,VIALE DELLA VITTORIA 46,Viale della Vittoria, 46,10052,Bardonecchia,+39 0122980799,info@cooperativadoc.it,www.villaggiobardonecchia.it,no,310,986
+45.063152,7.685772,1,Avalon,VIA DEI MILLE 14 ,Via dei Mille 14 ,,10123,Torino,+39 011889232-3394655668,info@albergoavalon.com,https://www.albergoavalon.com,no,9,15
+45.187676,7.638175,4,Jet Hotel,VIA DELLA ZECCA 9,Via della Zecca, 9,10072,Caselle Torinese,+39 0119913733,info@jet-hotel.com,www.jet-hotel.com,no,79,119
+44.9589715589,6.87659659381,4,Shackleton Mountain Resort Ghs,VIA ASSIETTA 1Bis,Via Assietta, 1Bis,10058,Sestriere,+39 3355283003-0122750773,info@shackleton-resort.it,www.shackleton-resort.it,yes,19,49
+45.4215001272,7.59319058013,2,Bergagna,VIA MARCONI 19,Via Marconi, 19,10085,Pont Canavese,+39 012485153,hotelbergagna@libero.it,,no,15,25
+45.024849,6.859447,2,Miosotis,PIAZZA MIRAMONTI 9,Piazza Miramonti, 9,10050,Sauze D'Oulx,+39 0122859729,info@hotelclotes.it,,no,24,48
+45.176071,7.832487,2,Malone,VIA I MAGGIO 62,Via I Maggio, 62,10032,Brandizzo,+39 3382989100,lidomalone@gmail.com,,yes,10,17
+45.083597,7.660491,3,Imperial,VIA PRINCIPESSA CLOTILDE 81,Via Principessa Clotilde, 81,10144,Torino,+39 0110206790,info@hotelimperialtorino.com,https://www.hotelimperialtorino.com,yes,12,18
+45.119699,7.644114,3,Galant,CORSO GARIBALDI GIUSEPPE 155,Corso Garibaldi Giuseppe, 155,10078,Venaria,+39 0114551021,info@hotelgalant.it,www.hotelgalant.it,no,35,61
+45.064343,7.53005,3,Rivoli,CORSO PRIMO LEVI 150,Corso Primo Levi, 150,10098,Rivoli,+39 0119566586,info@rivolihotel.it,www.rivolihotel.it,yes,283,566
+44.972902,6.895482,2,Sciatori (dipendenza),VIA SAN FILIPPO 7,Via San Filippo, 7,10058,Sestriere,+39 0122751920-3391249133,info@hotel-sciatori.com,www.hotel-sciatori.com,no,8,12
+45.339519,7.655377,2,La Rocchetta,VIA VALPERGA 23,Via Valperga, 23,10080,Busano,+39 3357033231,larocchetta.busano@libero.it,,no,7,14
+45.027405,6.857701,3,San Giorgio,VIA VILLAGGIO ALPINO 10,Via Villaggio Alpino, 10,10050,Sauze D'Oulx,+39 0122850162,sangiorgiohotelsauze@gmail.com,www.sangiorgiohotelsauze.com,no,13,25
+45.03243,7.61754,3,B & B Hotel Torino,ORBASSANO 470/2,Orbassano 470/2,,10137,Torino,+39 0113117946,torino@hotelbb.com,https://www.hotel-bb.com,yes,81,162
+44.973321,7.728779,3,Tulip Inn Turin South,VIA GUIDO ROSSA 11,Via Guido Rossa, 11,10024,Moncalieri,+39 0116474404,info@tulipinnturinsouth.com,www.tulipinnturinsouth.com,yes,100,200
+45.177607,7.772959,3,Il Tiglio,REGIONE CRAVERO 30,Regione Cravero, 30,10088,Volpiano,+39 0119882385,lalenza-volpiano@libero.it,www.lalenza.it,yes,10,22
+45.222944,7.307211,3,Villa Margherita,VIA SAN GIUSEPPE 2,Via San Giuseppe, 2,10070,Lemie,+39 012360225,dariosapetti@yahoo.it,,yes,19,30
+45.05884,7.681834,3,Piemontese,VIA BERTHOLLET CLAUDIO LUIGI 21 ,Via Berthollet Claudio Luigi 21 ,,10125,Torino,+39 0116698101,info@hotelpiemontese.it,https://www.hotelpiemontese.it,yes,39,80
+45.02649,6.858932,3,Meuble Sport,CLOTES 16/18,Clotes 16/18,,10050,Sauze D'Oulx,+39 3473729720,davidefaure@outlook.it,www.hotelsportcafe.it,yes,10,24
