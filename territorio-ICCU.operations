@@ -1,0 +1,207 @@
+[
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "denominazione",
+          "columnName": "denominazione",
+          "query": "^biblioteca comunale",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": true,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    }
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column ﻿\"codice-isil to ref:ISIL",
+    "oldColumnName": "﻿\"codice-isil",
+    "newColumnName": "ref:ISIL"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column codice-sbn to ref:SBN",
+    "oldColumnName": "codice-sbn",
+    "newColumnName": "ref:SBN"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column denominazione to name",
+    "oldColumnName": "denominazione",
+    "newColumnName": "name"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column indirizzo to addr",
+    "oldColumnName": "indirizzo",
+    "newColumnName": "addr"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column cap to postcode",
+    "oldColumnName": "cap",
+    "newColumnName": "postcode"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column comune to city",
+    "oldColumnName": "comune",
+    "newColumnName": "city"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column latitudine using expression grel:value.replace(\",\", \".\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "latitudine",
+    "expression": "grel:value.replace(\",\", \".\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column longitudine using expression grel:value.replace(\",\", \".\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "longitudine",
+    "expression": "grel:value.replace(\",\", \".\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column telefono using expression grel:\"+39 \"+value",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "telefono",
+          "columnName": "telefono",
+          "query": "^[+]39",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": true,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "telefono",
+    "expression": "grel:\"+39 \"+value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column url using expression grel:\"http://\"+value",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "url",
+          "expression": "isBlank(value).toString()",
+          "columnName": "url",
+          "invert": false,
+          "selection": [
+            {
+              "v": {
+                "v": "false",
+                "l": "false"
+              }
+            }
+          ],
+          "selectNumber": false,
+          "selectDateTime": false,
+          "selectBoolean": false,
+          "omitBlank": false,
+          "selectBlank": false,
+          "omitError": false,
+          "selectError": false
+        },
+        {
+          "name": "url",
+          "columnName": "url",
+          "query": "^http",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": true,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "url",
+    "expression": "grel:\"http://\"+value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column url to website",
+    "oldColumnName": "url",
+    "newColumnName": "website"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column email to mail1",
+    "oldColumnName": "email",
+    "newColumnName": "mail1"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column fax using expression grel:\"+39 \"+value",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "fax",
+          "expression": "isBlank(value).toString()",
+          "columnName": "fax",
+          "invert": false,
+          "selection": [
+            {
+              "v": {
+                "v": "false",
+                "l": "false"
+              }
+            }
+          ],
+          "selectNumber": false,
+          "selectDateTime": false,
+          "selectBoolean": false,
+          "omitBlank": false,
+          "selectBlank": false,
+          "omitError": false,
+          "selectError": false
+        },
+        {
+          "name": "fax",
+          "columnName": "fax",
+          "query": "^[+]39",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": true,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "fax",
+    "expression": "grel:\"+39 \"+value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]
